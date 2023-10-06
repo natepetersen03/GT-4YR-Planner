@@ -1,4 +1,6 @@
 # Parse the HTML code
+import pandas as pd
+con = msql.connect("localhost", "natepetersen", "Nateyp123!", "4YRPlanner")
 import re
 with open('EveryCourse.html', 'r') as f:
     print("hey")
@@ -36,18 +38,11 @@ with open('EveryCourse.html', 'r') as f:
             crn = l[1]
             course_subject = l[2]
             course_number = l[3]
-            course_info[crn] = {
+            course_info[course_subject + " " + course_number] = {
                 'Course Name': course_name.strip(),
-                'Course Subject': course_subject.strip(),
-                'Course Number': course_number.strip(),
                 'CRN': crn.strip()
             }
             
-                
-
-# Print the course information
-for crn, info in course_info.items():
-    print(f"CRN: {crn}")
-    print(f"Course Name: {info['Course Name']}")
-    print(f"Course Subject: {info['Course Subject']}")
-    print(f"Course Number: {info['Course Number']}")
+df = pd.DataFrame.from_dict(course_info, orient="index")
+df.to_csv("CourseData.csv")
+df = pd.read_csv("CourseData.csv", index_col=0)
