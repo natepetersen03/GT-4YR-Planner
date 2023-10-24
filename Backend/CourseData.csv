@@ -1,41 +1,41 @@
-,Course Name,CRN,Credit Hours,Prerequisites
+Identifier,Course Name,CRN,Credit Hours,Prerequisites
 ACCT 2101,Accounting I: Financial Accounting,92054,3,
-ACCT 2102,Accounting II: Managerial Accounting,80636,3,(ACCT 2101)
+ACCT 2102,Accounting II: Managerial Accounting,80636,3,('ACCT 2101')
 AE 1355,Aerospace Systems Design Competition I,81946,3,
-AE 1601,Introduction to Aerospace Engineering,91960,1,(MATH 1501 or MATH 1511 or MATH 15X1 or MATH 1551)
-AE 2010,AE 2010 Recitation,90611,4,((MATH 2401 or MATH 2411 or MATH 24X1 or MATH 2551 or MATH 2561 or MATH 2X51) and (PHYS 2211 or PHYS 2231) and (CHEM 1310 or CHEM 1211K))
-AE 2011,AR 2011 Recitation,88344,2,(ME 3322)
-AE 2220,AE 2220 Recitation,89983,3,(COE 2001 and (MATH 2403 or MATH 2413 or MATH 24X3 or MATH 2552 or MATH 2562 or MATH 2X52))
-AE 2221,AE 2221 Recitation,89984,1,(COE 2001 or CEE 2040 or (MATH 2552) and (MATH 2562) and (MATH 25X2) and (MATH 2403) and (MATH 2413) and (MATH 24X3))
+AE 1601,Introduction to Aerospace Engineering,91960,1,('MATH 1501' or 'MATH 1511' or MATH 15X1 or 'MATH 1551')
+AE 2010,AE 2010 Recitation,90611,4,(('MATH 2401' or 'MATH 2411' or 'MATH 25X1' or 'MATH 2551' or 'MATH 2561' or 'MATH 2X51') and ('PHYS 2211' or 'PHYS 2231') and ('CHEM 1310' or 'CHEM 1211K'))
+AE 2011,AR 2011 Recitation,88344,2,('ME 3322')
+AE 2220,AE 2220 Recitation,89983,3,('COE 2001' and ('MATH 2403' or 'MATH 2413' or 'MATH 24X3' or 'MATH 2552' or 'MATH 2562' or 'MATH 2X52'))
+AE 2221,AE 2221 Recitation,89984,1,('COE 2001' or 'CEE 2040' or ('MATH 2552') and ('MATH 2562') and (''MATH 25X2'') and ('MATH 2403') and ('MATH 2413') and ('MATH 24X3'))
 AE 2355,Aerospace Systems Design Competition II,81947,3,
-AE 2610,Introduction to Experimental Methods in Aerospace,91121,1,(AE 1601 and (PHYS 2212 or PHYS 2232) and (MATH 2401 or MATH 2411 or MATH 24X1 or MATH 2551 or MATH 2561 or MATH 2X51) and COE 2001)
+AE 2610,Introduction to Experimental Methods in Aerospace,91121,1,('AE 1601' and ('PHYS 2212' or 'PHYS 2232') and ('MATH 2401' or 'MATH 2411' or 'MATH 25X1' or 'MATH 2551' or 'MATH 2561' or 'MATH 2X51') and 'COE 2001')
 AE 2611,Technical Communications for Aerospace Engineers,85073,1,
 AE 2698,Undergraduate Research Assistantship,87174,1,
 AE 2699,Undergraduate Research,84339,1,
-AE 3030,Aerodynamics Recitation,90216,4,(AE 2010)
-AE 3140,Structural Analysis,85652,3,(COE 3001)
-AE 3330,Introduction to Aerospace Vehicle Performance,85653,3,((MATH 2403 or MATH 2413 or MATH 24X3 or MATH 2552 or MATH 2562 or MATH 2X52) and AE 3030)
+AE 3030,Aerodynamics Recitation,90216,4,('AE 2010')
+AE 3140,Structural Analysis,85652,3,('COE 3001')
+AE 3330,Introduction to Aerospace Vehicle Performance,85653,3,(('MATH 2403' or 'MATH 2413' or 'MATH 24X3' or 'MATH 2552' or 'MATH 2562' or 'MATH 2X52') and 'AE 3030')
 AE 3355,Aerospace Systems Design Competition III,81948,3,
-AE 3530,System Dynamics and Vibration,92925,3,(AE 2220 and (MATH 2403 or MATH 2413 or MATH 24X3 or MATH 2552 or MATH 2562 or MATH 2X52))
-AE 3531,Control System Analysis and Design,89171,3,(AE 3530)
-AE 3610,Experiments in Fluid and Solid Mechanics,91123,2,(COE 3001 and AE 2610 and AE 2010)
-AE 4040,Computational Fluid Dynamics,87525,3,(AE 3021)
-AE 4071,Rotorcraft Aeromechanics,89086,3,(AE 3030 and AE 3530)
-AE 4080,Aerothermodynamics,91334,3,(AE 3021)
-AE 4311,Aircraft Design I: Conceptual Design,93137,3,(AE 3330)
-AE 4321,Space System Design I: Conceptual Design,93142,3,(AE 3330)
-AE 4331,Rotorcraft Design I: Conceptual Design,93145,3,(AE 3330)
+AE 3530,System Dynamics and Vibration,92925,3,('AE 2220' and ('MATH 2403' or 'MATH 2413' or 'MATH 24X3' or 'MATH 2552' or 'MATH 2562' or 'MATH 2X52'))
+AE 3531,Control System Analysis and Design,89171,3,('AE 3530')
+AE 3610,Experiments in Fluid and Solid Mechanics,91123,2,('COE 3001' and 'AE 2610' and 'AE 2010')
+AE 4040,Computational Fluid Dynamics,87525,3,('AE 3021')
+AE 4071,Rotorcraft Aeromechanics,89086,3,('AE 3030' and 'AE 3530')
+AE 4080,Aerothermodynamics,91334,3,('AE 3021')
+AE 4311,Aircraft Design I: Conceptual Design,93137,3,('AE 3330')
+AE 4321,Space System Design I: Conceptual Design,93142,3,('AE 3330')
+AE 4331,Rotorcraft Design I: Conceptual Design,93145,3,('AE 3330')
 AE 4355,Aerospace Systems Design Competition IV,81949,3,
-AE 4451,Jet and Rocket Propulsion,81777,3,(AE 3450 or AE 2010)
-AE 4453,Advanced Aircraft Propulsion,92927,3,(AE 4451)
-AE 4531,Aircraft Flight Dynamics,86158,3,(AE 3030 and AE 3531)
-AE 4532,Spacecraft Flight Dynamics,86159,3,(AE 3530 and AE 3330)
-AE 4580,Introduction to Avionics Integration,93602,3,(AE 3521 and ECE 3710)
-AE 4610,Dynamics and Control Laboratory,88397,2,(AE 2610 and AE 2010 and AE 3531)
+AE 4451,Jet and Rocket Propulsion,81777,3,('AE 3450' or 'AE 2010')
+AE 4453,Advanced Aircraft Propulsion,92927,3,('AE 4451')
+AE 4531,Aircraft Flight Dynamics,86158,3,('AE 3030' and 'AE 3531')
+AE 4532,Spacecraft Flight Dynamics,86159,3,('AE 3530' and 'AE 3330')
+AE 4580,Introduction to Avionics Integration,93602,3,('AE 3521' and 'ECE 3710')
+AE 4610,Dynamics and Control Laboratory,88397,2,('AE 2610' and 'AE 2010' and 'AE 3531')
 AE 4698,Undergraduate Research Assistantship,91036,1,
 AE 4699,Undergraduate Research,91035,1,
-AE 4760,Engineering Acoustics and Noise Control,91389,3,(MATH 2403 or MATH 2413 or MATH 24X3 or MATH 2552 or MATH 2562 or MATH 2X52)
-AE 4791,Mechanical Behavior of Composites,80007,3,(COE 3001)
+AE 4760,Engineering Acoustics and Noise Control,91389,3,('MATH 2403' or 'MATH 2413' or 'MATH 24X3' or 'MATH 2552' or 'MATH 2562' or 'MATH 2X52')
+AE 4791,Mechanical Behavior of Composites,80007,3,('COE 3001')
 AE 4803,Robotics &amp; Autonomy,88343,3,
 AE 4806,Space Hardware Lab,93555,3,
 AS 1000,Air Force Leadership-Lab,87539,1,
@@ -54,17 +54,17 @@ ARBC 3420,Introduction to Africa,90231,3,
 ARCH 1016,Foundation Studio 1,88337,4,
 ARCH 1020,Media + Modeling 1,94049,3,
 ARCH 1060,Introduction to Design and the Built Environment,87046,3,
-ARCH 2016,Architecture Design Studio 2,89479,5,(ARCH 1017)
-ARCH 2020,Media + Modeling 2,88523,3,(ARCH 1020)
+ARCH 2016,Architecture Design Studio 2,89479,5,('ARCH 1017')
+ARCH 2020,Media + Modeling 2,88523,3,('ARCH 1020')
 ARCH 2111,History of Architecture I,81598,3,
 ARCH 2211,Construction Technology and Design Integration I,80115,3,
 ARCH 3010,Design Strategies,89545,3,
-ARCH 3016,Architecture Design Studio 4,92405,5,(ARCH 2017)
-ARCH 3231,Environmental Systems and Design Integration I,85265,3,(ARCH 2211)
-ARCH 4016,Architecture Design Studio 6,89500,5,(ARCH 3017)
+ARCH 3016,Architecture Design Studio 4,92405,5,('ARCH 2017')
+ARCH 3231,Environmental Systems and Design Integration I,85265,3,('ARCH 2211')
+ARCH 4016,Architecture Design Studio 6,89500,5,('ARCH 3017')
 ARCH 4129,Form and Narrative: Cross Media Analysis,94317,3,
-ARCH 4140,Modern and Contemporary Architectual Theory and Criticism,94451,3,(ARCH 2112)
-ARCH 4227,Architecture and Ecology,91767,3,(ARCH 3231)
+ARCH 4140,Modern and Contemporary Architectual Theory and Criticism,94451,3,('ARCH 2112')
+ARCH 4227,Architecture and Ecology,91767,3,('ARCH 3231')
 ARCH 4315,Professional Practice of Architecture,85150,3,
 ARCH 4316,Traditions of Architectural Practice,90610,3,
 ARCH 4698,Undergraduate Research Assistantship,94668,1,
@@ -76,67 +76,67 @@ ARCH 4903,Special Problems,92549,1,
 BIOS 1107,BIOS 1107 Recitation,92079,3,
 BIOS 1108,BIOS 1108 Recitation,92746,3,
 BIOS 1207,BIOS 1207 Recitation,89985,3,
-BIOS 2300,Ecology,88351,3,((BIOS 1107 and BIOS 1107L) and (BIOS 1207 and BIOS 1207L) and BIOL 1510 or BIOL 1511)
-BIOS 2301,Ecology Laboratory,89035,1,((BIOS 1107 and BIOS 1107L) and (BIOS 1207 and BIOS 1207L) and BIOL 1510 or BIOL 1511)
+BIOS 2300,Ecology,88351,3,(('BIOS 1107' and 'BIOS 1107L') and ('BIOS 1207' and 'BIOS 1207L') and 'BIOL 1510' or 'BIOL 1511')
+BIOS 2301,Ecology Laboratory,89035,1,(('BIOS 1107' and 'BIOS 1107L') and ('BIOS 1207' and 'BIOS 1207L') and 'BIOL 1510' or 'BIOL 1511')
 BIOS 2500,Introduction to Sport Science,94546,3,
-BIOS 2600,Genetics,93770,3,(BIOL 1510 or BIOL 1511 or  or BIOS 1107 or BIOS 1207)
-BIOS 2601,Genetics Laboratory,92009,1,(BIOL 1510 or BIOL 1511 or  or BIOS 1107 or BIOS 1207)
-BIOS 3380,Microbiology,88355,3,(BIOS 1107 and BIOS 1107L)
-BIOS 3381,Microbiology Lab,89047,1,(CHEM 1212K and (BIOL 1510 or BIOL 1511 or  or BIOS 1107 or BIOS 1207) and (BIOS 1107L or BIOS 1207L))
-BIOS 3450,Cell and Molecular Biology,88356,3,(BIOL 1510 or BIOL 1511)
-BIOS 3451,Cell and Molecular Biology Lab,93523,1,(BIOL 1510 or BIOL 1511)
-BIOS 3600,Evolutionary Biology,92748,3,(BIOL 2344 or BIOL 2354 or BIOL 2335 or BIOL 2337 or BIOS 2600 or BIOS 2610 or BIOS 2300 or BIOS 2310)
-BIOS 3753,Human Anatomy,91399,3,(BIOS 1108 or BIOS 1108L or (BIOS 1208 and BIOS 1208L) and BIOL 1520 or BIOL 1521)
-BIOS 3754,Laboratory in Human Anatomy,93525,1,(BIOS 1108 and BIOS 1108L)
-BIOS 3755,Human Physiology,91100,3,(BIOS 1108 or BIOS 1208)
-BIOS 4015,Cancer Biology and Biotechnology,88362,3,(BIOS 1107 and BIOS 1107L)
-BIOS 4150,Genomics and Applied Bioinformatics,88482,3,((BIOS 2600 or BIOS 2610 or BIOL 2344 or BIOL 2354) and (CS 1321 or CS 1371 or CS 1301 or CS 1315))
-BIOS 4200,Kinesiological Basis of Human Movement,88612,3,(BIOS 1107 or BIOS 1207)
-BIOS 4340,Medical Microbiology,88614,3,(BIOL 3380 or BIOS 3380)
-BIOS 4400,Human Neuroanatomy,88470,3,((BIOL 1520 or BIOL 1521 or (BIOS 1108 and BIOS 1108L) and (BIOS 1208 and BIOS 1208L)) and (CHEM 1211K or CHEM 1310) and NEUR 2001)
-BIOS 4401,Experimental Design and Statistical Methods in Biological Sciences,92754,3,((MATH 1553 or MATH 1X53 or MATH 1554 or MATH 1X54) and (MATH 1555 or MATH 1X55 or MATH 1552 or MATH 1X52) and (BIOL 1510 and BIOL 1511 and (BIOS 1107 or BIOS 1207) and (BIOS 1107L or BIOS 1207L)))
-BIOS 4460,Communicating Biological Research,91462,1,(BIOL 4590 or BIOL 4690 or BIOL 4910 or BIOS 4690 or BIOS 4590 or BIOS 4691)
-BIOS 4464,Developmental Biology,93325,3,(BIOS 2600 or BIOS 2610 or BIOL 2344 or BIOL 2354)
-BIOS 4505,Programming in Biological and Life Sciences,93326,3,((BIOS 1107 or BIOS 1207) and (BIOS 1107L or BIOS 1207L))
-BIOS 4540,Human Motor Control,93328,3,((BIOL 1520 or BIOL 1521 or (BIOS 1108 and BIOS 1108L) and (BIOS 1208 and BIOS 1208L)) and NEUR 2001)
-BIOS 4545,Genetics of Complex Human Traits and Diseases,88890,3,(BIOL 2344 or BIOL 2354 or BIOS 2600 or BIOS 2610)
-BIOS 4560,RNA Biology and Biotechnology,93331,3,(BIOL 1510 or BIOL 1511 or (BIOS 1107 and BIOS 1107L) and (BIOS 1207 or BIOS 1207L))
-BIOS 4590,Research Project Lab,88937,3,(BIOL 1510 or BIOL 1511 or (BIOS 1107 and BIOS 1107L) and (BIOS 1207 and BIOS 1207L))
-BIOS 4651,Bioethics,88891,3,((BIOS 1107 and BIOS 1107L) and (BIOS 1207 and BIOS 1207L) and BIOL 1510 or BIOL 1511)
-BIOS 4690,Independent Research Project,88892,3,(APPH 2698 or APPH 2699 or APPH 4698 or APPH 4699 or BIOL 2698 or BIOL 2699 or BIOL 4698 or BIOL 4699 or BIOS 2699 or BIOS 2698 or BIOS 4699 or BIOS 4698)
+BIOS 2600,Genetics,93770,3,('BIOL 1510' or 'BIOL 1511' or  or 'BIOS 1107' or 'BIOS 1207')
+BIOS 2601,Genetics Laboratory,92009,1,('BIOL 1510' or 'BIOL 1511' or  or 'BIOS 1107' or 'BIOS 1207')
+BIOS 3380,Microbiology,88355,3,('BIOS 1107' and 'BIOS 1107L')
+BIOS 3381,Microbiology Lab,89047,1,('CHEM 1212K' and ('BIOL 1510' or 'BIOL 1511' or  or 'BIOS 1107' or 'BIOS 1207') and ('BIOS 1107L' or 'BIOS 1207L'))
+BIOS 3450,Cell and Molecular Biology,88356,3,('BIOL 1510' or 'BIOL 1511')
+BIOS 3451,Cell and Molecular Biology Lab,93523,1,('BIOL 1510' or 'BIOL 1511')
+BIOS 3600,Evolutionary Biology,92748,3,('BIOL 2344' or 'BIOL 2354' or 'BIOL 2335' or 'BIOL 2337' or 'BIOS 2600' or 'BIOS 2610' or 'BIOS 2300' or 'BIOS 2310')
+BIOS 3753,Human Anatomy,91399,3,('BIOS 1108' or 'BIOS 1108L' or ('BIOS 1208' and 'BIOS 1208L') and 'BIOL 1520' or 'BIOL 1521')
+BIOS 3754,Laboratory in Human Anatomy,93525,1,('BIOS 1108' and 'BIOS 1108L')
+BIOS 3755,Human Physiology,91100,3,('BIOS 1108' or 'BIOS 1208')
+BIOS 4015,Cancer Biology and Biotechnology,88362,3,('BIOS 1107' and 'BIOS 1107L')
+BIOS 4150,Genomics and Applied Bioinformatics,88482,3,(('BIOS 2600' or 'BIOS 2610' or 'BIOL 2344' or 'BIOL 2354') and ('CS 1321' or 'CS 1371' or 'CS 1301' or 'CS 1315'))
+BIOS 4200,Kinesiological Basis of Human Movement,88612,3,('BIOS 1107' or 'BIOS 1207')
+BIOS 4340,Medical Microbiology,88614,3,('BIOL 3380' or 'BIOS 3380')
+BIOS 4400,Human Neuroanatomy,88470,3,(('BIOL 1520' or 'BIOL 1521' or ('BIOS 1108' and 'BIOS 1108L') and ('BIOS 1208' and 'BIOS 1208L')) and ('CHEM 1211K' or 'CHEM 1310') and 'NEUR 2001')
+BIOS 4401,Experimental Design and Statistical Methods in Biological Sciences,92754,3,(('MATH 1553' or MATH 1X53 or 'MATH 1554' or MATH 1X54) and ('MATH 1555' or 'MATH 1X55' or 'MATH 1552' or MATH 1X52) and ('BIOL 1510' and 'BIOL 1511' and ('BIOS 1107' or 'BIOS 1207') and ('BIOS 1107L' or 'BIOS 1207L')))
+BIOS 4460,Communicating Biological Research,91462,1,('BIOL 4590' or 'BIOL 4690' or 'BIOL 4910' or 'BIOS 4690' or 'BIOS 4590' or 'BIOS 4691')
+BIOS 4464,Developmental Biology,93325,3,('BIOS 2600' or 'BIOS 2610' or 'BIOL 2344' or 'BIOL 2354')
+BIOS 4505,Programming in Biological and Life Sciences,93326,3,(('BIOS 1107' or 'BIOS 1207') and ('BIOS 1107L' or 'BIOS 1207L'))
+BIOS 4540,Human Motor Control,93328,3,(('BIOL 1520' or 'BIOL 1521' or ('BIOS 1108' and 'BIOS 1108L') and ('BIOS 1208' and 'BIOS 1208L')) and 'NEUR 2001')
+BIOS 4545,Genetics of Complex Human Traits and Diseases,88890,3,('BIOL 2344' or 'BIOL 2354' or 'BIOS 2600' or 'BIOS 2610')
+BIOS 4560,RNA Biology and Biotechnology,93331,3,('BIOL 1510' or 'BIOL 1511' or ('BIOS 1107' and 'BIOS 1107L') and ('BIOS 1207' or 'BIOS 1207L'))
+BIOS 4590,Research Project Lab,88937,3,('BIOL 1510' or 'BIOL 1511' or ('BIOS 1107' and 'BIOS 1107L') and ('BIOS 1207' and 'BIOS 1207L'))
+BIOS 4651,Bioethics,88891,3,(('BIOS 1107' and 'BIOS 1107L') and ('BIOS 1207' and 'BIOS 1207L') and 'BIOL 1510' or 'BIOL 1511')
+BIOS 4690,Independent Research Project,88892,3,('APPH 2698' or 'APPH 2699' or 'APPH 4698' or 'APPH 4699' or 'BIOL 2698' or 'BIOL 2699' or 'BIOL 4698' or 'BIOL 4699' or 'BIOS 2699' or 'BIOS 2698' or 'BIOS 4699' or 'BIOS 4698')
 BIOS 4694,Biology Intern Assistantship,88893,1,
 BIOS 4695,Biology Internship,88894,1,
 BIOS 4696,Biology Undergraduate Teaching Assistantship,89110,3,
-BIOS 4697,Biology Undergraduate Teaching Experience,89108,3,(CETL 2000)
+BIOS 4697,Biology Undergraduate Teaching Experience,89108,3,('CETL 2000')
 BIOS 4698,Research Assistantship,88855,1,
 BIOS 4699,Undergraduate Research,88791,1,
-BIOS 4740,Biologically-Inspired Design,88613,3,(BIOS 1108 and BIOS 1108L)
-BIOS 4746,Signaling Molecules,93338,3,(CHEM 2311 or  or BIOS 1107 or BIOS 1207)
+BIOS 4740,Biologically-Inspired Design,88613,3,('BIOS 1108' and 'BIOS 1108L')
+BIOS 4746,Signaling Molecules,93338,3,('CHEM 2311' or  or 'BIOS 1107' or 'BIOS 1207')
 BIOS 4801,Biology of Amphibians,93675,1,
 BIOS 4803,Muscle Structure &amp; Plasticity,94430,3,
 BMED 1000,Introduction to Biomedical Engineering,90699,1,
-BMED 2110,Conservation Principles in Biomedical Engineering,88642,3,((CHEM 1211K or CHEM 1310) and (MATH 1552 or MATH 15X2) and BMED 1000)
-BMED 2250,Problems in Biomedical Engineering,89277,3,(BMED 2210 or BMED 2110)
-BMED 2310,Intro to Biomedical Engineering Design,88561,3,((BMED 2210 or BMED 2110) and BMED 2250 and (PHYS 2211 or PHYS 2231))
-BMED 2400,Introduction to Bioengineering Statistics,88660,3,((MATH 1501 or MATH 1511 or MATH 1552) and CS 1371)
-BMED 3100,Systems Physiology,93954,3,(CHEM 1315 or CHEM 2311)
-BMED 3110,Quantitative Engineering Physiology Laboratory I,85381,2,(BMED 3100 and (BMED 2400 or CEE 3770 or ISYE 3770 or MATH 3770) and (BMED 3400 or BMED 3410) and CS 1371)
-BMED 3310,Biotransport,88658,3,((BMED 2210 or BMED 2110) and (MATH 2401 or MATH 2411 or MATH 24X1 or MATH 2551 or MATH 2561 or MATH 2X51) and (MATH 2403 or MATH 2413 or MATH 24X3 or MATH 2552 or MATH 2562 or MATH 2X52) and CS 1371 and (PHYS 2211 or PHYS 2231))
-BMED 3410,Introduction to Biomechanics,94156,3,(COE 2001 and (MATH 2551 or MATH 2X51 or MATH 2401 or MATH 24X1))
-BMED 3500,Biomedical Sensors and Instrumentation,93457,3,((BMED 2300 or BMED 2310) and ECE 2025 and ECE 3741 and (CEE 3770 or ISYE 3770 or MATH 3770 or BMED 2400))
-BMED 3520,Biomedical Systems and Modeling,88654,3,(BMED 3100 and (BMED 2210 or BMED 2110) and (MATH 2403 or MATH 2413 or MATH 24X3 or MATH 2552 or MATH 2562 or MATH 2X52) and CS 1371)
-BMED 3600,Physiology of Cellular and Molecular Systems,89148,3,(BMED 3100)
-BMED 3610,Quantitative Engineering Physiology Laboratory II,84348,2,(BMED 2310 and (BMED 2400 or ISYE 3770 or CEE 3770) and BMED 3600)
-BMED 4000,The Art of Telling Your Story,93489,1,(BMED 1000 and BMED 2310)
-BMED 4602,Capstone Design,88688,3,(BMED 2310 and BMED 3110)
+BMED 2110,Conservation Principles in Biomedical Engineering,88642,3,(('CHEM 1211K' or 'CHEM 1310') and ('MATH 1552' or MATH 15X2) and 'BMED 1000')
+BMED 2250,Problems in Biomedical Engineering,89277,3,('BMED 2210' or 'BMED 2110')
+BMED 2310,Intro to Biomedical Engineering Design,88561,3,(('BMED 2210' or 'BMED 2110') and 'BMED 2250' and ('PHYS 2211' or 'PHYS 2231'))
+BMED 2400,Introduction to Bioengineering Statistics,88660,3,(('MATH 1501' or 'MATH 1511' or 'MATH 1552') and 'CS 1371')
+BMED 3100,Systems Physiology,93954,3,('CHEM 1315' or 'CHEM 2311')
+BMED 3110,Quantitative Engineering Physiology Laboratory I,85381,2,('BMED 3100' and ('BMED 2400' or 'CEE 3770' or 'ISYE 3770' or 'MATH 3770') and ('BMED 3400' or 'BMED 3410') and 'CS 1371')
+BMED 3310,Biotransport,88658,3,(('BMED 2210' or 'BMED 2110') and ('MATH 2401' or 'MATH 2411' or 'MATH 25X1' or 'MATH 2551' or 'MATH 2561' or 'MATH 2X51') and ('MATH 2403' or 'MATH 2413' or 'MATH 24X3' or 'MATH 2552' or 'MATH 2562' or 'MATH 2X52') and 'CS 1371' and ('PHYS 2211' or 'PHYS 2231'))
+BMED 3410,Introduction to Biomechanics,94156,3,('COE 2001' and ('MATH 2551' or 'MATH 2X51' or 'MATH 2401' or 'MATH 25X1'))
+BMED 3500,Biomedical Sensors and Instrumentation,93457,3,(('BMED 2300' or 'BMED 2310') and 'ECE 2025' and 'ECE 3741' and ('CEE 3770' or 'ISYE 3770' or 'MATH 3770' or 'BMED 2400'))
+BMED 3520,Biomedical Systems and Modeling,88654,3,('BMED 3100' and ('BMED 2210' or 'BMED 2110') and ('MATH 2403' or 'MATH 2413' or 'MATH 24X3' or 'MATH 2552' or 'MATH 2562' or 'MATH 2X52') and 'CS 1371')
+BMED 3600,Physiology of Cellular and Molecular Systems,89148,3,('BMED 3100')
+BMED 3610,Quantitative Engineering Physiology Laboratory II,84348,2,('BMED 2310' and ('BMED 2400' or 'ISYE 3770' or 'CEE 3770') and 'BMED 3600')
+BMED 4000,The Art of Telling Your Story,93489,1,('BMED 1000' and 'BMED 2310')
+BMED 4602,Capstone Design,88688,3,('BMED 2310' and 'BMED 3110')
 BMED 4698,Undergraduate Research Assistantship,83618,1,
 BMED 4699,Undergraduate Research,81856,1,
-BMED 4723,Interdisciplinary Capstone Design,92089,3,(BMED 2310 or BMED 3110)
-BMED 4740,Biologically Inspired Design,87551,3,(BIOL 1520 or BIOL 3600 or BMED 3100 or BMED 4751 or PHYS 2211)
-BMED 4751,Introduction to Biomaterials,81975,3,(MSE 2001)
-BMED 4781,Biomedical Instrumentation,82907,3,(ECE 3050 or ECE 3710)
-BMED 4783,Introduction to Medical Image Processing,90405,3,(ECE 2025 or (MATH 3770 or ISYE 3770 or CEE 3770) and BMED 2400)
-BMED 4784,Engineering Electrophysiology,88975,3,(ECE 3040 or ECE 3510)
+BMED 4723,Interdisciplinary Capstone Design,92089,3,('BMED 2310' or 'BMED 3110')
+BMED 4740,Biologically Inspired Design,87551,3,('BIOL 1520' or 'BIOL 3600' or 'BMED 3100' or 'BMED 4751' or 'PHYS 2211')
+BMED 4751,Introduction to Biomaterials,81975,3,('MSE 2001')
+BMED 4781,Biomedical Instrumentation,82907,3,('ECE 3050' or 'ECE 3710')
+BMED 4783,Introduction to Medical Image Processing,90405,3,('ECE 2025' or ('MATH 3770' or 'ISYE 3770' or 'CEE 3770') and 'BMED 2400')
+BMED 4784,Engineering Electrophysiology,88975,3,('ECE 3040' or 'ECE 3510')
 BMED 4803,Reg&amp;Qual Issues Med Device Dev,89188,3,
 BMED 4813,Optical Microscopy,93495,3,
 BMED 4823,Clin Observ Design Exp,83442,3,
@@ -145,78 +145,78 @@ BMED 4893,Mechatronics,90733,3,
 BC 2610,Construction Technology I,90184,3,
 BC 2631,Introduction to Construction Management,90155,2,
 BC 2636,Construction Safety,93478,3,
-BC 3600,Construction Cost Management,91474,3,(BC 2634)
-BC 3630,Project Management I,93830,3,(BC 2631 and BC 2632 and BC 2634)
-BC 3640,Construction Mechanics,91386,3,(PHYS 2211 and BC 2620)
-BC 4130,Intg Design Constr &amp; Dev,85187,3,(BC 4050)
-BC 4600,Project Management II,93720,3,(BC 3630)
-BC 4630,Senior Capstone Project,93390,3,(BC 4130 and BC 4710 and BC 4680)
-BC 4680,Professional Internship,91475,3,(BC 3630)
+BC 3600,Construction Cost Management,91474,3,('BC 2634')
+BC 3630,Project Management I,93830,3,('BC 2631' and 'BC 2632' and 'BC 2634')
+BC 3640,Construction Mechanics,91386,3,('PHYS 2211' and 'BC 2620')
+BC 4130,Intg Design Constr &amp; Dev,85187,3,('BC 4050')
+BC 4600,Project Management II,93720,3,('BC 3630')
+BC 4630,Senior Capstone Project,93390,3,('BC 4130' and 'BC 4710' and 'BC 4680')
+BC 4680,Professional Internship,91475,3,('BC 3630')
 BC 4698,Undergraduate Research Assistantship,94319,1,
 BC 4710,Green Construction,91635,3,
 BC 4735,Real Estate Development and Construction,93816,3,
 CETL 2000,Undergraduate Teaching Assistant Preparation,93090,1,
 CETL 2001,Fundamentals of Peer Tutoring,94466,1,
-CHBE 2100,Chemical Process Principles,80523,3,(CS 1371 and (CHEM 1310 or CHEM 1212K) and (MATH 1502 or MATH 1512 or  or MATH 15X2 or MATH 1X52 or MATH 1552) and (MATH 1552 or MATH 1553 or MATH 1554 or MATH 1564))
-CHBE 2140,Chemical Engineering Thermodynamics,93196,4,(CHBE 2100 and MATH 2551 and (BIOL 1510 or  or BIOS 1107 or BIOS 1207) and (BIOS 1107L or BIOS 1207L))
+CHBE 2100,Chemical Process Principles,80523,3,('CS 1371' and ('CHEM 1310' or 'CHEM 1212K') and ('MATH 1502' or 'MATH 1512' or  or MATH 15X2 or MATH 1X52 or ''MATH 1552'') and (''MATH 1552'' or 'MATH 1553' or 'MATH 1554' or 'MATH 1564'))
+CHBE 2140,Chemical Engineering Thermodynamics,93196,4,('CHBE 2100' and 'MATH 2551' and ('BIOL 1510' or  or 'BIOS 1107' or 'BIOS 1207') and ('BIOS 1107L' or 'BIOS 1207L'))
 CHBE 2698,Undergraduate Research Assistantship,81697,1,
 CHBE 2699,Undergraduate Research,84165,1,
 CHBE 2801,Inside ChBE Recitation,89986,1,
-CHBE 3130,Chemical Engineering Thermodynamics II,84151,3,(CHBE 2120 and (CHBE 2130 or CHBE 2110) and (MATH 2401 or MATH 2411 or MATH 24X1 or MATH 2551 or MATH 2561 or MATH 2X51) and (MATH 2403 or MATH 2413 or MATH 24X3 or MATH 2552 or MATH 2562 or MATH 2X52))
-CHBE 3200,Transport Process I,91420,3,((CHBE 2110 or CHBE 2130) and CHBE 2120 and (MATH 2401 or MATH 2411 or MATH 24X1 or MATH 2551 or MATH 2561 or MATH 2X51) and (MATH 2403 or MATH 2413 or MATH 24X3 or MATH 2552 or MATH 2562 or MATH 2X52) and PHYS 2211)
-CHBE 3205,Fluid Mechanics,93197,2,(CHBE 2100 and (MATH 2551 or MATH 2561 or MATH 2X51) and PHYS 2211 and (MATH 2552 or MATH 2562 or MATH 2X52))
-CHBE 3210,Transport Processes II,86326,3,((CHBE 3110 or CHBE 3130) and CHBE 3200)
-CHBE 3225,Separations Processes,81037,3,((CHBE 3130 or CHBE 2140) and CHBE 3200 and CHBE 3210)
-CHBE 4030,Chemical Engineering of Energy Systems,92984,3,(CHBE 2130 and CHBE 2120)
-CHBE 4200,Transport Phenomena/Unit Operations Laboratory,84303,3,((CHBE 3210 or CHBE 3215) and CHBE 3225 and (CHBE 4300 or CHBE 4320))
-CHBE 4210,Transport Phenomena / Bioprocess Unit Operations,88319,3,((CHBE 3210 or CHBE 3215) and CHBE 3225 and (CHBE 4300 or CHBE 4320))
-CHBE 4300,Kinetics and Reactor Design,80544,3,(CHBE 3130 and CHBE 3200 and CHBE 3210)
-CHBE 4310,Bioprocess Engineering,81740,3,((CHEM 3511 or CHEM 4511 or CHEM 3521) and (CHBE 3210 or CHBE 3215) and CHBE 3225 and (CHBE 4300 or CHBE 4320))
-CHBE 4411,Process Dynamics and Control,85634,3,((CHBE 3210 or CHBE 3215) and CHBE 3225 and (CHBE 4300 or CHBE 4320))
-CHBE 4412,Process Dynamics and Control Laboratory,85640,1,((CHBE 3210 or CHBE 3215) and CHBE 3225 and (CHBE 4300 or CHBE 4320) and CHBE 4411)
-CHBE 4510,Process and Product Design And Economics,85875,2,((CHBE 3210 or CHBE 3215) and CHBE 3225 and (CHBE 4300 or CHBE 4320))
-CHBE 4515,Chemical Process Safety,81064,1,((CHBE 3210 or CHBE 3215) and CHBE 3225 and (CHBE 4300 or CHBE 4320))
-CHBE 4535,"Chemical Product Design, Engineering and Optimization",82509,3,((CHEM 2312 or CHEM 2313) and CHBE 3120 or MSE 2001)
+CHBE 3130,Chemical Engineering Thermodynamics II,84151,3,('CHBE 2120' and ('CHBE 2130' or 'CHBE 2110') and ('MATH 2401' or 'MATH 2411' or 'MATH 25X1' or 'MATH 2551' or 'MATH 2561' or 'MATH 2X51') and ('MATH 2403' or 'MATH 2413' or 'MATH 24X3' or 'MATH 2552' or 'MATH 2562' or 'MATH 2X52'))
+CHBE 3200,Transport Process I,91420,3,(('CHBE 2110' or 'CHBE 2130') and 'CHBE 2120' and ('MATH 2401' or 'MATH 2411' or 'MATH 25X1' or 'MATH 2551' or 'MATH 2561' or 'MATH 2X51') and ('MATH 2403' or 'MATH 2413' or 'MATH 24X3' or 'MATH 2552' or 'MATH 2562' or 'MATH 2X52') and 'PHYS 2211')
+CHBE 3205,Fluid Mechanics,93197,2,('CHBE 2100' and ('MATH 2551' or 'MATH 2561' or 'MATH 2X51') and 'PHYS 2211' and ('MATH 2552' or 'MATH 2562' or 'MATH 2X52'))
+CHBE 3210,Transport Processes II,86326,3,(('CHBE 3110' or 'CHBE 3130') and 'CHBE 3200')
+CHBE 3225,Separations Processes,81037,3,(('CHBE 3130' or 'CHBE 2140') and 'CHBE 3200' and 'CHBE 3210')
+CHBE 4030,Chemical Engineering of Energy Systems,92984,3,('CHBE 2130' and 'CHBE 2120')
+CHBE 4200,Transport Phenomena/Unit Operations Laboratory,84303,3,(('CHBE 3210' or 'CHBE 3215') and 'CHBE 3225' and ('CHBE 4300' or 'CHBE 4320'))
+CHBE 4210,Transport Phenomena / Bioprocess Unit Operations,88319,3,(('CHBE 3210' or 'CHBE 3215') and 'CHBE 3225' and ('CHBE 4300' or 'CHBE 4320'))
+CHBE 4300,Kinetics and Reactor Design,80544,3,('CHBE 3130' and 'CHBE 3200' and 'CHBE 3210')
+CHBE 4310,Bioprocess Engineering,81740,3,(('CHEM 3511' or 'CHEM 4511' or 'CHEM 3521') and ('CHBE 3210' or 'CHBE 3215') and 'CHBE 3225' and ('CHBE 4300' or 'CHBE 4320'))
+CHBE 4411,Process Dynamics and Control,85634,3,(('CHBE 3210' or 'CHBE 3215') and 'CHBE 3225' and ('CHBE 4300' or 'CHBE 4320'))
+CHBE 4412,Process Dynamics and Control Laboratory,85640,1,(('CHBE 3210' or 'CHBE 3215') and 'CHBE 3225' and ('CHBE 4300' or 'CHBE 4320') and 'CHBE 4411')
+CHBE 4510,Process and Product Design And Economics,85875,2,(('CHBE 3210' or 'CHBE 3215') and 'CHBE 3225' and ('CHBE 4300' or 'CHBE 4320'))
+CHBE 4515,Chemical Process Safety,81064,1,(('CHBE 3210' or 'CHBE 3215') and 'CHBE 3225' and ('CHBE 4300' or 'CHBE 4320'))
+CHBE 4535,"Chemical Product Design, Engineering and Optimization",82509,3,(('CHEM 2312' or 'CHEM 2313') and 'CHBE 3120' or 'MSE 2001')
 CHBE 4698,Undergraduate Research Assistantship,84405,1,
 CHBE 4699,Undergraduate Research,91542,1,
-CHBE 4720,Pulp and Paper Manufacturing,85841,3,(CHBE 3130 or ME 3322)
-CHBE 4745,Data Analytics for Chemical Engineers,88315,3,(CHBE 2120)
-CHBE 4759,Electrochemical Energy Storage and Conversion,88505,3,(MSE 2001)
-CHBE 4775,Polymer Science and Engineering I: Formation and Properties,81066,3,((CHEM 2312 or CHEM 1315) and (CHEM 3411 or MSE 3001 or CHBE 2130 or ME 3322))
-CHBE 4791,Mechanical Behavior of Composites,88571,3,(ME 3201)
+CHBE 4720,Pulp and Paper Manufacturing,85841,3,('CHBE 3130' or 'ME 3322')
+CHBE 4745,Data Analytics for Chemical Engineers,88315,3,('CHBE 2120')
+CHBE 4759,Electrochemical Energy Storage and Conversion,88505,3,('MSE 2001')
+CHBE 4775,Polymer Science and Engineering I: Formation and Properties,81066,3,(('CHEM 2312' or 'CHEM 1315') and ('CHEM 3411' or 'MSE 3001' or 'CHBE 2130' or 'ME 3322'))
+CHBE 4791,Mechanical Behavior of Composites,88571,3,('ME 3201')
 CHEM 1211,Chemical Principles I,93372,0,
 CHEM 1212,Chemical Principles II,93368,0,
 CHEM 1310,Principles of General Chemistry for Engineers,83427,4,
-CHEM 1315,Survey of Organic Chemistry for Engineers,91620,3,(CHEM 1211K or CHEM 1310)
-CHEM 2216,Quantitative Chemical Analysis Recitation,91075,2,(CHEM 1212K)
-CHEM 2311,Organic Chemistry I,91101,3,(CHEM 1311 or CHEM 1212K)
-CHEM 2312,Organic Chemistry II,90825,3,(CHEM 2311)
-CHEM 2380,Synthesis Laboratory I,90272,2,((CHEM 1212K or CHEM 1312 or CHEM 1313 or CHEM 2211) and CHEM 2311 and (CHEM 2312 or CHEM 2313))
+CHEM 1315,Survey of Organic Chemistry for Engineers,91620,3,('CHEM 1211K' or 'CHEM 1310')
+CHEM 2216,Quantitative Chemical Analysis Recitation,91075,2,('CHEM 1212K')
+CHEM 2311,Organic Chemistry I,91101,3,('CHEM 1311' or 'CHEM 1212K')
+CHEM 2312,Organic Chemistry II,90825,3,('CHEM 2311')
+CHEM 2380,Synthesis Laboratory I,90272,2,(('CHEM 1212K' or 'CHEM 1312' or 'CHEM 1313' or 'CHEM 2211') and 'CHEM 2311' and ('CHEM 2312' or 'CHEM 2313'))
 CHEM 2601,Professional Skills for Chemists and Biochemists,87884,1,
 CHEM 2695,Undergraduate Internship (Undergraduate Internship for Academic Credit),83818,1,
 CHEM 2698,Undergraduate Research Assistantship,85334,1,
 CHEM 2699,Undergraduate Research,90883,1,
 CHEM 2801,Special Topics,83860,1,
-CHEM 3111,Inorganic Chemistry,80278,3,((CHEM 2312 or CHEM 2313) and CHEM 1212K)
-CHEM 3216,Analytical Chemistry Laboratory,92810,3,(CHEM 2211 or CHEM 2214 or (CHEM 2216L and CHEM 2216))
-CHEM 3371,Organic Chemistry Laboratory,89433,2,(CHEM 2380)
-CHEM 3380,Synthesis Laboratory II,87742,3,(CHEM 2380 and CHEM 3111)
-CHEM 3411,Physical Chemistry I,80279,3,(CHEM 1311 or CHEM 1212K)
-CHEM 3511,Survey of Biochemistry,81154,3,(CHEM 1315 or CHEM 2312 or CHEM 2313)
-CHEM 3521,Biochemistry I,93685,3,(CHEM 2311)
-CHEM 3522,Biochemistry II,93528,3,(CHEM 2312 or CHEM 2313)
-CHEM 4311,Advanced Organic Chemistry,81155,3,(CHEM 2312 or CHEM 2313)
-CHEM 4341,Applied Spectroscopy,81174,3,(CHEM 2312 or CHEM 2313)
-CHEM 4581,Biochemistry Laboratory I,87734,3,(CHEM 3211 and CHEM 4511)
-CHEM 4582,Biochemistry Laboratory II,92799,3,(CHEM 4512 and CHEM 4581)
-CHEM 4601,Chemistry Seminar,93995,2,(CHEM 4512)
+CHEM 3111,Inorganic Chemistry,80278,3,(('CHEM 2312' or 'CHEM 2313') and 'CHEM 1212K')
+CHEM 3216,Analytical Chemistry Laboratory,92810,3,('CHEM 2211' or 'CHEM 2214' or (''CHEM 2216''L and ''CHEM 2216''))
+CHEM 3371,Organic Chemistry Laboratory,89433,2,('CHEM 2380')
+CHEM 3380,Synthesis Laboratory II,87742,3,('CHEM 2380' and 'CHEM 3111')
+CHEM 3411,Physical Chemistry I,80279,3,('CHEM 1311' or 'CHEM 1212K')
+CHEM 3511,Survey of Biochemistry,81154,3,('CHEM 1315' or 'CHEM 2312' or 'CHEM 2313')
+CHEM 3521,Biochemistry I,93685,3,('CHEM 2311')
+CHEM 3522,Biochemistry II,93528,3,('CHEM 2312' or 'CHEM 2313')
+CHEM 4311,Advanced Organic Chemistry,81155,3,('CHEM 2312' or 'CHEM 2313')
+CHEM 4341,Applied Spectroscopy,81174,3,('CHEM 2312' or 'CHEM 2313')
+CHEM 4581,Biochemistry Laboratory I,87734,3,('CHEM 3211' and 'CHEM 4511')
+CHEM 4582,Biochemistry Laboratory II,92799,3,('CHEM 4512' and 'CHEM 4581')
+CHEM 4601,Chemistry Seminar,93995,2,('CHEM 4512')
 CHEM 4694,Intern Assistantship (Undergraduate Internship for Pay),83819,1,
 CHEM 4695,Undergraduate Internship (Undergraduate Internship for Academic Credit),87434,1,
-CHEM 4696,Teaching Assistantship,92437,3,(CETL 2000)
+CHEM 4696,Teaching Assistantship,92437,3,('CETL 2000')
 CHEM 4698,Undergraduate Research Assistantship,87003,1,
 CHEM 4699,Undergraduate Research,84353,1,
-CHEM 4759,Electrochemical Energy Storage and Conversion,93006,3,(CHEM 1212K)
-CHEM 4785,Nanoscale Science and Technology,92727,3,(CHEM 1212K)
+CHEM 4759,Electrochemical Energy Storage and Conversion,93006,3,('CHEM 1212K')
+CHEM 4785,Nanoscale Science and Technology,92727,3,('CHEM 1212K')
 CHEM 4801,Special Topics,91104,1,
 CHEM 4803,Special Topics,91182,3,
 CHIN 1001,Elementary Chinese I,90731,4,
@@ -236,120 +236,120 @@ CP 4510,Fundamentals of Geographic Information Systems,80533,3,
 CP 4610,Introduction to Real Estate Investment,80534,3,
 CP 4813,ST: Transport &amp; GIS,93998,3,
 CEE 1770,Introduction to Engineering Graphics and Visualization,86168,3,
-CEE 2040,Dynamics,81913,2,(COE 2001)
-CEE 2300,Environmental Engineering Principles,83166,3,((CHEM 1310 or CHEM 1211K or CHEM 12X1) and (PHYS 2211 or PHYS 2231) and (MATH 1502 or MATH 1512 or MATH 15X2 or MATH 1552 or MATH 1X52))
+CEE 2040,Dynamics,81913,2,('COE 2001')
+CEE 2300,Environmental Engineering Principles,83166,3,(('CHEM 1310' or 'CHEM 1211K' or CHEM 12X1) and ('PHYS 2211' or 'PHYS 2231') and ('MATH 1502' or 'MATH 1512' or MATH 15X2 or 'MATH 1552' or MATH 1X52))
 CEE 2698,Undergraduate Research Assistantship,88189,1,
 CEE 2699,Undergraduate Research,81377,1,
 CEE 2812,Special Topics,91391,2,
-CEE 3000,Civil Engineering Systems,85630,3,(MATH 1501 or MATH 1511 or MATH 15X1 or MATH 1551)
+CEE 3000,Civil Engineering Systems,85630,3,('MATH 1501' or 'MATH 1511' or MATH 15X1 or 'MATH 1551')
 CEE 3010,Geomatics,86173,3,
-CEE 3020,Civil Engineering Materials,86180,3,(COE 3001)
-CEE 3040,Fluid Mechanics,81583,3,((CEE 2040 or ME 2202) and (MATH 2401 or MATH 2411 or MATH 24X1 or MATH 2551 or MATH 2561 or MATH 2X51))
-CEE 3051,Introduction to Structural Engineering,85883,3,(COE 3001)
-CEE 3055,Structural Analysis,81029,3,(COE 3001)
-CEE 3340,Environmental Engineering Laboratory,86183,3,(CEE 2300 and (BIOL 1510 or BIOL 1511 or (BIOS 1107 and BIOS 1107L)))
-CEE 3770,Statistics and Applications,86184,3,(MATH 2401 or MATH 2411 or MATH 24X1 or MATH 2551 or MATH 2561 or MATH 2X51)
+CEE 3020,Civil Engineering Materials,86180,3,('COE 3001')
+CEE 3040,Fluid Mechanics,81583,3,(('CEE 2040' or 'ME 2202') and ('MATH 2401' or 'MATH 2411' or 'MATH 25X1' or 'MATH 2551' or 'MATH 2561' or 'MATH 2X51'))
+CEE 3051,Introduction to Structural Engineering,85883,3,('COE 3001')
+CEE 3055,Structural Analysis,81029,3,('COE 3001')
+CEE 3340,Environmental Engineering Laboratory,86183,3,('CEE 2300' and ('BIOL 1510' or 'BIOL 1511' or ('BIOS 1107' and 'BIOS 1107L')))
+CEE 3770,Statistics and Applications,86184,3,('MATH 2401' or 'MATH 2411' or 'MATH 25X1' or 'MATH 2551' or 'MATH 2561' or 'MATH 2X51')
 CEE 4000,Global Engineering Leadership,86230,3,
 CEE 4090,Capstone Design,84245,3,
 CEE 4100,Construction Engineering and Management,92030,3,
-CEE 4150,Construction Management &amp; Megaprojects,90391,3,(CEE 3770 or ISYE 3770 or MATH 3670)
-CEE 4200,Hydraulic Engineering,93756,3,(CEE 3040)
-CEE 4210,Hydrology,86185,3,(CEE 3040)
-CEE 4211,Water Resources Systems,90186,3,(CEE 3040 and CEE 3770 and CS 1371)
-CEE 4300,Environmental Engineering Systems,86186,3,((CHEM 1310 or CHEM 1211K or CHEM 12X1) and (PHYS 2211 or PHYS 2231) and (MATH 1502 or MATH 1512 or MATH 15X2 or MATH 1552 or MATH 1X52))
-CEE 4320,Hazardous Substance Engineering,93648,3,(CEE 2300 and (CEE 3040 or ME 3340))
-CEE 4330,Air Pollution Engineering,87156,3,((CHEM 1310 or CHEM 1211K or CHEM 12X1) and (PHYS 2211 or PHYS 2231))
-CEE 4405,Introduction to Geotechnical Engineering,86191,3,(COE 3001 and CEE 3040)
-CEE 4510,Structural Steel Design,86192,3,(CEE 3055)
-CEE 4520,Reinforced Concrete Design,80217,3,(CEE 3055)
-CEE 4552,Introduction to Finite Element Methods,93438,3,(CEE 3055 and CS 1371)
-CEE 4560,Origami Engineering,89111,3,(MATH 1552 and MATH 1553)
-CEE 4600,"Transportation Planning, Operations, and Design",85644,3,((CEE 1770 or ME 1770 or EGR 1770 or AE 1770))
+CEE 4150,Construction Management &amp; Megaprojects,90391,3,('CEE 3770' or 'ISYE 3770' or 'MATH 3670')
+CEE 4200,Hydraulic Engineering,93756,3,('CEE 3040')
+CEE 4210,Hydrology,86185,3,('CEE 3040')
+CEE 4211,Water Resources Systems,90186,3,('CEE 3040' and 'CEE 3770' and 'CS 1371')
+CEE 4300,Environmental Engineering Systems,86186,3,(('CHEM 1310' or 'CHEM 1211K' or CHEM 12X1) and ('PHYS 2211' or 'PHYS 2231') and ('MATH 1502' or 'MATH 1512' or MATH 15X2 or 'MATH 1552' or MATH 1X52))
+CEE 4320,Hazardous Substance Engineering,93648,3,('CEE 2300' and ('CEE 3040' or 'ME 3340'))
+CEE 4330,Air Pollution Engineering,87156,3,(('CHEM 1310' or 'CHEM 1211K' or CHEM 12X1) and ('PHYS 2211' or 'PHYS 2231'))
+CEE 4405,Introduction to Geotechnical Engineering,86191,3,('COE 3001' and 'CEE 3040')
+CEE 4510,Structural Steel Design,86192,3,('CEE 3055')
+CEE 4520,Reinforced Concrete Design,80217,3,('CEE 3055')
+CEE 4552,Introduction to Finite Element Methods,93438,3,('CEE 3055' and 'CS 1371')
+CEE 4560,Origami Engineering,89111,3,('MATH 1552' and 'MATH 1553')
+CEE 4600,"Transportation Planning, Operations, and Design",85644,3,(('CEE 1770' or 'ME 1770' or 'EGR 1770' or 'AE 1770'))
 CEE 4620,Environmental Impact Assessment,87769,3,
 CEE 4698,Undergraduate Research Assistantship,81432,1,
 CEE 4699,Undergraduate Research,81529,1,
-CEE 4791,Mechanical Behavior of Composites,85666,3,(COE 3001)
+CEE 4791,Mechanical Behavior of Composites,85666,3,('COE 3001')
 CEE 4803,Data Analytics,91426,3,
 CEE 4900,Undergraduate Honors Research Project,81543,1,
 CEE 4901,Special Problems,81342,1,
 COA 4698,Undergraduate Research Assistantship,85991,1,
 COA 4699,Undergraduate Research,84101,1,
-COE 2001,Statics,91640,2,((MATH 1502 or MATH 15X2 or MATH 1512 or MATH 1552 or MATH 1X52) and (PHYS 2211 or PHYS 2231))
+COE 2001,Statics,91640,2,(('MATH 1502' or MATH 15X2 or 'MATH 1512' or 'MATH 1552' or MATH 1X52) and ('PHYS 2211' or 'PHYS 2231'))
 COE 2701,Startup Lab: Introduction to Technology Ventures,89019,3,
 COE 2801,Special Topics,93690,1,
-COE 3001,Mechanics of Deformable Bodies,85709,3,((MATH 2403 or MATH 2413 or MATH 24X3 or MATH 2552 or MATH 2562 or MATH 2X52) and COE 2001)
+COE 3001,Mechanics of Deformable Bodies,85709,3,(('MATH 2403' or 'MATH 2413' or 'MATH 24X3' or 'MATH 2552' or 'MATH 2562' or 'MATH 2X52') and 'COE 2001')
 COE 3002,Intro to Microelectronics and Nanotechnology Revolution,86741,3,
 COS 2801,Pre-health Practicum,94133,1,
-CX 4010,Computational Problem Solving for Scientists and Engineers,92817,3,(CS 1371 or CS 1301)
-CX 4140,Computational Modeling Algorithms,84401,3,(CS 1331 or CS 1372 or CS 2316 or CX 4010 or ECE 2035 or ECE 2036)
-CX 4230,Computer Simulation,92782,3,((MATH 3215 or MATH 3225 or MATH 3235 or MATH 3670 or MATH 3770 or ISYE 3770 or CEE 3770 or ISYE 2028 or ISYE 3030 or BMED 2400 or ECE 3077) and (CS 1331 or CS 1372 or CS 2316 or CX 4010 or ECE 2035 or ECE 2036))
-CX 4242,Data and Visual Analytics,84626,3,((MATH 2605 or MATH 2401 or MATH 24X1 or MATH 2411 or MATH 2550 or MATH 2551 or MATH 2561 or MATH 2X51) and (MATH 3215 or MATH 3225 or MATH 3235 or MATH 3670 or MATH 3770 or ISYE 3770 or CEE 3770 or ISYE 2028 or ISYE 3030 or BMED 2400 or ECE 3077) and (CS 1331 or CS 1372 or CS 2316 or CX 4010 or ECE 2035 or ECE 2036 or CX 4240))
-CX 4640,Numerical Analysis I,84400,3,(MATH 2403 or MATH 2413 or MATH 24X3 or MATH 2602 or MATH 2603 or MATH 2552 or MATH 2562 or MATH 2X52)
+CX 4010,Computational Problem Solving for Scientists and Engineers,92817,3,('CS 1371' or 'CS 1301')
+CX 4140,Computational Modeling Algorithms,84401,3,('CS 1331' or 'CS 1372' or 'CS 2316' or 'CX 4010' or 'ECE 2035' or 'ECE 2036')
+CX 4230,Computer Simulation,92782,3,(('MATH 3215' or 'MATH 3225' or 'MATH 3235' or 'MATH 3670' or 'MATH 3770' or 'ISYE 3770' or 'CEE 3770' or 'ISYE 2028' or 'ISYE 3030' or 'BMED 2400' or 'ECE 3077') and ('CS 1331' or 'CS 1372' or 'CS 2316' or 'CX 4010' or 'ECE 2035' or 'ECE 2036'))
+CX 4242,Data and Visual Analytics,84626,3,(('MATH 2605' or 'MATH 2401' or 'MATH 25X1' or 'MATH 2411' or 'MATH 2550' or 'MATH 2551' or 'MATH 2561' or 'MATH 2X51') and ('MATH 3215' or 'MATH 3225' or 'MATH 3235' or 'MATH 3670' or 'MATH 3770' or 'ISYE 3770' or 'CEE 3770' or 'ISYE 2028' or 'ISYE 3030' or 'BMED 2400' or 'ECE 3077') and ('CS 1331' or 'CS 1372' or 'CS 2316' or 'CX 4010' or 'ECE 2035' or 'ECE 2036' or 'CX 4240'))
+CX 4640,Numerical Analysis I,84400,3,('MATH 2403' or 'MATH 2413' or 'MATH 24X3' or 'MATH 2602' or 'MATH 2603' or 'MATH 2552' or 'MATH 2562' or 'MATH 2X52')
 CX 4803,Comput Found of Machine Learn,92783,3,
 CS 1100,Freshman Leap Seminar,89082,1,
 CS 1301,Introduction to Computing for Computer Science Recitation,93548,3,
 CS 1315,CS 1315 Recitation,90736,3,
-CS 1331,CS 1331 Recitation,93551,3,(CS 1301 or CS 1315 or CS 1321 or CS 1371)
-CS 1332,CS 1332 Recitation,90040,3,(CS 1322 or CS 1331)
+CS 1331,CS 1331 Recitation,93551,3,('CS 1301' or 'CS 1315' or 'CS 1321' or 'CS 1371')
+CS 1332,CS 1332 Recitation,90040,3,('CS 1322' or 'CS 1331')
 CS 1371,CS 1371 Recitation,92037,3,
 CS 2050,CS 2050 Recitation,90054,3,
 CS CS 2051,Honors Induction to Discrete Mathematics for Computer Science,92818,0,
-CS 2110,Computer Organization and Programming,88340,4,(CS 1331)
-CS 2200,Computer Systems and Networks,93991,4,(CS 2110 or (ECE 2020 and ECE 2035))
-CS 2261,Media Device Architectures,88295,4,(CS 1331)
-CS 2316,CS 2316 Recitation,90068,3,(CS 1371 or CS 1301 or CS 1315)
-CS 2340,Objects and Design,86514,3,(CS 1331 or CS 1372 or CS 1316)
+CS 2110,Computer Organization and Programming,88340,4,('CS 1331')
+CS 2200,Computer Systems and Networks,93991,4,('CS 2110' or ('ECE 2020' and 'ECE 2035'))
+CS 2261,Media Device Architectures,88295,4,('CS 1331')
+CS 2316,CS 2316 Recitation,90068,3,('CS 1371' or 'CS 1301' or 'CS 1315')
+CS 2340,Objects and Design,86514,3,('CS 1331' or 'CS 1372' or 'CS 1316')
 CS 2698,Undergraduate Research Assistantship,90716,1,
 CS 2699,Undergraduate Research,91741,1,
 CS 2701,Startup Lab: Introduction to Technology Ventures,89018,3,
 CS 2801,Special Topics,86763,1,
 CS 2802,Entrepreneurial Perspectives,94163,2,
 CS 3001,"Computing, Society, and Professionalism",91309,3,
-CS 3210,Design of Operating Systems,87524,3,(CS 2200 or ECE 3057 or ECE 3058)
-CS 3220,Computer Structures: Hardware/Software Codesign of a Processor,84625,3,((CS 2200 or ECE 3057 or ECE 3058) and ECE 2031)
-CS 3251,Computer Networking I,87670,3,(CS 2200 or ECE 3057 or ECE 3058)
-CS 3300,Introduction to Software Engineering,89272,3,(CS 2340)
-CS 3311,Part 1 of a 2 semester project design and implementation sequence conjoined with Tech Communications,85861,1,(CS 2340 and (CS 3001 or CS 4001 or CS 4002 or CS 4003 or CS 4726 or SLS 3110))
-CS 3312,Project Implementation,85628,2,(CS 2340 and LMC 3432)
-CS 3451,Computer Graphics,81960,3,((MATH 2605 or MATH 2401 or MATH 2411 or MATH 24X1 or MATH 2551 or MATH 2550 or MATH 2561 or MATH 2X51) or CS 2110 or CS 2261)
-CS 3510,Design and Analysis of Algorithms,92789,3,((CS 2050 or CS 2051 or MATH 2106) and (CS 1332 or MATH 3012 or MATH 3022))
-CS 3511,"Design and Analysis of Algorithms, Honors",90160,3,((CS 2050 or CS 2051 or MATH 2106) and (CS 1332 or MATH 3012 or MATH 3022))
-CS 3600,Introduction to Artificial Intelligence,81574,3,(CS 1332)
-CS 3630,Introduction to Perception and Robotics,86264,3,(CS 1332)
-CS 3651,Prototyping Intelligent Devices,91203,4,(ECE 2031)
+CS 3210,Design of Operating Systems,87524,3,('CS 2200' or 'ECE 3057' or 'ECE 3058')
+CS 3220,Computer Structures: Hardware/Software Codesign of a Processor,84625,3,(('CS 2200' or 'ECE 3057' or 'ECE 3058') and 'ECE 2031')
+CS 3251,Computer Networking I,87670,3,('CS 2200' or 'ECE 3057' or 'ECE 3058')
+CS 3300,Introduction to Software Engineering,89272,3,('CS 2340')
+CS 3311,Part 1 of a 2 semester project design and implementation sequence conjoined with Tech Communications,85861,1,('CS 2340' and ('CS 3001' or 'CS 4001' or 'CS 4002' or 'CS 4003' or 'CS 4726' or 'SLS 3110'))
+CS 3312,Project Implementation,85628,2,('CS 2340' and 'LMC 3432')
+CS 3451,Computer Graphics,81960,3,(('MATH 2605' or 'MATH 2401' or 'MATH 2411' or 'MATH 25X1' or 'MATH 2551' or 'MATH 2550' or 'MATH 2561' or 'MATH 2X51') or 'CS 2110' or 'CS 2261')
+CS 3510,Design and Analysis of Algorithms,92789,3,(('CS 2050' or 'CS 2051' or 'MATH 2106') and ('CS 1332' or 'MATH 3012' or 'MATH 3022'))
+CS 3511,"Design and Analysis of Algorithms, Honors",90160,3,(('CS 2050' or 'CS 2051' or 'MATH 2106') and ('CS 1332' or 'MATH 3012' or 'MATH 3022'))
+CS 3600,Introduction to Artificial Intelligence,81574,3,('CS 1332')
+CS 3630,Introduction to Perception and Robotics,86264,3,('CS 1332')
+CS 3651,Prototyping Intelligent Devices,91203,4,('ECE 2031')
 CS 3743,Analysis of Emerging Technologies,84309,3,
 CS 3751,Introduction to User Interface Design,94123,3,
 CS 3790,Introduction to Cognitive Science,87059,3,
 CS 4010,Introduction to Computer Law,93744,3,
-CS 4210,Advanced Operating Systems,94380,3,(CS 3210)
-CS 4220,Programming Embedded Systems,88418,3,(CS 2200 or ECE 3057 or ECE 3058)
-CS 4235,Introduction to Information Security,94376,3,(CS 2200 or ECE 3057 or ECE 3058)
-CS 4239,Enterprise Cybersecurity Management,94115,3,(CS 4235 or CS 4725)
-CS 4251,Computer Networking II,90126,3,(CS 3251)
-CS 4261,Mobile Applications and Services for Converged Networks,82821,3,(CS 2200 or ECE 3057 or ECE 3058)
-CS 4262,Network Security,93645,3,(CS 3251)
+CS 4210,Advanced Operating Systems,94380,3,('CS 3210')
+CS 4220,Programming Embedded Systems,88418,3,('CS 2200' or 'ECE 3057' or 'ECE 3058')
+CS 4235,Introduction to Information Security,94376,3,('CS 2200' or 'ECE 3057' or 'ECE 3058')
+CS 4239,Enterprise Cybersecurity Management,94115,3,('CS 4235' or 'CS 4725')
+CS 4251,Computer Networking II,90126,3,('CS 3251')
+CS 4261,Mobile Applications and Services for Converged Networks,82821,3,('CS 2200' or 'ECE 3057' or 'ECE 3058')
+CS 4262,Network Security,93645,3,('CS 3251')
 CS 4263,Psychology of Cybersecurity,93691,3,
-CS 4290,Advanced Computer Organization,82539,3,(CS 2200 or ECE 3057 or ECE 3058)
-CS 4400,Introduction to Database Systems,80214,3,(CS 1301 or CS 1315 or CS 1371)
-CS 4420,Database System Implementation,91706,3,(CS 1332 and (CS 2200 or ECE 3057 or ECE 3058) and CS 4400)
-CS 4455,Video Game Design and Programming,94381,3,(CS 3451)
-CS 4460,CS 4460 Recitation,94159,3,(CS 1332)
-CS 4470,Introduction to User Interface Software,86683,3,(CS 2340 and (CS 3750 or PSYC 3750))
-CS 4476,Introduction to Computer Vision,94383,3,((MATH 2605 or MATH 2401 or MATH 24X1 or MATH 2411 or MATH 2550 or MATH 2551 or MATH 2561 or MATH 2X51) and (MATH 1553 or MATH 1X54 or MATH 1554 or MATH 1564) or CS 2110 or CS 2261)
-CS 4496,Computer Animation,89366,3,(CS 3451)
-CS 4510,Automata and Complexity Theory,92790,3,((CS 3510 or CS 3511) and (MATH 3012 or MATH 3022) and (MATH 3215 or MATH 3235 or MATH 3225 or MATH 3770 or MATH 3670 or CEE 3770 or ISYE 3770 or (ISYE 2027 and (ISYE 2028 or ISYE 3030))))
-CS 4540,Advanced Algorithms,93655,3,((CS 3510 or CS 3511) and (MATH 3012 or MATH 3022) and (MATH 3215 or MATH 3235 or MATH 3225 or MATH 3770 or MATH 3670 or CEE 3770 or ISYE 3770 or (ISYE 2027 and (ISYE 2028 or ISYE 3030))))
+CS 4290,Advanced Computer Organization,82539,3,('CS 2200' or 'ECE 3057' or 'ECE 3058')
+CS 4400,Introduction to Database Systems,80214,3,('CS 1301' or 'CS 1315' or 'CS 1371')
+CS 4420,Database System Implementation,91706,3,('CS 1332' and ('CS 2200' or 'ECE 3057' or 'ECE 3058') and 'CS 4400')
+CS 4455,Video Game Design and Programming,94381,3,('CS 3451')
+CS 4460,CS 4460 Recitation,94159,3,('CS 1332')
+CS 4470,Introduction to User Interface Software,86683,3,('CS 2340' and ('CS 3750' or 'PSYC 3750'))
+CS 4476,Introduction to Computer Vision,94383,3,(('MATH 2605' or 'MATH 2401' or 'MATH 25X1' or 'MATH 2411' or 'MATH 2550' or 'MATH 2551' or 'MATH 2561' or 'MATH 2X51') and ('MATH 1553' or MATH 1X54 or 'MATH 1554' or 'MATH 1564') or 'CS 2110' or 'CS 2261')
+CS 4496,Computer Animation,89366,3,('CS 3451')
+CS 4510,Automata and Complexity Theory,92790,3,(('CS 3510' or 'CS 3511') and ('MATH 3012' or 'MATH 3022') and ('MATH 3215' or 'MATH 3235' or 'MATH 3225' or 'MATH 3770' or 'MATH 3670' or 'CEE 3770' or 'ISYE 3770' or ('ISYE 2027' and ('ISYE 2028' or 'ISYE 3030'))))
+CS 4540,Advanced Algorithms,93655,3,(('CS 3510' or 'CS 3511') and ('MATH 3012' or 'MATH 3022') and ('MATH 3215' or 'MATH 3235' or 'MATH 3225' or 'MATH 3770' or 'MATH 3670' or 'CEE 3770' or 'ISYE 3770' or ('ISYE 2027' and ('ISYE 2028' or 'ISYE 3030'))))
 CS 4590,Principles and Applications of Computer Audio,84855,3,
-CS 4605,Mobile and Ubiquitous Computing,86204,3,(CS 2110 or CS 2261 or (ECE 2020 and ECE 2035))
-CS 4635,Knowledge-Based Artificial Intelligence,94386,3,(CS 3600)
-CS 4641,Machine Learning,87526,3,((CS 1332 or ISYE 3133) and (MATH 1553 or MATH 1X53 or MATH 1554 or MATH 1X54 or MATH 1564) and (MATH 1551 or MATH 1X51))
-CS 4644,Deep Learning,94388,3,((MATH 2605 or MATH 2401 or MATH 24X1 or MATH 2411 or MATH 2550 or MATH 2551 or MATH 2561 or MATH 2X51) and (CS 2110 or CS 2261) and (CS 3510 or CS 3511))
-CS 4650,Natural Language Understanding,94489,3,((CS 3510 or CS 3511) and (MATH 2550 or MATH 2551 or MATH 2561 or MATH 2401 or MATH 24X1 or MATH 2X51))
+CS 4605,Mobile and Ubiquitous Computing,86204,3,('CS 2110' or 'CS 2261' or ('ECE 2020' and 'ECE 2035'))
+CS 4635,Knowledge-Based Artificial Intelligence,94386,3,('CS 3600')
+CS 4641,Machine Learning,87526,3,(('CS 1332' or 'ISYE 3133') and ('MATH 1553' or MATH 1X53 or 'MATH 1554' or MATH 1X54 or 'MATH 1564') and ('MATH 1551' or MATH 1X51))
+CS 4644,Deep Learning,94388,3,(('MATH 2605' or 'MATH 2401' or 'MATH 25X1' or 'MATH 2411' or 'MATH 2550' or 'MATH 2551' or 'MATH 2561' or 'MATH 2X51') and ('CS 2110' or 'CS 2261') and ('CS 3510' or 'CS 3511'))
+CS 4650,Natural Language Understanding,94489,3,(('CS 3510' or 'CS 3511') and ('MATH 2550' or 'MATH 2551' or 'MATH 2561' or 'MATH 2401' or 'MATH 25X1' or 'MATH 2X51'))
 CS 4660,Introduction to Educational Technology,94382,3,
-CS 4690,Empirical Methods for User Interface Design and Evaluation,87069,3,(CS 3750 or PSYC 3750)
+CS 4690,Empirical Methods for User Interface Design and Evaluation,87069,3,('CS 3750' or 'PSYC 3750')
 CS 4698,Undergraduate Research Assistantship,84125,1,
 CS 4699,Undergraduate Research,92613,1,
-CS 4723,Inter Capstone Design,91588,3,(CS 2340 and (CS 3001 or CS 4001 or CS 4002 or CS 4003 or CS 4726 or SLS 3110))
+CS 4723,Inter Capstone Design,91588,3,('CS 2340' and ('CS 3001' or 'CS 4001' or 'CS 4002' or 'CS 4003' or 'CS 4726' or 'SLS 3110'))
 CS 4726,"Privacy, Technology, Policy, and Law",85254,3,
 CS 4741,Integrative Management Development-Project Preparation,84284,3,
 CS 4803,Info Sec Lab Binexp,93751,3,
@@ -400,21 +400,21 @@ EAS 2600,Earth Processes,82156,4,
 EAS 2695,Undergraduate Internship,89656,1,
 EAS 2699,Undergraduate Research,87372,1,
 EAS 2750,Physics of the Weather,80351,3,
-EAS 3603,Thermodynamics of Earth Systems,81392,3,(PHYS 2211 and (MATH 2551 or MATH 2561))
-EAS 3610,Introduction to Geophysics,83798,3,(PHYS 2212 and EAS 2600)
+EAS 3603,Thermodynamics of Earth Systems,81392,3,('PHYS 2211' and ('MATH 2551' or 'MATH 2561'))
+EAS 3610,Introduction to Geophysics,83798,3,('PHYS 2212' and 'EAS 2600')
 EAS 3803,Geologic History,92883,3,
-EAS 4220,Environmental Geochemistry,85039,3,((MATH 1502 or MATH 1512 or MATH 1552) and CHEM 1212K)
-EAS 4221,Environmental Geochemistry Lab,93968,1,((MATH 1502 or MATH 1512 or MATH 1552) and CHEM 1212K)
-EAS 4305,Physical and Chemical Oceanography,90123,3,((MATH 1502 or MATH 1512 or (MATH 1552 and (MATH 1553 or MATH 1554) and PHYS 2212 and CHEM 1212K)))
-EAS 4316,Earthquake Physics,93260,3,(EAS 3610)
+EAS 4220,Environmental Geochemistry,85039,3,(('MATH 1502' or 'MATH 1512' or 'MATH 1552') and 'CHEM 1212K')
+EAS 4221,Environmental Geochemistry Lab,93968,1,(('MATH 1502' or 'MATH 1512' or 'MATH 1552') and 'CHEM 1212K')
+EAS 4305,Physical and Chemical Oceanography,90123,3,(('MATH 1502' or 'MATH 1512' or ('MATH 1552' and ('MATH 1553' or 'MATH 1554') and 'PHYS 2212' and 'CHEM 1212K')))
+EAS 4316,Earthquake Physics,93260,3,('EAS 3610')
 EAS 4380,Land Remote Sensing,92904,3,
 EAS 4410,Climate and Global Change,81919,3,
-EAS 4420,Environmental Field Methods,92963,4,(EAS 4221 or EAS 4656)
-EAS 4470,Large-scale Atmospheric Circulations,91162,3,(EAS 4655 or EAS 6502)
-EAS 4610,Earth System Modeling,86149,3,((CS 1301 or CS 1371) and (MATH 2551 or MATH 2561) and (MATH 2552 or MATH 2562))
+EAS 4420,Environmental Field Methods,92963,4,('EAS 4221' or 'EAS 4656')
+EAS 4470,Large-scale Atmospheric Circulations,91162,3,('EAS 4655' or 'EAS 6502')
+EAS 4610,Earth System Modeling,86149,3,(('CS 1301' or 'CS 1371') and ('MATH 2551' or 'MATH 2561') and ('MATH 2552' or 'MATH 2562'))
 EAS 4651,NWS Practical Internship,81048,3,
-EAS 4655,Atmospheric Dynamics,81395,3,(PHYS 2212 and (MATH 2401 or MATH 2411 or MATH 24X1 or MATH 2551 or MATH 2561 or MATH 2X51) and (MATH 2403 or MATH 2413 or MATH 24X3 or MATH 2552 or MATH 2562 or MATH 2X52))
-EAS 4656,Atmospheric Dynamics Practicum,84630,1,(EAS 4655)
+EAS 4655,Atmospheric Dynamics,81395,3,('PHYS 2212' and ('MATH 2401' or 'MATH 2411' or 'MATH 25X1' or 'MATH 2551' or 'MATH 2561' or 'MATH 2X51') and ('MATH 2403' or 'MATH 2413' or 'MATH 24X3' or 'MATH 2552' or 'MATH 2562' or 'MATH 2X52'))
+EAS 4656,Atmospheric Dynamics Practicum,84630,1,('EAS 4655')
 EAS 4695,Undergraduate Internship,89655,1,
 EAS 4698,Undergraduate Research Assistantship,87515,1,
 EAS 4699,Undergraduate Research,85790,1,
@@ -425,96 +425,96 @@ ECON 2101,The Global Economy,88609,3,
 ECON 2105,Principles of Macroeconomics,92967,3,
 ECON 2106,Principles of Microeconomics,91079,3,
 ECON 2250,Statistics for Economists,91875,3,
-ECON 3110,Advanced Microeconomic Analysis,86399,3,(ECON 2100 or ECON 2106 or ECON 2101)
-ECON 3120,Advanced Macroeconomic Analysis,80422,3,(ECON 2100 or ECON 2105 or ECON 2101)
-ECON 3161,Econometric Analysis,89341,3,(MATH 3215 or ECON 2250 or MATH 3770 or ISYE 3770 or COE 3770 or MGT 2250)
-ECON 3300,Economics of International Energy Markets,87622,3,(ECON 2100 or ECON 2101 or ECON 2106)
+ECON 3110,Advanced Microeconomic Analysis,86399,3,('ECON 2100' or 'ECON 2106' or 'ECON 2101')
+ECON 3120,Advanced Macroeconomic Analysis,80422,3,('ECON 2100' or 'ECON 2105' or 'ECON 2101')
+ECON 3161,Econometric Analysis,89341,3,('MATH 3215' or 'ECON 2250' or 'MATH 3770' or 'ISYE 3770' or 'COE 3770' or 'MGT 2250')
+ECON 3300,Economics of International Energy Markets,87622,3,('ECON 2100' or 'ECON 2101' or 'ECON 2106')
 ECON 4010,Career Development Workshop,93706,1,
-ECON 4060,Money and Capital Markets,85268,3,(ECON 2100 or ECON 2105 or ECON 2101)
-ECON 4180,Game Theory I,86283,3,(ECON 2106 or ECON 2100 or ECON 2101)
-ECON 4210,The Economics of Climate Change,93646,3,(ECON 2100 or ECON 2101 or ECON 2105 or ECON 2106)
-ECON 4340,Economics of Industrial Competition,93445,3,(ECON 2100 or ECON 2106 or ECON 2101)
-ECON 4351,International Financial Economics,93249,3,(ECON 2100 or ECON 2105 or ECON 2101)
-ECON 4357,Law and Economics of the Global Trading System,93004,3,(ECON 2100 or ECON 2105 or ECON 2106)
-ECON 4401,Behavioral Economics,93252,3,(ECON 2100 or ECON 2101 or ECON 2105 or ECON 2106)
-ECON 4510,Economics of Health and Health Care,91464,3,(ECON 2100 or ECON 2106 or ECON 2101)
+ECON 4060,Money and Capital Markets,85268,3,('ECON 2100' or 'ECON 2105' or 'ECON 2101')
+ECON 4180,Game Theory I,86283,3,('ECON 2106' or 'ECON 2100' or 'ECON 2101')
+ECON 4210,The Economics of Climate Change,93646,3,('ECON 2100' or 'ECON 2101' or 'ECON 2105' or 'ECON 2106')
+ECON 4340,Economics of Industrial Competition,93445,3,('ECON 2100' or 'ECON 2106' or 'ECON 2101')
+ECON 4351,International Financial Economics,93249,3,('ECON 2100' or 'ECON 2105' or 'ECON 2101')
+ECON 4357,Law and Economics of the Global Trading System,93004,3,('ECON 2100' or 'ECON 2105' or 'ECON 2106')
+ECON 4401,Behavioral Economics,93252,3,('ECON 2100' or 'ECON 2101' or 'ECON 2105' or 'ECON 2106')
+ECON 4510,Economics of Health and Health Care,91464,3,('ECON 2100' or 'ECON 2106' or 'ECON 2101')
 ECON 4699,Undergraduate Research,92239,1,
 ECON 4803,Economics for Entrepreneurship,92972,3,
-ECON 4910,Individual Research in Economics,92033,3,(ECON 2100 or (ECON 2105 and ECON 2106) and ECON 2101)
-ECON 4990,Internship in Professional Economics,82944,1,(ECON 2100 or (ECON 2105 and ECON 2106) and ECON 2101)
+ECON 4910,Individual Research in Economics,92033,3,('ECON 2100' or ('ECON 2105' and 'ECON 2106') and 'ECON 2101')
+ECON 4990,Internship in Professional Economics,82944,1,('ECON 2100' or ('ECON 2105' and 'ECON 2106') and 'ECON 2101')
 ECE 1100,ECE Discovery Studio,90208,1,
 ECE 2001,ECE Seminar,81575,1,
-ECE 2020,Digital System Design,83824,3,(CS 1371 or CS 1171 or CS 1301)
-ECE 2026,Introduction to Signal Processing,91563,3,((MATH 1502 or (MATH 15X2 and (MATH 1522 or MATH 1553)) and MATH 1512 or (MATH 1552 and (MATH 1553 or MATH 1554 or MATH 1564) and (CS 1371 or CS 1171 or CS 1301))))
-ECE 2031,Digital Design Laboratory,80944,2,((ECE 2020 or ECE 2030) and (ECE 2035 or ECE 2036 or CS 1372) and CS 2110)
-ECE 2035,Programming for Hardware/Software Systems,88435,4,(ECE 2020)
-ECE 2036,Engineering Software Design,88437,4,((ECE 2020 or ECE 2030) and (ECE 2026 or ECE 2025))
-ECE 2040,Circuit Analysis,83929,3,(PHYS 2212 and MATH 2552)
+ECE 2020,Digital System Design,83824,3,('CS 1371' or 'CS 1171' or 'CS 1301')
+ECE 2026,Introduction to Signal Processing,91563,3,(('MATH 1502' or (MATH 15X2 and ('MATH 1522' or ''MATH 1553'')) and 'MATH 1512' or ('MATH 1552' and (''MATH 1553'' or 'MATH 1554' or 'MATH 1564') and ('CS 1371' or 'CS 1171' or 'CS 1301'))))
+ECE 2031,Digital Design Laboratory,80944,2,(('ECE 2020' or 'ECE 2030') and ('ECE 2035' or 'ECE 2036' or 'CS 1372') and 'CS 2110')
+ECE 2035,Programming for Hardware/Software Systems,88435,4,('ECE 2020')
+ECE 2036,Engineering Software Design,88437,4,(('ECE 2020' or 'ECE 2030') and ('ECE 2026' or 'ECE 2025'))
+ECE 2040,Circuit Analysis,83929,3,('PHYS 2212' and 'MATH 2552')
 ECE 2698,Undergraduate Research Assistantship,94524,1,
 ECE 2699,Undergraduate Research,86523,1,
 ECE 2901,Special Problems,84106,1,
 ECE 2902,Special Problems,84556,1,
 ECE 2903,Special Problems,85556,1,
-ECE 3005,Professional and Technical Communications for ECE,88617,1,(ECE 2031 and (ECE 3025 or ECE 3040 or ECE 3072 or ECE 3084 or ECE 3020 or ECE 3030 or ECE 3056 or ECE 3057 or ECE 3058))
-ECE 3011,ECE Design Fundamentals,92724,2,(ECE 2031 and ECE 2040 and (ECE 2035 or ECE 2036))
-ECE 3025,Electromagnetics,80441,3,((ECE 2040 or ECE 3710) and (ECE 2025 or ECE 2026 or NRE 2110) and (MATH 2401 or MATH 2411 or MATH 24X1 or MATH 2551 or MATH 2561 or MATH 2X51) and (MATH 2403 or MATH 2413 or MATH 24X3 or MATH 2552 or MATH 2562 or MATH 2X52))
-ECE 3030,Physical Foundations of Computer Engineering,87595,3,((ECE 2020 or ECE 2030) and ECE 2040)
-ECE 3040,Microelectronic Circuits,93480,4,((ECE 3043 or ECE 3041) and (ECE 2031 or ECE 20X2) and (ECE 2035 or ECE 2036) and ECE 2040 and (CHEM 1310 or CHEM 1211K or CHEM 12X1) and (MATH 2401 or MATH 2411 or MATH 24X1 or MATH 2551 or MATH 2561 or MATH 2X51) and (MATH 2403 or MATH 2413 or MATH 24X3 or MATH 2552 or MATH 2562 or MATH 2X52))
-ECE 3043,"Measurements, Circuits, and Microelectronics Laboratory",93484,2,(ECE 3040 and (ECE 2031 or ECE 20X2))
-ECE 3058,"Architecture, Systems, Concurrency, and Energy in Computation",90080,4,(ECE 2035 and ECE 2031)
-ECE 3072,Electrical Energy Systems,84289,3,(ECE 2040 or ECE 3710)
-ECE 3077,Introduction to Probability and Statistics for ECE,83852,3,((MATH 2401 or MATH 2411 or MATH 24X1 or MATH 2551 or MATH 2561 or MATH 2X51 or MATH 2605) and (CS 1301 or CS 1371))
-ECE 3084,Signals and Systems,83853,3,(ECE 2026 and (ECE 2040 or (ECE 3710 and MATH 2403 and MATH 2413 and MATH 24X3) and (ECE 3710 or MATH 2552 or MATH 2562 or MATH 2X52)))
-ECE 3150,VLSI and Advanced Digital Design,90362,4,(ECE 2031 and ECE 2040)
-ECE 3251,Optimization for Information Systems,92676,3,((MATH 2551 or MATH 2550) and CS 1301)
-ECE 3300,Electromechanical and Electromagnetic Energy Conversion,84758,3,(ECE 3025)
-ECE 3400,Analog Electronics,84235,3,(ECE 3040)
-ECE 3450,Semiconductor Devices,84215,3,(ECE 3040)
-ECE 3550,Feedback Control Systems,84216,3,(ECE 2040)
-ECE 3600,Computer Communications,87642,3,(ECE 2020 and ECE 2026)
-ECE 3710,Circuits and Electronics,81986,2,(PHYS 2212 or PHYS 2232)
-ECE 3741,Instrumentation and Electronics Lab,85753,1,(ECE 3710)
+ECE 3005,Professional and Technical Communications for ECE,88617,1,('ECE 2031' and ('ECE 3025' or 'ECE 3040' or 'ECE 3072' or 'ECE 3084' or 'ECE 3020' or 'ECE 3030' or 'ECE 3056' or 'ECE 3057' or 'ECE 3058'))
+ECE 3011,ECE Design Fundamentals,92724,2,('ECE 2031' and 'ECE 2040' and ('ECE 2035' or 'ECE 2036'))
+ECE 3025,Electromagnetics,80441,3,(('ECE 2040' or 'ECE 3710') and ('ECE 2025' or 'ECE 2026' or 'NRE 2110') and ('MATH 2401' or 'MATH 2411' or 'MATH 25X1' or 'MATH 2551' or 'MATH 2561' or 'MATH 2X51') and ('MATH 2403' or 'MATH 2413' or 'MATH 24X3' or 'MATH 2552' or 'MATH 2562' or 'MATH 2X52'))
+ECE 3030,Physical Foundations of Computer Engineering,87595,3,(('ECE 2020' or 'ECE 2030') and 'ECE 2040')
+ECE 3040,Microelectronic Circuits,93480,4,(('ECE 3043' or 'ECE 3041') and ('ECE 2031' or ECE 20X2) and ('ECE 2035' or 'ECE 2036') and 'ECE 2040' and ('CHEM 1310' or 'CHEM 1211K' or CHEM 12X1) and ('MATH 2401' or 'MATH 2411' or 'MATH 25X1' or 'MATH 2551' or 'MATH 2561' or 'MATH 2X51') and ('MATH 2403' or 'MATH 2413' or 'MATH 24X3' or 'MATH 2552' or 'MATH 2562' or 'MATH 2X52'))
+ECE 3043,"Measurements, Circuits, and Microelectronics Laboratory",93484,2,('ECE 3040' and ('ECE 2031' or ECE 20X2))
+ECE 3058,"Architecture, Systems, Concurrency, and Energy in Computation",90080,4,('ECE 2035' and 'ECE 2031')
+ECE 3072,Electrical Energy Systems,84289,3,('ECE 2040' or 'ECE 3710')
+ECE 3077,Introduction to Probability and Statistics for ECE,83852,3,(('MATH 2401' or 'MATH 2411' or 'MATH 25X1' or 'MATH 2551' or 'MATH 2561' or 'MATH 2X51' or 'MATH 2605') and ('CS 1301' or 'CS 1371'))
+ECE 3084,Signals and Systems,83853,3,('ECE 2026' and ('ECE 2040' or (''ECE 3710'' and 'MATH 2403' and 'MATH 2413' and 'MATH 24X3') and (''ECE 3710'' or 'MATH 2552' or 'MATH 2562' or 'MATH 2X52')))
+ECE 3150,VLSI and Advanced Digital Design,90362,4,('ECE 2031' and 'ECE 2040')
+ECE 3251,Optimization for Information Systems,92676,3,(('MATH 2551' or 'MATH 2550') and 'CS 1301')
+ECE 3300,Electromechanical and Electromagnetic Energy Conversion,84758,3,('ECE 3025')
+ECE 3400,Analog Electronics,84235,3,('ECE 3040')
+ECE 3450,Semiconductor Devices,84215,3,('ECE 3040')
+ECE 3550,Feedback Control Systems,84216,3,('ECE 2040')
+ECE 3600,Computer Communications,87642,3,('ECE 2020' and 'ECE 2026')
+ECE 3710,Circuits and Electronics,81986,2,('PHYS 2212' or 'PHYS 2232')
+ECE 3741,Instrumentation and Electronics Lab,85753,1,('ECE 3710')
 ECE 3901,Special Problems,84050,1,
 ECE 3902,Special Problems,84565,1,
 ECE 3903,Special Problems,90940,1,
 ECE 3951,Undergraduate Research I,84862,1,
-ECE 3952,Undergraduate Research II,84512,1,(ECE 3951)
-ECE 4043,Senior Analog Electronics Laboratory,84265,2,(ECE 3043 and ECE 3040)
-ECE 4100,Advanced Computer Architecture,85217,3,(ECE 3056 or ECE 3057 or ECE 3058)
-ECE 4112,Internetwork Security,92652,3,(ECE 3600 or ECE 4110 or CS 3251)
-ECE 4115,Introduction to Computer Security,88438,4,(ECE 4110 or ECE 3600 or CS 3251)
-ECE 4122,Advanced Programming Techniques for Engineering Applications,88440,3,(ECE 2035 or ECE 2036)
-ECE 4130,Advanced VLSI Systems,94165,4,(ECE 3050 or ECE 3060 or ECE 3150 or ECE 3400)
-ECE 4147,Adv Malware Analysis,88957,3,(ECE 4894)
-ECE 4180,Embedded Systems Design,88913,4,(ECE 2031 or (ECE 2036 or ECE 2035) or CS 3510 or CS 3511)
-ECE 4260,Random Signals and Applications,92664,3,(ECE 3084 and (ECE 3077 or ISYE 3770 or MATH 3770 or MATH 3670 or CEE 3770))
-ECE 4270,Fundamentals of Digital Signal Processing,80440,3,(ECE 2026 and (CEE 3770 or ISYE 3770 or MATH 3670 or ECE 3077))
-ECE 4320,Power System Analysis and Control,80446,3,(ECE 3072)
-ECE 4330,Power Electronics,88961,3,(ECE 3040 and ECE 3043)
-ECE 4350,Electromagnetic and Microwave Applications,85238,3,(ECE 3025)
-ECE 4370,Antenna Engineering,85130,3,(ECE 3025)
-ECE 4371,Antenna Engineering Laboratory,86780,1,(ECE 4370)
-ECE 4390,Introduction to Radar and Electromagnetic Sensing,91167,3,(ECE 3025)
-ECE 4415,RF Engineering I,89029,3,(ECE 3025 and (ECE 3050 or ECE 3400))
-ECE 4430,Analog Integrated Circuits,80447,3,(ECE 3050 or ECE 3400)
-ECE 4445,Audio Engineering,83616,3,((ECE 3040 or ECE 3741) and ECE 3084)
-ECE 4446,Audio Engineering Laboratory,85242,1,(ECE 3043 and ECE 4445)
-ECE 4452,IC Fabrication,85248,3,((ECE 3030 or ECE 3040) and ECE 2031)
-ECE 4500,Optical Engineering,85237,3,(ECE 3025)
-ECE 4550,Control System Design,84253,4,((ECE 2031 or ECE 20X2) and (ECE 3550 or ECE 3085 or ECE 3084))
-ECE 4560,Introduction to Automation and Robotics,88924,4,(ECE 3084 or ECE 3085 or ECE 3550)
-ECE 4601,Communication Systems,91166,3,((ECE 3020 or ECE 3084) and (CEE 3770 or ISYE 3770 or MATH 3770 or MATH 3670 or ECE 3077))
+ECE 3952,Undergraduate Research II,84512,1,('ECE 3951')
+ECE 4043,Senior Analog Electronics Laboratory,84265,2,('ECE 3043' and 'ECE 3040')
+ECE 4100,Advanced Computer Architecture,85217,3,('ECE 3056' or 'ECE 3057' or 'ECE 3058')
+ECE 4112,Internetwork Security,92652,3,('ECE 3600' or 'ECE 4110' or 'CS 3251')
+ECE 4115,Introduction to Computer Security,88438,4,('ECE 4110' or 'ECE 3600' or 'CS 3251')
+ECE 4122,Advanced Programming Techniques for Engineering Applications,88440,3,('ECE 2035' or 'ECE 2036')
+ECE 4130,Advanced VLSI Systems,94165,4,('ECE 3050' or 'ECE 3060' or 'ECE 3150' or 'ECE 3400')
+ECE 4147,Adv Malware Analysis,88957,3,('ECE 4894')
+ECE 4180,Embedded Systems Design,88913,4,('ECE 2031' or ('ECE 2036' or 'ECE 2035') or 'CS 3510' or 'CS 3511')
+ECE 4260,Random Signals and Applications,92664,3,('ECE 3084' and ('ECE 3077' or 'ISYE 3770' or 'MATH 3770' or 'MATH 3670' or 'CEE 3770'))
+ECE 4270,Fundamentals of Digital Signal Processing,80440,3,('ECE 2026' and ('CEE 3770' or 'ISYE 3770' or 'MATH 3670' or 'ECE 3077'))
+ECE 4320,Power System Analysis and Control,80446,3,('ECE 3072')
+ECE 4330,Power Electronics,88961,3,('ECE 3040' and 'ECE 3043')
+ECE 4350,Electromagnetic and Microwave Applications,85238,3,('ECE 3025')
+ECE 4370,Antenna Engineering,85130,3,('ECE 3025')
+ECE 4371,Antenna Engineering Laboratory,86780,1,('ECE 4370')
+ECE 4390,Introduction to Radar and Electromagnetic Sensing,91167,3,('ECE 3025')
+ECE 4415,RF Engineering I,89029,3,('ECE 3025' and ('ECE 3050' or 'ECE 3400'))
+ECE 4430,Analog Integrated Circuits,80447,3,('ECE 3050' or 'ECE 3400')
+ECE 4445,Audio Engineering,83616,3,(('ECE 3040' or 'ECE 3741') and 'ECE 3084')
+ECE 4446,Audio Engineering Laboratory,85242,1,('ECE 3043' and 'ECE 4445')
+ECE 4452,IC Fabrication,85248,3,(('ECE 3030' or 'ECE 3040') and 'ECE 2031')
+ECE 4500,Optical Engineering,85237,3,('ECE 3025')
+ECE 4550,Control System Design,84253,4,(('ECE 2031' or ECE 20X2) and ('ECE 3550' or 'ECE 3085' or 'ECE 3084'))
+ECE 4560,Introduction to Automation and Robotics,88924,4,('ECE 3084' or 'ECE 3085' or 'ECE 3550')
+ECE 4601,Communication Systems,91166,3,(('ECE 3020' or 'ECE 3084') and ('CEE 3770' or 'ISYE 3770' or 'MATH 3770' or 'MATH 3670' or 'ECE 3077'))
 ECE 4698,Undergraduate Research Assistantship,92542,1,
 ECE 4699,Undergraduate Research,90602,1,
-ECE 4723,Interdisciplinary Capstone Design,94924,3,(ECE 3872)
+ECE 4723,Interdisciplinary Capstone Design,94924,3,('ECE 3872')
 ECE 4753,Topics in Engineering Practice,87194,3,
-ECE 4755,Electronic Packaging Substrate Fabrication,86397,3,((CHEM 1310 or CHEM 1211K or CHEM 12X1) and PHYS 2212)
-ECE 4781,Biomedical Instrumentation,82310,3,(ECE 3030 or ECE 3040 or ECE 3710)
-ECE 4783,Introduction to Medical Image Processing,90407,3,((ECE 2025 or ECE 2026) and (MATH 3770 or ISYE 3770 or CEE 3770 or ECE 3077 or BMED 2400))
-ECE 4784,Engineering Electrophysiology,88486,3,(ECE 3030 or ECE 3040 or BMED 3510)
+ECE 4755,Electronic Packaging Substrate Fabrication,86397,3,(('CHEM 1310' or 'CHEM 1211K' or CHEM 12X1) and 'PHYS 2212')
+ECE 4781,Biomedical Instrumentation,82310,3,('ECE 3030' or 'ECE 3040' or 'ECE 3710')
+ECE 4783,Introduction to Medical Image Processing,90407,3,(('ECE 2025' or 'ECE 2026') and ('MATH 3770' or 'ISYE 3770' or 'CEE 3770' or 'ECE 3077' or 'BMED 2400'))
+ECE 4784,Engineering Electrophysiology,88486,3,('ECE 3030' or 'ECE 3040' or 'BMED 3510')
 ECE 4803,Special Topics,92658,3,
 ECE 4804,Special Topics,92016,4,
-ECE 4853,ECE Single-Semester Create-X Capstone Design,94073,3,(ECE 3011 and (ECE 3040 or ECE 3058) and ECE 3005)
+ECE 4853,ECE Single-Semester Create-X Capstone Design,94073,3,('ECE 3011' and ('ECE 3040' or 'ECE 3058') and 'ECE 3005')
 ECE 4871,Special Topics,88441,1,
 ECE 4872,Special Topics,93616,2,
 ECE 4873,Special Topics,93485,3,
@@ -522,9 +522,9 @@ ECE 4901,Special Problems,80797,1,
 ECE 4902,Special Problems,83711,1,
 ECE 4903,Special Problems,80867,1,
 ECE 4951,Undergraduate Research I,84516,1,
-ECE 4952,Undergraduate Research II,84968,1,(ECE 4951)
+ECE 4952,Undergraduate Research II,84968,1,('ECE 4951')
 ENGL 1101,English Composition I,86920,3,
-ENGL 1102,English Composition II,85866,3,(ENGL 1101)
+ENGL 1102,English Composition II,85866,3,('ENGL 1101')
 FS 4000,Foreign Studies,80650,12,
 FS 4009,Foreign Studies,81826,9,
 FREN 1001,Elementary French I,81725,3,
@@ -547,7 +547,7 @@ GT 1000,Freshman Seminar,88984,1,
 GT 1801,Special Topics,91949,1,
 GT 2000,Transfer Student Seminar,91827,1,
 GT 2100,Seminar on Academic Success,85366,1,
-GT 2201,Grand Challenges Research Project,89252,1,(GT 1201)
+GT 2201,Grand Challenges Research Project,89252,1,('GT 1201')
 GT 2803,Special Topics,89116,3,
 GT 4100,Fundamentals of Personal Finance,91571,1,
 GT 4801,Resilience Building Strategies,93863,1,
@@ -588,32 +588,32 @@ HTS 3084,Culture and Technology,93455,3,
 HTS 3088,"Race, Medicine &amp; Science",93308,3,
 HTS 3100,Introduction to Museum Studies,93309,3,
 HTS 3102,Social Theory and Social Structure,91442,3,
-HTS 4011,Theories of Power,93310,4,(HTS 2101)
-HTS 4081,Sustainability &amp;Social Justice,93311,4,(HTS 2101)
+HTS 4011,Theories of Power,93310,4,('HTS 2101')
+HTS 4081,Sustainability &amp;Social Justice,93311,4,('HTS 2101')
 HTS 4695,HTS Internship-Credit,90449,1,
 HTS 4699,Undergraduate Research,91666,1,
-ISYE 2027,Probability with Applications,80358,3,(MATH 2550 or MATH 2551 or MATH 2561 or (MATH 2X51 and (MATH 1522 or MATH 1553 or MATH 1554 or MATH 1564 or MATH 1X53 or MATH 1X54)))
+ISYE 2027,Probability with Applications,80358,3,('MATH 2550' or 'MATH 2551' or 'MATH 2561' or ('MATH 2X51' and ('MATH 1522' or 'MATH 1553' or 'MATH 1554' or 'MATH 1564' or MATH 1X53 or MATH 1X54)))
 ISYE 2698,Undergraduate Research Assistantship,94773,1,
 ISYE 2699,Undergraduate Research,87776,1,
 ISYE 3025,Essentials of Engineering Economy,94075,1,
-ISYE 3030,Basic Statistical Methods,87882,3,(ISYE 2027 and (CS 1301 or CS 1371))
-ISYE 3039,Methods of Quality Improvement,84358,3,(ISYE 3030)
-ISYE 3044,Simulation Analysis and Design,84363,3,(ISYE 3030 and ISYE 3232)
-ISYE 3103,Introduction to Supply Chain Modeling: Logistics,83215,3,(ISYE 3030 and ISYE 3133)
-ISYE 3104,Introduction to Supply Chain Modeling: Manufacturing and Warehousing,85832,3,(ISYE 3030 and ISYE 3232 and ISYE 3133)
-ISYE 3106,Cornerstone Design for Industrial Engineers,90096,3,(ISYE 3030 or ISYE 3133)
-ISYE 3133,Engineering Optimization,86676,3,((ISYE 2027 and (MATH 2602 or MATH 2603) and CS 2316) and (MATH 3215 or MATH 3225 or MATH 3235 or MATH 3236))
-ISYE 3232,Stochastic Manufacturing and Service Systems,92732,3,(ISYE 2027 or MATH 3215 or MATH 3225 or MATH 3235 or MATH 3236)
-ISYE 3770,Statistics and Applications,84660,3,(MATH 2550 or MATH 2551 or (MATH 2X51 and (MATH 1522 or MATH 1553 or MATH 1554 or MATH 1564 or MATH 1X53 or MATH 1X54)))
-ISYE 4031,Regression and Forecasting,82932,3,(ISYE 3030)
-ISYE 4034,Decision and Data Analytics,90081,3,(ISYE 3133 and CS 4400 and ISYE 4031)
-ISYE 4106,Senior Design,94327,4,(ISYE 3025 and ISYE 3133 and ISYE 3232 and ISYE 3044 and ISYE 4031)
-ISYE 4111,Advanced Supply Chain Logistics,83189,3,(ISYE 3103 and ISYE 3133 and ISYE 3232)
-ISYE 4133,Advanced Optimization,86228,3,(ISYE 3133)
-ISYE 4134,Constraint Programming,87926,3,(CS 2316 and ISYE 3133)
-ISYE 4232,Advanced Stochastic Systems,92698,3,(ISYE 3232)
-ISYE 4301,Supply Chain Economics,88567,3,(ISYE 3232 and ISYE 3133)
-ISYE 4311,Capital Investment Analysis,83539,3,(ISYE 3025 and ISYE 3232 and ISYE 3133)
+ISYE 3030,Basic Statistical Methods,87882,3,('ISYE 2027' and ('CS 1301' or 'CS 1371'))
+ISYE 3039,Methods of Quality Improvement,84358,3,('ISYE 3030')
+ISYE 3044,Simulation Analysis and Design,84363,3,('ISYE 3030' and 'ISYE 3232')
+ISYE 3103,Introduction to Supply Chain Modeling: Logistics,83215,3,('ISYE 3030' and 'ISYE 3133')
+ISYE 3104,Introduction to Supply Chain Modeling: Manufacturing and Warehousing,85832,3,('ISYE 3030' and 'ISYE 3232' and 'ISYE 3133')
+ISYE 3106,Cornerstone Design for Industrial Engineers,90096,3,('ISYE 3030' or 'ISYE 3133')
+ISYE 3133,Engineering Optimization,86676,3,(('ISYE 2027' and ('MATH 2602' or 'MATH 2603') and 'CS 2316') and ('MATH 3215' or 'MATH 3225' or 'MATH 3235' or 'MATH 3236'))
+ISYE 3232,Stochastic Manufacturing and Service Systems,92732,3,('ISYE 2027' or 'MATH 3215' or 'MATH 3225' or 'MATH 3235' or 'MATH 3236')
+ISYE 3770,Statistics and Applications,84660,3,('MATH 2550' or 'MATH 2551' or ('MATH 2X51' and ('MATH 1522' or 'MATH 1553' or 'MATH 1554' or 'MATH 1564' or MATH 1X53 or MATH 1X54)))
+ISYE 4031,Regression and Forecasting,82932,3,('ISYE 3030')
+ISYE 4034,Decision and Data Analytics,90081,3,('ISYE 3133' and 'CS 4400' and 'ISYE 4031')
+ISYE 4106,Senior Design,94327,4,('ISYE 3025' and 'ISYE 3133' and 'ISYE 3232' and 'ISYE 3044' and 'ISYE 4031')
+ISYE 4111,Advanced Supply Chain Logistics,83189,3,('ISYE 3103' and 'ISYE 3133' and 'ISYE 3232')
+ISYE 4133,Advanced Optimization,86228,3,('ISYE 3133')
+ISYE 4134,Constraint Programming,87926,3,('CS 2316' and 'ISYE 3133')
+ISYE 4232,Advanced Stochastic Systems,92698,3,('ISYE 3232')
+ISYE 4301,Supply Chain Economics,88567,3,('ISYE 3232' and 'ISYE 3133')
+ISYE 4311,Capital Investment Analysis,83539,3,('ISYE 3025' and 'ISYE 3232' and 'ISYE 3133')
 ISYE 4698,Undergraduate Research Assistantship,92155,1,
 ISYE 4699,Undergraduate Research,87469,1,
 ISYE 4800,Senior Design Prep,93908,0,
@@ -623,29 +623,29 @@ ID 1011,Industrial Design Fundamentals 1,91996,2,
 ID 1101,Introduction to Industrial Design 1,92067,1,
 ID 1401,Introduction to Graphic Communications 1,91650,1,
 ID 1418,Introduction to Sketching and Modeling 1,91652,1,
-ID 2023,Industrial Design Studio 1,88533,3,(ID 1012)
+ID 2023,Industrial Design Studio 1,88533,3,('ID 1012')
 ID 2101,Digital Design Methods,94440,3,
 ID 2202,History of Modern Industrial Design,88490,3,
 ID 2241,History of Art 1,88492,3,
 ID 2242,History of Art 2,91979,3,
-ID 2320,Human Factors in Design,92177,3,(ID 1012)
+ID 2320,Human Factors in Design,92177,3,('ID 1012')
 ID 2325,User Centered Design Methods,86254,3,
 ID 2401,Visual Design Thinking,88595,3,
 ID 2699,Undergraduate Research,94468,1,
-ID 3031,Health Design Studio 1,88536,4,(ID 2024)
-ID 3041,Product Development Studio 1,88535,4,(ID 2024)
-ID 3051,Interactive Product Design Studio 1,88537,4,(ID 2024)
-ID 3302,Materials and Processes II: Nonrenewables,88495,3,(ID 3301)
-ID 3320,Design Methods: User Centered Design,83531,3,(ID 2012 and ID 2401 and ID 2320)
-ID 3510,Introduction to Interactive Product Design,83530,3,(ID 1012)
+ID 3031,Health Design Studio 1,88536,4,('ID 2024')
+ID 3041,Product Development Studio 1,88535,4,('ID 2024')
+ID 3051,Interactive Product Design Studio 1,88537,4,('ID 2024')
+ID 3302,Materials and Processes II: Nonrenewables,88495,3,('ID 3301')
+ID 3320,Design Methods: User Centered Design,83531,3,('ID 2012' and 'ID 2401' and 'ID 2320')
+ID 3510,Introduction to Interactive Product Design,83530,3,('ID 1012')
 ID 3803,Inclusive UX Design,94318,3,
 ID 3813,Soft Goods Design,94436,3,
 ID 3824,Jr. Interaction Dsign Stdio 1,89089,4,
-ID 4061,ID Capstone Design Studio 1,92175,4,(ID 3032 or ID 3042 or ID 3052)
-ID 4071,Invention Studio 1,93470,4,(ID 3032 or ID 3042 or ID 3052)
-ID 4081,ID/ME Collaborative Design Studio 1,88539,4,(ID 3032 or ID 3042 or ID 3052)
-ID 4106,Parametric Product Modeling,91665,3,(ID 3104)
-ID 4206,Culture of Objects: A Seminar on the Design and Culture of Objects,83870,3,(ID 2202)
+ID 4061,ID Capstone Design Studio 1,92175,4,('ID 3032' or 'ID 3042' or 'ID 3052')
+ID 4071,Invention Studio 1,93470,4,('ID 3032' or 'ID 3042' or 'ID 3052')
+ID 4081,ID/ME Collaborative Design Studio 1,88539,4,('ID 3032' or 'ID 3042' or 'ID 3052')
+ID 4106,Parametric Product Modeling,91665,3,('ID 3104')
+ID 4206,Culture of Objects: A Seminar on the Design and Culture of Objects,83870,3,('ID 2202')
 ID 4699,Undergraduate Research,94833,1,
 ID 4803,Furniture: Identity,92122,3,
 ID 4823,Advanced Modeling Concepts,87932,3,
@@ -677,14 +677,14 @@ INTA 3240,Government and Politics of Africa,91471,3,
 INTA 3241,Latin American Politics,93398,3,
 INTA 3301,International Political Economy,82502,3,
 INTA 3303,Political Economy of Development,93454,3,
-INTA 3304,International Trade and Production,87577,3,(INTA 3301)
+INTA 3304,International Trade and Production,87577,3,('INTA 3301')
 INTA 3330,Political Economy of China,93392,3,
 INTA 4007,Intelligence and International Security,93393,3,
 INTA 4060,International Law,90250,3,
 INTA 4500,Pro-Seminar in International Affairs,83460,3,
 INTA 4695,Undergraduate Internship,93917,1,
 INTA 4699,Undergraduate Research,94772,1,
-INTA 4740,Seminar in Political Economy,82503,3,(INTA 3301 and (ECON 2100 or ECON 2105 or ECON 2106))
+INTA 4740,Seminar in Political Economy,82503,3,('INTA 3301' and ('ECON 2100' or 'ECON 2105' or 'ECON 2106'))
 INTA 4803,National Security Policy,93450,3,
 INTA 4901,Defense Technology Innovation,90599,1,
 INTA 4902,Resear:Megaregion Sustainabili,94755,1,
@@ -720,119 +720,119 @@ KOR 4060,Media and Public Culture,91205,3,
 LING 2100,Introduction to Linguistics,92318,3,
 LING 3100,Applications of Linguistics,90417,3,
 LING 4015,Sociolinguistics,92694,3,
-LMC 2000,"Introduction to Literature, Media, and Communication",93062,3,(ENGL 1102)
-LMC 2060,Introduction to Literary Studies,93063,3,(ENGL 1102)
-LMC 2100,"Introduction to Science, Technology and Culture",84589,3,(ENGL 1102)
-LMC 2350,Introduction to Social Justice,93064,3,(ENGL 1102)
-LMC 2400,Introduction to Media Studies,85830,3,(ENGL 1102)
-LMC 2410,Introduction to Game Studies,87572,3,(ENGL 1102)
-LMC 2450,Introduction to Black Media Studies,93065,3,(ENGL 1101 and ENGL 1102)
-LMC 2500,Introduction to Film,94411,3,(ENGL 1102)
-LMC 2600,Introduction to Performance Studies,93333,3,(ENGL 1102)
-LMC 2661,Theatre Production I,84590,1,(ENGL 1102)
-LMC 2662,Theatre Production II,84591,1,(ENGL 1102)
-LMC 2698,Research Assistantship,94865,1,(ENGL 1102)
-LMC 2700,Introduction to Computational Media,87528,3,(ENGL 1102 and (CS 1315 or CS 1316 or CS 1301 or CS 1321 or CS 1371))
-LMC 2720,Principles of Visual Design,84593,3,(ENGL 1102)
-LMC 2730,Constructing the Moving Image,84594,3,(LMC 2000 or LMC 2700 or LMC 2720)
-LMC 3102,"Science, Technology, and the Classical Tradition",93067,3,(ENGL 1102)
-LMC 3104,The Age of Scientific Discovery,93088,3,(ENGL 1102)
-LMC 3202,Studies in Fiction,93068,3,(ENGL 1102)
-LMC 3206,Communication and Culture,93069,3,(ENGL 1102)
-LMC 3208,African American Literature and Culture,93070,3,(ENGL 1102)
-LMC 3214,Science Fiction,88596,3,(ENGL 1102)
-LMC 3219,Literature and Medicine,93071,3,(ENGL 1102)
-LMC 3226,Jane Austen,93072,3,(ENGL 1102)
-LMC 3228,Shakespeare,94202,3,(ENGL 1102)
-LMC 3234,Creative Writing,94197,3,(ENGL 1102)
-LMC 3236,Writing for the Stage and Screen,87629,3,(ENGL 1102)
-LMC 3252,Studies in Film and Television,93074,3,(ENGL 1102 and (LMC 2000 or LMC 2500 or LMC 2400))
-LMC 3254,Film History,93075,3,(ENGL 1102 and (LMC 2000 or LMC 2500 or LMC 2400))
-LMC 3257,Global Cinema,94408,3,(ENGL 1102 and (LMC 2000 or LMC 2500 or LMC 2400))
-LMC 3259,Experimental Film,88598,3,(ENGL 1102 and (LMC 2000 or LMC 2500 or LMC 2400))
-LMC 3262,Performance Studies,91127,3,(ENGL 1102)
-LMC 3263,"Music, Culture, and Society",93089,3,(ENGL 1102)
-LMC 3304,"Science, Technology, and Gender",92572,3,(ENGL 1102)
-LMC 3310,The Rhetoric of Scientific Inquiry,93091,3,(ENGL 1102)
-LMC 3314,Technologies of Representation,93078,3,(ENGL 1102)
-LMC 3318,Biomedicine and Culture,93079,3,(ENGL 1102)
-LMC 3402,Graphic and Visual Design,85287,3,(ENGL 1102)
-LMC 3403,"Technical Communication, Theory and Practice",94410,3,(ENGL 1102)
-LMC 3404,Social Media,91128,3,(ENGL 1102)
+LMC 2000,"Introduction to Literature, Media, and Communication",93062,3,('ENGL 1102')
+LMC 2060,Introduction to Literary Studies,93063,3,('ENGL 1102')
+LMC 2100,"Introduction to Science, Technology and Culture",84589,3,('ENGL 1102')
+LMC 2350,Introduction to Social Justice,93064,3,('ENGL 1102')
+LMC 2400,Introduction to Media Studies,85830,3,('ENGL 1102')
+LMC 2410,Introduction to Game Studies,87572,3,('ENGL 1102')
+LMC 2450,Introduction to Black Media Studies,93065,3,('ENGL 1101' and 'ENGL 1102')
+LMC 2500,Introduction to Film,94411,3,('ENGL 1102')
+LMC 2600,Introduction to Performance Studies,93333,3,('ENGL 1102')
+LMC 2661,Theatre Production I,84590,1,('ENGL 1102')
+LMC 2662,Theatre Production II,84591,1,('ENGL 1102')
+LMC 2698,Research Assistantship,94865,1,('ENGL 1102')
+LMC 2700,Introduction to Computational Media,87528,3,('ENGL 1102' and ('CS 1315' or 'CS 1316' or 'CS 1301' or 'CS 1321' or 'CS 1371'))
+LMC 2720,Principles of Visual Design,84593,3,('ENGL 1102')
+LMC 2730,Constructing the Moving Image,84594,3,('LMC 2000' or 'LMC 2700' or 'LMC 2720')
+LMC 3102,"Science, Technology, and the Classical Tradition",93067,3,('ENGL 1102')
+LMC 3104,The Age of Scientific Discovery,93088,3,('ENGL 1102')
+LMC 3202,Studies in Fiction,93068,3,('ENGL 1102')
+LMC 3206,Communication and Culture,93069,3,('ENGL 1102')
+LMC 3208,African American Literature and Culture,93070,3,('ENGL 1102')
+LMC 3214,Science Fiction,88596,3,('ENGL 1102')
+LMC 3219,Literature and Medicine,93071,3,('ENGL 1102')
+LMC 3226,Jane Austen,93072,3,('ENGL 1102')
+LMC 3228,Shakespeare,94202,3,('ENGL 1102')
+LMC 3234,Creative Writing,94197,3,('ENGL 1102')
+LMC 3236,Writing for the Stage and Screen,87629,3,('ENGL 1102')
+LMC 3252,Studies in Film and Television,93074,3,('ENGL 1102' and ('LMC 2000' or 'LMC 2500' or 'LMC 2400'))
+LMC 3254,Film History,93075,3,('ENGL 1102' and ('LMC 2000' or 'LMC 2500' or 'LMC 2400'))
+LMC 3257,Global Cinema,94408,3,('ENGL 1102' and ('LMC 2000' or 'LMC 2500' or 'LMC 2400'))
+LMC 3259,Experimental Film,88598,3,('ENGL 1102' and ('LMC 2000' or 'LMC 2500' or 'LMC 2400'))
+LMC 3262,Performance Studies,91127,3,('ENGL 1102')
+LMC 3263,"Music, Culture, and Society",93089,3,('ENGL 1102')
+LMC 3304,"Science, Technology, and Gender",92572,3,('ENGL 1102')
+LMC 3310,The Rhetoric of Scientific Inquiry,93091,3,('ENGL 1102')
+LMC 3314,Technologies of Representation,93078,3,('ENGL 1102')
+LMC 3318,Biomedicine and Culture,93079,3,('ENGL 1102')
+LMC 3402,Graphic and Visual Design,85287,3,('ENGL 1102')
+LMC 3403,"Technical Communication, Theory and Practice",94410,3,('ENGL 1102')
+LMC 3404,Social Media,91128,3,('ENGL 1102')
 LMC 3405,"Media, Culture, and Society",92001,3,
-LMC 3406,Video Production,84608,3,(ENGL 1102)
-LMC 3412,Communicating Science and Technology to the Public,90115,3,(ENGL 1102)
-LMC 3431,Technical Communication Approaches,85091,1,(ENGL 1102)
-LMC 3432,Technical Communication Strategies,85863,2,(ENGL 1102)
-LMC 3453,Afrofuturism,93717,3,(ENGL 1101 and ENGL 1102)
-LMC 3516,Literary and Cultural Modernism,93084,3,(ENGL 1102)
-LMC 3661,Theatre Production III: Management,84609,1,(ENGL 1102)
-LMC 3662,Theatre Production IV: Acting,84610,1,(ENGL 1102)
-LMC 3710,Principles of Interaction Design,84611,3,((CS 1301 or CS 1315 or CS 1316 or CS 1321 or CS 1371) and (LMC 2700 or LMC 2000))
+LMC 3406,Video Production,84608,3,('ENGL 1102')
+LMC 3412,Communicating Science and Technology to the Public,90115,3,('ENGL 1102')
+LMC 3431,Technical Communication Approaches,85091,1,('ENGL 1102')
+LMC 3432,Technical Communication Strategies,85863,2,('ENGL 1102')
+LMC 3453,Afrofuturism,93717,3,('ENGL 1101' and 'ENGL 1102')
+LMC 3516,Literary and Cultural Modernism,93084,3,('ENGL 1102')
+LMC 3661,Theatre Production III: Management,84609,1,('ENGL 1102')
+LMC 3662,Theatre Production IV: Acting,84610,1,('ENGL 1102')
+LMC 3710,Principles of Interaction Design,84611,3,(('CS 1301' or 'CS 1315' or 'CS 1316' or 'CS 1321' or 'CS 1371') and ('LMC 2700' or 'LMC 2000'))
 LMC 3813,Intro to Editing,88581,3,
-LMC 4000,"Senior Seminar in Literature, Media, and Communication",93086,3,(ENGL 1102)
-LMC 4204,Poetry and Poetics II,94412,3,(ENGL 1102)
-LMC 4602,Performance Practicum,85658,3,(ENGL 1102)
-LMC 4699,Undergraduate Research,94735,1,(ENGL 1102)
-LMC 4701,Undergraduate Research Proposal Writing,84619,1,(ENGL 1102)
-LMC 4702,Undergraduate Research Thesis Writing,84620,1,(ENGL 1102)
-LMC 4720,Interactive Narrative,85659,3,((CS 1322 or CS 1331) and (LMC 2700 or LMC 2000))
-LMC 4725,Games Design as a Cultural Practice,86241,3,((CS 1322 or CS 1331) and (LMC 2700 or LMC 2000))
-LMC 4730,Experimental Digital Art,85636,3,((CS 1322 or CS 1331) and (LMC 2700 or LMC 2000))
-LMC 4813,Creative Mgmt and Comm,94597,3,(ENGL 1102)
-LMC 4904,Internship,94419,1,(ENGL 1102)
+LMC 4000,"Senior Seminar in Literature, Media, and Communication",93086,3,('ENGL 1102')
+LMC 4204,Poetry and Poetics II,94412,3,('ENGL 1102')
+LMC 4602,Performance Practicum,85658,3,('ENGL 1102')
+LMC 4699,Undergraduate Research,94735,1,('ENGL 1102')
+LMC 4701,Undergraduate Research Proposal Writing,84619,1,('ENGL 1102')
+LMC 4702,Undergraduate Research Thesis Writing,84620,1,('ENGL 1102')
+LMC 4720,Interactive Narrative,85659,3,(('CS 1322' or 'CS 1331') and ('LMC 2700' or 'LMC 2000'))
+LMC 4725,Games Design as a Cultural Practice,86241,3,(('CS 1322' or 'CS 1331') and ('LMC 2700' or 'LMC 2000'))
+LMC 4730,Experimental Digital Art,85636,3,(('CS 1322' or 'CS 1331') and ('LMC 2700' or 'LMC 2000'))
+LMC 4813,Creative Mgmt and Comm,94597,3,('ENGL 1102')
+LMC 4904,Internship,94419,1,('ENGL 1102')
 MGT 2106,"Legal, Social, Ethical Aspects of Business",80638,3,
 MGT 2210,Information Systems and Digital Transformation,87898,3,
-MGT 2250,Management Statistics,81753,3,(MATH 1712 or MATH 17X2 or MATH 1501 or MATH 15X1 or MATH 1550 or MATH 1551)
-MGT 2255,Quantitative Analysis for Business,86721,3,(MGT 2250)
+MGT 2250,Management Statistics,81753,3,('MATH 1712' or MATH 17X2 or 'MATH 1501' or MATH 15X1 or 'MATH 1550' or 'MATH 1551')
+MGT 2255,Quantitative Analysis for Business,86721,3,('MGT 2250')
 MGT 2699,Undergraduate Research,94775,1,
 MGT 3000,Financial and Managerial Accounting,83863,3,
-MGT 3062,Financial Management,87610,3,(ACCT 2101)
-MGT 3076,Investments,80639,3,(MGT 3062)
+MGT 3062,Financial Management,87610,3,('ACCT 2101')
+MGT 3076,Investments,80639,3,('MGT 3062')
 MGT 3078,Finance and Investments,84839,3,
-MGT 3079,Management of Financial Institutions,85186,3,(MGT 3062 or MGT 3078)
+MGT 3079,Management of Financial Institutions,85186,3,('MGT 3062' or 'MGT 3078')
 MGT 3082,Fundamentals of Real Estate Development,84647,3,
 MGT 3101,Organizational Behavior,93056,3,
 MGT 3102,Managing Human Resources within a Regulatory Environment,85725,3,
-MGT 3103,Leadership in a Changing Environment,84648,3,(MGT 3101 or MGT 3102 or MGT 3150)
+MGT 3103,Leadership in a Changing Environment,84648,3,('MGT 3101' or 'MGT 3102' or 'MGT 3150')
 MGT 3300,Marketing Management I,94435,3,
-MGT 3310,Marketing Research: Analytics,94217,3,(MGT 3300 and (MGT 2250 or BMED 2400 or ECON 2250 or ISYE 3030 or ISYE 3770 or MATH 3215 or MATH 3670 or PSYC 2020 or PUBP 3120))
-MGT 3501,Operations Management,80641,3,(MGT 2255)
-MGT 3510,Management of Technology,92029,3,(MGT 3501)
+MGT 3310,Marketing Research: Analytics,94217,3,('MGT 3300' and ('MGT 2250' or 'BMED 2400' or 'ECON 2250' or 'ISYE 3030' or 'ISYE 3770' or 'MATH 3215' or 'MATH 3670' or 'PSYC 2020' or 'PUBP 3120'))
+MGT 3501,Operations Management,80641,3,('MGT 2255')
+MGT 3510,Management of Technology,92029,3,('MGT 3501')
 MGT 3599,Career Development Workshop,94105,1,
-MGT 3659,Foundations of Strategy,87831,3,(ACCT 2101 or MGT 3000)
+MGT 3659,Foundations of Strategy,87831,3,('ACCT 2101' or 'MGT 3000')
 MGT 3660,International Business,89065,3,
 MGT 3662,Management in the Healthcare Sector,86187,3,
-MGT 3664,Corporate Strategy,86713,3,(MGT 3659)
+MGT 3664,Corporate Strategy,86713,3,('MGT 3659')
 MGT 3743,Analysis of Emerging Technologies,82729,3,
-MGT 3745,Business Programming,93549,3,(CS 1371 or CS 1315 or CS 1331 or CS 1301)
+MGT 3745,Business Programming,93549,3,('CS 1371' or 'CS 1315' or 'CS 1331' or 'CS 1301')
 MGT 3770,Business Decisions for Sustainability and Shared Value,93132,3,
-MGT 4010,Business Taxation,81067,3,(MGT 3000)
-MGT 4026,Financial Reporting and Analysis I,80643,3,(MGT 3000)
-MGT 4027,Financial Reporting and Analysis II,85185,3,(MGT 3000 and MGT 4026)
-MGT 4045,Seminar in Advanced Accounting,92857,3,(MGT 3000)
-MGT 4050,Business Analytics,90252,3,(MGT 2250)
-MGT 4052,Systems Analysis and Design,83173,3,(MGT 4058)
-MGT 4057,Business Process Analysis and Design,88622,3,(MGT 2210)
-MGT 4058,Database Management Systems,84646,3,(MGT 2210)
-MGT 4067,Financial Markets: Trading and Structure,85733,3,(MGT 3076)
-MGT 4070,International Finance,84683,3,(MGT 3062 or MGT 3078)
-MGT 4072,Entrepreneurial Finance,90207,3,(MGT 3062 or MGT 3078)
-MGT 4119,Leading Teams in Organizations,91348,3,(MGT 3101 or MGT 3150)
+MGT 4010,Business Taxation,81067,3,('MGT 3000')
+MGT 4026,Financial Reporting and Analysis I,80643,3,('MGT 3000')
+MGT 4027,Financial Reporting and Analysis II,85185,3,('MGT 3000' and 'MGT 4026')
+MGT 4045,Seminar in Advanced Accounting,92857,3,('MGT 3000')
+MGT 4050,Business Analytics,90252,3,('MGT 2250')
+MGT 4052,Systems Analysis and Design,83173,3,('MGT 4058')
+MGT 4057,Business Process Analysis and Design,88622,3,('MGT 2210')
+MGT 4058,Database Management Systems,84646,3,('MGT 2210')
+MGT 4067,Financial Markets: Trading and Structure,85733,3,('MGT 3076')
+MGT 4070,International Finance,84683,3,('MGT 3062' or 'MGT 3078')
+MGT 4072,Entrepreneurial Finance,90207,3,('MGT 3062' or 'MGT 3078')
+MGT 4119,Leading Teams in Organizations,91348,3,('MGT 3101' or 'MGT 3150')
 MGT 4193,"Servant Leadership, Values &amp; Systems",86243,3,
-MGT 4196,Strategy Consulting Practicum,91343,3,(MGT 3664)
-MGT 4220,Integrative Management Experience,88813,3,(MGT 3664)
-MGT 4303,Personal Selling and Sales Management,91400,3,(MGT 3300)
-MGT 4304,Strategic Brand Management,85727,3,(MGT 3300)
-MGT 4311,Digital Marketing,83942,3,(MGT 3300)
-MGT 4345,Marketing Consulting Practicum,94651,3,(MGT 3300)
-MGT 4353,Operations Strategy,93053,3,(MGT 3501)
-MGT 4360,Global Operations and Supply Chain Management,86719,3,(MGT 3501)
-MGT 4366,Service Operations Management,85344,3,(MGT 3501)
+MGT 4196,Strategy Consulting Practicum,91343,3,('MGT 3664')
+MGT 4220,Integrative Management Experience,88813,3,('MGT 3664')
+MGT 4303,Personal Selling and Sales Management,91400,3,('MGT 3300')
+MGT 4304,Strategic Brand Management,85727,3,('MGT 3300')
+MGT 4311,Digital Marketing,83942,3,('MGT 3300')
+MGT 4345,Marketing Consulting Practicum,94651,3,('MGT 3300')
+MGT 4353,Operations Strategy,93053,3,('MGT 3501')
+MGT 4360,Global Operations and Supply Chain Management,86719,3,('MGT 3501')
+MGT 4366,Service Operations Management,85344,3,('MGT 3501')
 MGT 4369,Sustainable Business Consulting Practicum,88753,3,
-MGT 4401,Supply Chain Modeling,86165,3,(MGT 3501)
+MGT 4401,Supply Chain Modeling,86165,3,('MGT 3501')
 MGT 4450,Project Management,85184,3,
-MGT 4670,Entrepreneurship,89402,3,(MGT 3101 or MGT 3150)
+MGT 4670,Entrepreneurship,89402,3,('MGT 3101' or 'MGT 3150')
 MGT 4699,Undergraduate Research,87036,1,
 MGT 4726,"Privacy, Technology, Policy, and Law",85234,3,
 MGT 4741,Integrative Management Development-Project Preparation,82824,3,
@@ -842,139 +842,139 @@ MGT 4910,International Accounting,89371,1,
 MGT 4911,Advanced Managerial Accounting,93235,1,
 MGT 4912,Forensic Accounting,81793,1,
 MSE 1111,Introduction to Materials Science and Engineering,83465,1,
-MSE 2001,Principles and Applications of Engineering Materials,91630,3,(CHEM 1310 or CHEM 1102 or CHEM 12X1 or CHEM 1211K or CHEM 1112)
-MSE 2021,Materials Characterization,85777,4,(MSE 2001)
+MSE 2001,Principles and Applications of Engineering Materials,91630,3,('CHEM 1310' or 'CHEM 1102' or CHEM 12X1 or 'CHEM 1211K' or 'CHEM 1112')
+MSE 2021,Materials Characterization,85777,4,('MSE 2001')
 MSE 2698,Undergraduate Research Assistantship,84502,1,
 MSE 2699,Undergraduate Research,84364,1,
-MSE 3001,Chemical Thermodynamics of Materials,83795,3,(MSE 2001 and (MATH 2403 or MATH 24X3 or MATH 2413 or MATH 2602 or MATH 2552 or MATH 2X52 or MATH 2562))
-MSE 3002,"Structural Transformations in Metallic, Ceramic, and Polymeric Systems",87603,3,(MSE 3001 and MSE 3210)
-MSE 3005,Mechanical Behavior of Materials,90240,3,(MSE 2001 and COE 3001)
-MSE 3015,"Electrical, Optical, and Magnetic Properties",84583,3,(MSE 2001 and PHYS 2212)
-MSE 3021,Materials Laboratory I,93663,2,(MSE 2021)
-MSE 3025,Statistics and Numerical Methods in Materials Science and Engineering,81932,3,(CS 1371 and (MATH 2403 or MATH 24X3 or MATH 2413 or MATH 2552 or MATH 2X52 or MATH 2562) and MSE 2001)
-MSE 3210,Transport Phenomena,83806,3,((MATH 2401 or MATH 2411 or MATH 24X1 or MATH 2551 or MATH 2X51 or MATH 2561) and (MATH 2403 or MATH 24X3 or MATH 2413 or MATH 2552 or MATH 2X52 or MATH 2562) and MSE 3001)
-MSE 3225,Rheology,84212,3,(CHBE 3200 or ME 3340 or MSE 3210)
-MSE 3300,Materials Science &amp; Engineering of Sports,87601,3,(CHEM 1310 or CHEM 12X1 or CHEM 1211K)
-MSE 4002,"Ceramic Materials: Properties, Processing, Applications",80484,3,(MSE 3002)
-MSE 4022,Materials Laboratory II,86394,2,(MSE 2021)
-MSE 4140,Polymer Physics,83807,3,(MSE 3001 and MSE 4775)
-MSE 4330,Fundamentals of Nanomaterials and Nanostructures,83796,3,(MSE 2001)
+MSE 3001,Chemical Thermodynamics of Materials,83795,3,('MSE 2001' and ('MATH 2403' or 'MATH 24X3' or 'MATH 2413' or 'MATH 2602' or 'MATH 2552' or 'MATH 2X52' or 'MATH 2562'))
+MSE 3002,"Structural Transformations in Metallic, Ceramic, and Polymeric Systems",87603,3,('MSE 3001' and 'MSE 3210')
+MSE 3005,Mechanical Behavior of Materials,90240,3,('MSE 2001' and 'COE 3001')
+MSE 3015,"Electrical, Optical, and Magnetic Properties",84583,3,('MSE 2001' and 'PHYS 2212')
+MSE 3021,Materials Laboratory I,93663,2,('MSE 2021')
+MSE 3025,Statistics and Numerical Methods in Materials Science and Engineering,81932,3,('CS 1371' and ('MATH 2403' or 'MATH 24X3' or 'MATH 2413' or 'MATH 2552' or 'MATH 2X52' or 'MATH 2562') and 'MSE 2001')
+MSE 3210,Transport Phenomena,83806,3,(('MATH 2401' or 'MATH 2411' or 'MATH 25X1' or 'MATH 2551' or 'MATH 2X51' or 'MATH 2561') and ('MATH 2403' or 'MATH 24X3' or 'MATH 2413' or 'MATH 2552' or 'MATH 2X52' or 'MATH 2562') and 'MSE 3001')
+MSE 3225,Rheology,84212,3,('CHBE 3200' or 'ME 3340' or 'MSE 3210')
+MSE 3300,Materials Science &amp; Engineering of Sports,87601,3,('CHEM 1310' or CHEM 12X1 or 'CHEM 1211K')
+MSE 4002,"Ceramic Materials: Properties, Processing, Applications",80484,3,('MSE 3002')
+MSE 4022,Materials Laboratory II,86394,2,('MSE 2021')
+MSE 4140,Polymer Physics,83807,3,('MSE 3001' and 'MSE 4775')
+MSE 4330,Fundamentals of Nanomaterials and Nanostructures,83796,3,('MSE 2001')
 MSE 4410,Capstone Engineering Design I,83864,3,
 MSE 4698,Undergraduate Research Assistantship,85538,1,
 MSE 4699,Undergraduate Research,85947,1,
-MSE 4723,Interdisciplinary Capstone Design,89334,3,(ME 2110 and COE 3001 and ME 3017 and (ME 3180 or ME 4315) and ME 3210 and ME 3345 and MATH 3670)
-MSE 4740,Biologically Inspired Design,87569,3,(BIOL 1520 or BIOL 3600 or BMED 3100 or PHYS 2211)
-MSE 4751,Introduction to Biomaterials,81937,3,(MSE 2001)
-MSE 4755,Electronic Packaging Substrate Fabrication,86395,3,((MATH 2401 or MATH 2411 or MATH 24X1 or MATH 2551 or MATH 2X51 or MATH 2561) and (MATH 2403 or MATH 2413 or MATH 24X3 or MATH 2552 or MATH 2X52 or MATH 2562) and CHEM 1211K and PHYS 2212)
-MSE 4759,Electrochemical Energy Storage and Conversion,88511,3,(MSE 2001)
-MSE 4766,Fabrication and Properties of Nanoscale Devices,85360,3,(ME 3322 or ME 3720 or AE 3450 or PHYS 3141 or MSE 3001)
-MSE 4775,Polymer Science and Engineering I: Formation and Properties,81745,3,((CHEM 2312 or CHEM 1315) and (CHEM 3411 or MSE 3001 or CHBE 2130 or ME 3322))
-MSE 4790,Materials Selection and Design,84330,3,(COE 3001)
-MSE 4791,Mechanical Behavior of Composites,80485,3,(MSE 3005)
+MSE 4723,Interdisciplinary Capstone Design,89334,3,('ME 2110' and 'COE 3001' and 'ME 3017' and ('ME 3180' or 'ME 4315') and 'ME 3210' and 'ME 3345' and 'MATH 3670')
+MSE 4740,Biologically Inspired Design,87569,3,('BIOL 1520' or 'BIOL 3600' or 'BMED 3100' or 'PHYS 2211')
+MSE 4751,Introduction to Biomaterials,81937,3,('MSE 2001')
+MSE 4755,Electronic Packaging Substrate Fabrication,86395,3,(('MATH 2401' or 'MATH 2411' or 'MATH 25X1' or 'MATH 2551' or 'MATH 2X51' or 'MATH 2561') and ('MATH 2403' or 'MATH 2413' or 'MATH 24X3' or 'MATH 2552' or 'MATH 2X52' or 'MATH 2562') and 'CHEM 1211K' and 'PHYS 2212')
+MSE 4759,Electrochemical Energy Storage and Conversion,88511,3,('MSE 2001')
+MSE 4766,Fabrication and Properties of Nanoscale Devices,85360,3,('ME 3322' or 'ME 3720' or 'AE 3450' or 'PHYS 3141' or 'MSE 3001')
+MSE 4775,Polymer Science and Engineering I: Formation and Properties,81745,3,(('CHEM 2312' or 'CHEM 1315') and ('CHEM 3411' or 'MSE 3001' or 'CHBE 2130' or 'ME 3322'))
+MSE 4790,Materials Selection and Design,84330,3,('COE 3001')
+MSE 4791,Mechanical Behavior of Composites,80485,3,('MSE 3005')
 MSE 4803,Special Topics,94006,3,
 MATH 1111,College Algebra,94186,4,
-MATH 1113,Precalculus,90137,4,(MATH 1111 or SAT M500 or MATH or SECTION or SCORE or 530 or ACT M21)
-MATH 1550,Introduction to Differential Calculus,91991,3,((MATH 1113 or MATH 11X3) and SAT M600 or MATH or SECTION or SCORE or 620 or ACT M26)
-MATH 1551,Differential Calculus,87514,2,((MATH 1113 or MATH 11X3) and SAT M600 or MATH or SECTION or SCORE or 620 or ACT M600 or ACT M26)
-MATH 1552,Integral Calculus,90344,4,(MATH 1550 or MATH 1551 or MATH 1501 or MATH 15X1 or MATH 1X51)
-MATH 1553,Introduction to Linear Algebra,94142,2,((MATH 1113 or MATH 11X3) and SAT M600 or MATH or SECTION or SCORE or 620 or ACT M600 or ACT M26 or MATH 15X1 or MATH 1X51 or MATH 1551)
-MATH 1554,Linear Algebra,89574,4,((MATH 1113 or MATH 11X3) and ACT M26 or SAT M600 or MATH or SECTION or SCORE or 620 or ACT M600 or MATH 1552 or MATH 15X2 or MATH 1X52 or MATH 1551)
-MATH 1564,Linear Algebra with Abstract Vector Spaces,88427,4,(M or  or C or AB or 5 or M or  or C or BC or 5 or MATH 1552)
-MATH 1711,Finite Mathematics,91993,4,(SAT M550 or MATH or SECTION or SCORE or 570 or ACT M550 or (MATH 1113 or MATH 11X3) and ACT M24)
-MATH 1712,Survey of Calculus,88582,4,((MATH 1113 or MATH 11X3) and SAT M550 or MATH or SECTION or SCORE or 570 or ACT M550 or ACT M24)
-MATH 2106,Foundations of Mathematical Proof,93223,3,(MATH 1502 or MATH 1512 or MATH 1504 or MATH 1555 or  or MATH 1552 or MATH 15X2 or MATH 1X52)
-MATH 2550,Introduction to Multivariable Calculus,91946,2,(MATH 1502 or MATH 1512 or  or MATH 1552 or MATH 15X2 or MATH 1X52)
-MATH 2551,Multivariable Calculus,91632,4,(MATH 1502 or MATH 1512 or MATH 1504 or MATH 1555 or  or MATH 1552 or MATH 15X2 or MATH 1X52)
-MATH 2552,Differential Equations,89580,4,(MATH 1502 or MATH 1512 or MATH 1504 or MATH 1555 or  or MATH 1552 or MATH 15X2 or MATH 1X52)
-MATH 2603,Introduction to Discrete Mathematics,85148,4,(MATH 1502 or MATH 1512 or MATH 1504 or MATH 1555 or MATH 1552 or MATH 15X2 or MATH 1X52)
+MATH 1113,Precalculus,90137,4,('MATH 1111' or SAT M500 or MATH or SECTION or SCORE or 530 or ACT M21)
+MATH 1550,Introduction to Differential Calculus,91991,3,(('MATH 1113' or MATH 11X3) and SAT M600 or MATH or SECTION or SCORE or 620 or ACT M26)
+MATH 1551,Differential Calculus,87514,2,(('MATH 1113' or MATH 11X3) and SAT M600 or MATH or SECTION or SCORE or 620 or ACT M600 or ACT M26)
+MATH 1552,Integral Calculus,90344,4,('MATH 1550' or 'MATH 1551' or 'MATH 1501' or MATH 15X1 or MATH 1X51)
+MATH 1553,Introduction to Linear Algebra,94142,2,(('MATH 1113' or MATH 11X3) and SAT M600 or MATH or SECTION or SCORE or 620 or ACT M600 or ACT M26 or MATH 15X1 or MATH 1X51 or 'MATH 1551')
+MATH 1554,Linear Algebra,89574,4,(('MATH 1113' or MATH 11X3) and ACT M26 or SAT M600 or MATH or SECTION or SCORE or 620 or ACT M600 or 'MATH 1552' or MATH 15X2 or MATH 1X52 or 'MATH 1551')
+MATH 1564,Linear Algebra with Abstract Vector Spaces,88427,4,(M or  or C or AB or 5 or M or  or C or BC or 5 or 'MATH 1552')
+MATH 1711,Finite Mathematics,91993,4,(SAT M550 or MATH or SECTION or SCORE or 570 or ACT M550 or ('MATH 1113' or MATH 11X3) and ACT M24)
+MATH 1712,Survey of Calculus,88582,4,(('MATH 1113' or MATH 11X3) and SAT M550 or MATH or SECTION or SCORE or 570 or ACT M550 or ACT M24)
+MATH 2106,Foundations of Mathematical Proof,93223,3,('MATH 1502' or 'MATH 1512' or 'MATH 1504' or 'MATH 1555' or  or 'MATH 1552' or MATH 15X2 or MATH 1X52)
+MATH 2550,Introduction to Multivariable Calculus,91946,2,('MATH 1502' or 'MATH 1512' or  or 'MATH 1552' or MATH 15X2 or MATH 1X52)
+MATH 2551,Multivariable Calculus,91632,4,('MATH 1502' or 'MATH 1512' or 'MATH 1504' or 'MATH 1555' or  or 'MATH 1552' or MATH 15X2 or MATH 1X52)
+MATH 2552,Differential Equations,89580,4,('MATH 1502' or 'MATH 1512' or 'MATH 1504' or 'MATH 1555' or  or 'MATH 1552' or MATH 15X2 or MATH 1X52)
+MATH 2603,Introduction to Discrete Mathematics,85148,4,('MATH 1502' or 'MATH 1512' or 'MATH 1504' or 'MATH 1555' or 'MATH 1552' or MATH 15X2 or MATH 1X52)
 MATH 2699,Undergraduate Research,89969,1,
-MATH 3012,Applied Combinatorics Recitation,92993,3,(MATH 1502 or MATH 1512 or MATH 1504 or MATH 1555 or  or MATH 1552 or MATH 15X2 or MATH 1X52)
-MATH 3215,Introduction to Probability and Statistics,91095,3,(MATH 2401 or MATH 2411 or MATH 24X1 or MATH 2605 or MATH 2551 or MATH 2561 or MATH 2550 or MATH 2X51)
-MATH 3235,Probability Theory,91402,3,((MATH 2551 or MATH 2X51 or MATH 2561 or MATH 2401 or MATH 24X1 or MATH 2411 or MATH 2605 or MATH 2550) and (MATH 2106 or MATH 3012 or CS 2051))
-MATH 3406,A Second Course in Linear Algebra,93497,3,(MATH 1502 or MATH 1512 or MATH 1522 or MATH 1553 or MATH 1X54 or MATH 1554 or MATH 1564 or MATH 1X53)
-MATH 3670,Probability and Statistics with Applications,86260,3,(MATH 2401 or MATH 2411 or MATH 24X1 or MATH 2605 or MATH 2551 or MATH 2561 or MATH 2550 or MATH 2X51)
-MATH 4022,Introduction to Graph Theory,91890,3,(MATH 3012 or MATH 3022)
+MATH 3012,Applied Combinatorics Recitation,92993,3,('MATH 1502' or 'MATH 1512' or 'MATH 1504' or 'MATH 1555' or  or 'MATH 1552' or MATH 15X2 or MATH 1X52)
+MATH 3215,Introduction to Probability and Statistics,91095,3,('MATH 2401' or 'MATH 2411' or 'MATH 25X1' or 'MATH 2605' or 'MATH 2551' or 'MATH 2561' or 'MATH 2550' or 'MATH 2X51')
+MATH 3235,Probability Theory,91402,3,(('MATH 2551' or 'MATH 2X51' or 'MATH 2561' or 'MATH 2401' or 'MATH 25X1' or 'MATH 2411' or 'MATH 2605' or 'MATH 2550') and ('MATH 2106' or 'MATH 3012' or 'CS 2051'))
+MATH 3406,A Second Course in Linear Algebra,93497,3,('MATH 1502' or 'MATH 1512' or 'MATH 1522' or 'MATH 1553' or MATH 1X54 or 'MATH 1554' or 'MATH 1564' or MATH 1X53)
+MATH 3670,Probability and Statistics with Applications,86260,3,('MATH 2401' or 'MATH 2411' or 'MATH 25X1' or 'MATH 2605' or 'MATH 2551' or 'MATH 2561' or 'MATH 2550' or 'MATH 2X51')
+MATH 4022,Introduction to Graph Theory,91890,3,('MATH 3012' or 'MATH 3022')
 MATH 4080,Senior Project I,87977,2,
 MATH 4090,Senior Project II,87009,2,
-MATH 4107,Introduction to Abstract Algebra I,92886,3,(MATH 2106)
-MATH 4150,Introduction to Number Theory,92890,3,(MATH 2106 or MATH 2406 or CS 2051 or CS 3510 or CS 3511)
-MATH 4210,Mathematical Foundations of Data Science,92892,3,(MATH 3215 or MATH 3225 or MATH 3235 or MATH 3670)
-MATH 4261,Mathematical Statistics I,82528,3,(MATH 3215 or MATH 3225 or MATH 3235 or MATH 3670 or MATH 3770 or ISYE 3770 or CEE 3770)
-MATH 4305,Topics in Linear Algebra,80462,3,(MATH 1502 or MATH 1512 or MATH 1504 or MATH 1555 or  or MATH 1552 or MATH 15X2 or MATH 1X52)
-MATH 4317,Analysis I,90151,3,(MATH 2106)
-MATH 4320,Complex Analysis,92894,3,(MATH 2401 or MATH 2411 or MATH 24X1 or MATH 2605 or MATH 2551 or MATH 2561 or MATH 2550 or MATH 2X51)
-MATH 4347,Partial Differential Equations I,80467,3,((MATH 2550 or MATH 2551 or MATH 2561) and (MATH 24X3 or MATH 2552 or MATH 2562))
-MATH 4431,Introductory Topology,80468,3,(MATH 4317)
-MATH 4441,Differential Geometry,81277,3,(MATH 2401 or MATH 2411 or MATH 24X1 or MATH 2605 or MATH 2551 or MATH 2561 or MATH 2550 or MATH 2X51)
-MATH 4541,Dynamics and Bifurcations I,80469,3,((MATH 2403 or MATH 2413 or MATH 24X3 or MATH 2552 or MATH 2562 or MATH 2X52) and (MATH 1522 or MATH 1553 or MATH 1X54 or MATH 1554 or MATH 1564 or MATH 1X53 or MATH 1502 or MATH 1512))
-MATH 4581,Classical Mathematical Methods in Engineering,88572,3,(MATH 2403 or MATH 2413 or MATH 24X3 or MATH 2605 or MATH 2552 or MATH 2562 or MATH 2X52)
-MATH 4640,Numerical Analysis I,85215,3,(MATH 2403 or MATH 2413 or MATH 24X3 or MATH 2602 or MATH 2605 or MATH 2552 or MATH 2562 or MATH 2X52 or MATH 2603)
+MATH 4107,Introduction to Abstract Algebra I,92886,3,('MATH 2106')
+MATH 4150,Introduction to Number Theory,92890,3,('MATH 2106' or 'MATH 2406' or 'CS 2051' or 'CS 3510' or 'CS 3511')
+MATH 4210,Mathematical Foundations of Data Science,92892,3,('MATH 3215' or 'MATH 3225' or 'MATH 3235' or 'MATH 3670')
+MATH 4261,Mathematical Statistics I,82528,3,('MATH 3215' or 'MATH 3225' or 'MATH 3235' or 'MATH 3670' or 'MATH 3770' or 'ISYE 3770' or 'CEE 3770')
+MATH 4305,Topics in Linear Algebra,80462,3,('MATH 1502' or 'MATH 1512' or 'MATH 1504' or 'MATH 1555' or  or 'MATH 1552' or MATH 15X2 or MATH 1X52)
+MATH 4317,Analysis I,90151,3,('MATH 2106')
+MATH 4320,Complex Analysis,92894,3,('MATH 2401' or 'MATH 2411' or 'MATH 25X1' or 'MATH 2605' or 'MATH 2551' or 'MATH 2561' or 'MATH 2550' or 'MATH 2X51')
+MATH 4347,Partial Differential Equations I,80467,3,(('MATH 2550' or 'MATH 2551' or 'MATH 2561') and ('MATH 24X3' or 'MATH 2552' or 'MATH 2562'))
+MATH 4431,Introductory Topology,80468,3,('MATH 4317')
+MATH 4441,Differential Geometry,81277,3,('MATH 2401' or 'MATH 2411' or 'MATH 25X1' or 'MATH 2605' or 'MATH 2551' or 'MATH 2561' or 'MATH 2550' or 'MATH 2X51')
+MATH 4541,Dynamics and Bifurcations I,80469,3,(('MATH 2403' or 'MATH 2413' or 'MATH 24X3' or 'MATH 2552' or 'MATH 2562' or 'MATH 2X52') and ('MATH 1522' or 'MATH 1553' or MATH 1X54 or 'MATH 1554' or 'MATH 1564' or MATH 1X53 or 'MATH 1502' or 'MATH 1512'))
+MATH 4581,Classical Mathematical Methods in Engineering,88572,3,('MATH 2403' or 'MATH 2413' or 'MATH 24X3' or 'MATH 2605' or 'MATH 2552' or 'MATH 2562' or 'MATH 2X52')
+MATH 4640,Numerical Analysis I,85215,3,('MATH 2403' or 'MATH 2413' or 'MATH 24X3' or 'MATH 2602' or 'MATH 2605' or 'MATH 2552' or 'MATH 2562' or 'MATH 2X52' or 'MATH 2603')
 MATH 4698,Undergraduate Research Assistantship,89555,1,
 MATH 4699,Undergraduate Research,89510,1,
-MATH 4782,Quantum Information and Quantum Computing,86152,3,(MATH 2401 or MATH 24X1 or MATH 2411 or MATH 2605 or MATH 2551 or MATH 2561 or MATH 2550 or MATH 2X51)
+MATH 4782,Quantum Information and Quantum Computing,86152,3,('MATH 2401' or 'MATH 25X1' or 'MATH 2411' or 'MATH 2605' or 'MATH 2551' or 'MATH 2561' or 'MATH 2550' or 'MATH 2X51')
 MATH 4801,UTA Preparation,94234,1,
 MATH 4802,Special Topics,92053,2,
 MATH 4803,Special Topics,92896,3,
 MATH 4999,Reading or Research,91702,1,
 ME 1670,Introduction to Engineering Graphics and Design,91361,0,
-ME 2016,Computer Applications,93837,3,((CS 1371 or (CS 1301 and CS 1171) and (CS 1311 and CS 1171) and (CS 13X1 and CS 1171) and (CS 13X2 and CS 1171) and (CS 17XX and CS 1171) and (CS 15XX and CS 1171)) and (MATH 1552 or MATH 1X52 or MATH 1502 or MATH 1512 or MATH 15X2) and (MATH 1553 or MATH 1564 or MATH 1554 or MATH 1502 or MATH 1512) and (MATH 2552 or MATH 2X52 or MATH 2562 or MATH 2403 or MATH 2413 or MATH 24X3))
-ME 2110,Creative Decisions and Design,94129,3,((AE 1770 or CEE 1770 or ME 1770) and COE 2001)
-ME 2202,ME 2202 Recitation,94345,3,(COE 2001)
-ME 2205,Three-dimensional rigid body dynamics,87901,1,(COE 2001 and CEE 2040 and MATH 1553)
+ME 2016,Computer Applications,93837,3,(('CS 1371' or ('CS 1301' and ''''''CS 1171'''''') and ('CS 1311' and ''''''CS 1171'''''') and (CS 13X1 and ''''''CS 1171'''''') and (CS 13X2 and ''''''CS 1171'''''') and (CS 17XX and ''''''CS 1171'''''') and (CS 15XX and ''''''CS 1171'''''')) and ('MATH 1552' or MATH 1X52 or ''MATH 1502'' or ''MATH 1512'' or MATH 15X2) and ('MATH 1553' or 'MATH 1564' or 'MATH 1554' or ''MATH 1502'' or ''MATH 1512'') and ('MATH 2552' or 'MATH 2X52' or 'MATH 2562' or 'MATH 2403' or 'MATH 2413' or 'MATH 24X3'))
+ME 2110,Creative Decisions and Design,94129,3,(('AE 1770' or 'CEE 1770' or 'ME 1770') and 'COE 2001')
+ME 2202,ME 2202 Recitation,94345,3,('COE 2001')
+ME 2205,Three-dimensional rigid body dynamics,87901,1,('COE 2001' and 'CEE 2040' and 'MATH 1553')
 ME 2698,Undergraduate Research Assistantship,86585,1,
 ME 2699,Undergraduate Research,83731,1,
 ME 2803,Engr. Global Sustainable Dev.,93547,3,
-ME 3017,ME 3017 Recitation,94355,3,((MATH 2552 or MATH 2X52 or MATH 2403 or MATH 2413 or MATH 24X3 or MATH 2562) and (ME 2202 or AE 2220) and ME 2016 and (ECE 3710 or ECE 2040))
-ME 3057,Experimental Methodology and Technical Writing,81974,3,((ME 3340 or CEE 3040) and COE 3001 and (ME 3015 or ME 3017 or AE 3515) and ME 3345 and (MATH 3770 or MATH 3670 or ISYE 3770 or CEE 3770))
-ME 3180,Machine Design,82300,3,((AE 1770 or CEE 1770 or ME 1770) and ME 2110 and COE 3001)
-ME 3210,"Design, Materials, and Manufacture",85063,3,(ME 2110 and MSE 2001 and COE 3001)
-ME 3322,ME 3322 Recitation,94357,3,((PHYS 2211 or PHYS 2231) and (MATH 2403 or MATH 24X3 or MATH 2413 or MATH 2552 or MATH 2X52 or MATH 2562))
-ME 3340,ME 3340 Recitation,94363,3,((ME 2202 or AE 2220 or NRE 2110 or NRE 3301 or MSE 3005 or PTFE 2200) and (ME 3322 or CHEM 3411 or MSE 3001) and (MATH 2401 or MATH 2411 or MATH 24X1 or MATH 2551 or MATH 2X51 or MATH 2561) and (MATH 2403 or MATH 2413 or MATH 24X3 or MATH 2552 or MATH 2562 or MATH 2X52) and COE 2001)
-ME 3345,ME 3345 Recitation,94372,3,((MATH 2403 or MATH 2413 or MATH 24X3 or MATH 2552 or MATH 2X52 or MATH 2562) and (ME 3340 or CEE 3040) and ME 3322)
+ME 3017,ME 3017 Recitation,94355,3,(('MATH 2552' or 'MATH 2X52' or 'MATH 2403' or 'MATH 2413' or 'MATH 24X3' or 'MATH 2562') and ('ME 2202' or 'AE 2220') and 'ME 2016' and ('ECE 3710' or 'ECE 2040'))
+ME 3057,Experimental Methodology and Technical Writing,81974,3,(('ME 3340' or 'CEE 3040') and 'COE 3001' and ('ME 3015' or 'ME 3017' or 'AE 3515') and 'ME 3345' and ('MATH 3770' or 'MATH 3670' or 'ISYE 3770' or 'CEE 3770'))
+ME 3180,Machine Design,82300,3,(('AE 1770' or 'CEE 1770' or 'ME 1770') and 'ME 2110' and 'COE 3001')
+ME 3210,"Design, Materials, and Manufacture",85063,3,('ME 2110' and 'MSE 2001' and 'COE 3001')
+ME 3322,ME 3322 Recitation,94357,3,(('PHYS 2211' or 'PHYS 2231') and ('MATH 2403' or 'MATH 24X3' or 'MATH 2413' or 'MATH 2552' or 'MATH 2X52' or 'MATH 2562'))
+ME 3340,ME 3340 Recitation,94363,3,(('ME 2202' or 'AE 2220' or 'NRE 2110' or 'NRE 3301' or 'MSE 3005' or 'PTFE 2200') and ('ME 3322' or 'CHEM 3411' or 'MSE 3001') and ('MATH 2401' or 'MATH 2411' or 'MATH 25X1' or 'MATH 2551' or 'MATH 2X51' or 'MATH 2561') and ('MATH 2403' or 'MATH 2413' or 'MATH 24X3' or 'MATH 2552' or 'MATH 2562' or 'MATH 2X52') and 'COE 2001')
+ME 3345,ME 3345 Recitation,94372,3,(('MATH 2403' or 'MATH 2413' or 'MATH 24X3' or 'MATH 2552' or 'MATH 2X52' or 'MATH 2562') and ('ME 3340' or 'CEE 3040') and 'ME 3322')
 ME 3743,Analysis of Emerging Technologies,82738,3,
-ME 4011,Internal Combustion Engines,82535,3,(ME 3345)
-ME 4012,Modeling and Control of Motion Systems,87632,3,(ME 3015 or ME 3017 or AE 3515)
-ME 4013,Hybrid Vehicle Powertrains,91552,3,(ECE 3710 or ECE 2040)
-ME 4042,Interactive Computer-Aided Design and Computer-Aided Engineering,88484,3,(ME 3180 and ME 3345)
-ME 4056,Mechanical Engineering Systems Laboratory,88421,3,((ME 3017 or ME 3015 or AE 3515) and ME 3057 and ME 3345 and (MATH 3770 or MATH 3670 or CEE 3770 or ISYE 3770))
+ME 4011,Internal Combustion Engines,82535,3,('ME 3345')
+ME 4012,Modeling and Control of Motion Systems,87632,3,('ME 3015' or 'ME 3017' or 'AE 3515')
+ME 4013,Hybrid Vehicle Powertrains,91552,3,('ECE 3710' or 'ECE 2040')
+ME 4042,Interactive Computer-Aided Design and Computer-Aided Engineering,88484,3,('ME 3180' and 'ME 3345')
+ME 4056,Mechanical Engineering Systems Laboratory,88421,3,(('ME 3017' or 'ME 3015' or 'AE 3515') and 'ME 3057' and 'ME 3345' and ('MATH 3770' or 'MATH 3670' or 'CEE 3770' or 'ISYE 3770'))
 ME 4171,Environmentally Conscious Design and Manufacturing,93055,3,
-ME 4182,Mechanical Design Engineering,90274,3,(ME 2110 and ME 3210 and (ME 3180 or ME 4315) and (MATH 3770 or MATH 3670 or CEE 3770 or ISYE 3770) and COE 3001 and ME 3345 and ME 3017)
-ME 4189,Mechanical Vibrations,93172,3,((ME 2202 or AE 2220) and (MATH 2403 or MATH 2413 or MATH 24X3 or MATH 2552 or MATH 2X52 or MATH 2562))
-ME 4315,Energy Systems Analysis and Design,85224,3,((AE 1770 or CEE 1770 or ME 1770) and ME 2110 and ME 3345)
-ME 4332,Renewable Energy Systems,93173,3,(ME 3322 and ME 3340 and ME 3345)
+ME 4182,Mechanical Design Engineering,90274,3,('ME 2110' and 'ME 3210' and ('ME 3180' or 'ME 4315') and ('MATH 3770' or 'MATH 3670' or 'CEE 3770' or 'ISYE 3770') and 'COE 3001' and 'ME 3345' and 'ME 3017')
+ME 4189,Mechanical Vibrations,93172,3,(('ME 2202' or 'AE 2220') and ('MATH 2403' or 'MATH 2413' or 'MATH 24X3' or 'MATH 2552' or 'MATH 2X52' or 'MATH 2562'))
+ME 4315,Energy Systems Analysis and Design,85224,3,(('AE 1770' or 'CEE 1770' or 'ME 1770') and 'ME 2110' and 'ME 3345')
+ME 4332,Renewable Energy Systems,93173,3,('ME 3322' and 'ME 3340' and 'ME 3345')
 ME 4342,Computational Fluid Dynamics,87637,3,
-ME 4405,Fundamentals of Mechatronics,89524,3,(ME 3017 and ME 3057)
-ME 4451,Robotics,88403,3,(ME 3015 or ME 3017 or AE 3515)
-ME 4452,Control of Dynamic Systems,84248,3,(ME 3017 or ME 3015 or AE 3515)
+ME 4405,Fundamentals of Mechatronics,89524,3,('ME 3017' and 'ME 3057')
+ME 4451,Robotics,88403,3,('ME 3015' or 'ME 3017' or 'AE 3515')
+ME 4452,Control of Dynamic Systems,84248,3,('ME 3017' or 'ME 3015' or 'AE 3515')
 ME 4698,Undergraduate Research Assistantship,89827,1,
 ME 4699,Undergraduate Research,88124,1,
-ME 4720,Pulp and Paper Manufacturing,86258,3,(CHBE 3130 or ME 3322)
-ME 4723,Interdisciplinary Capstone Design,88694,3,(ME 2110 and COE 3001 and ME 3017 and (ME 3180 or ME 4315) and ME 3210 and ME 3345 and ME 3670)
-ME 4740,Biologically Inspired Design,87555,3,(BIOL 1520 or BIOL 3600 or BMED 3100 or PHYS 2211 or PHYS 2231)
+ME 4720,Pulp and Paper Manufacturing,86258,3,('CHBE 3130' or 'ME 3322')
+ME 4723,Interdisciplinary Capstone Design,88694,3,('ME 2110' and 'COE 3001' and 'ME 3017' and ('ME 3180' or 'ME 4315') and 'ME 3210' and 'ME 3345' and 'ME 3670')
+ME 4740,Biologically Inspired Design,87555,3,('BIOL 1520' or 'BIOL 3600' or 'BMED 3100' or 'PHYS 2211' or 'PHYS 2231')
 ME ME 4741,Integrative Management Development Project Preparation,83199,0,
 ME 4753,Topics in Engineering Practice,87187,3,
-ME 4759,Electrochemical Energy Storage and Conversion,88519,3,(MSE 2001)
-ME 4760,Engineering Acoustics and Noise Control,91355,3,(MATH 2403 or MATH 24X3 or MATH 2413 or MATH 2552 or MATH 2562 or MATH 2X52)
-ME 4766,Fabrication and Properties of Nanoscale Devices,85359,3,(ME 3322 or ME 3720 or AE 3450 or PHYS 3141 or MSE 3001)
-ME 4775,Polymer Science and Engineering I: Formation and Properties,87554,3,((CHEM 2312 or CHEM 1315) and (CHEM 3411 or MSE 3001 or CHBE 2130 or ME 3322))
-ME 4781,Biomedical Instrumentation,83857,3,(ECE 3040 or ECE 3710 or ECE 3030)
-ME 4790,Materials Selection and Design,84331,3,(COE 3001 or MSE 3003)
-ME 4791,Mechanical Behavior of Composites,80438,3,(COE 3001)
+ME 4759,Electrochemical Energy Storage and Conversion,88519,3,('MSE 2001')
+ME 4760,Engineering Acoustics and Noise Control,91355,3,('MATH 2403' or 'MATH 24X3' or 'MATH 2413' or 'MATH 2552' or 'MATH 2562' or 'MATH 2X52')
+ME 4766,Fabrication and Properties of Nanoscale Devices,85359,3,('ME 3322' or 'ME 3720' or 'AE 3450' or 'PHYS 3141' or 'MSE 3001')
+ME 4775,Polymer Science and Engineering I: Formation and Properties,87554,3,(('CHEM 2312' or 'CHEM 1315') and ('CHEM 3411' or 'MSE 3001' or 'CHBE 2130' or 'ME 3322'))
+ME 4781,Biomedical Instrumentation,83857,3,('ECE 3040' or 'ECE 3710' or 'ECE 3030')
+ME 4790,Materials Selection and Design,84331,3,('COE 3001' or 'MSE 3003')
+ME 4791,Mechanical Behavior of Composites,80438,3,('COE 3001')
 ME 4803,Engrg Intrapreneurship,91839,3,
 ME 4823,Special Topics,91479,3,
 ME 4863,Special Topics,89427,3,
 ME 4901,Special Problems in Mechanical Engineering,82726,1,
 ME 4903,Special Problems,94893,1,
 MSL 1001,Leadership and Personal Development,89309,3,
-MSL 2001,Innovative Team Leadership,89311,3,(MSL 1002)
-MSL 3001,Adaptive Tactical Leadership,92601,4,(MSL 2002)
-MSL 4001,Developing Adaptive Leaders,94906,4,(MSL 3002)
+MSL 2001,Innovative Team Leadership,89311,3,('MSL 1002')
+MSL 3001,Adaptive Tactical Leadership,92601,4,('MSL 2002')
+MSL 4001,Developing Adaptive Leaders,94906,4,('MSL 3002')
 MSL 4901,Special Problems,86966,1,
 ML 2500,"Think Globally, Act Locally: An Introduction to Cross-Cultural Studies",94469,3,
 MUSI 1801,Special Topics,92082,1,
 MUSI 2010,Fundamentals of Musicianship I,84268,3,
-MUSI 2012,Fundamentals of Musicianship III,87755,3,(MUSI 2011)
-MUSI 2525,Introduction Audio Technology I,87756,3,(MATH 1552)
+MUSI 2012,Fundamentals of Musicianship III,87755,3,('MUSI 2011')
+MUSI 2525,Introduction Audio Technology I,87756,3,('MATH 1552')
 MUSI 3018,Marching Band,85696,2,
 MUSI 3121,Concert Band,85695,1,
 MUSI 3131,Symphonic Band,85719,1,
@@ -989,14 +989,14 @@ MUSI 3551,Rock and Pop Ensemble,92840,1,
 MUSI 3611,Symphony Orchestra,85698,1,
 MUSI 3621,Musicians &amp; their Music,91987,3,
 MUSI 3630,"The History of Jazz, the Roots and Evolution of an American Musical Art Form",94172,3,
-MUSI 3770,Project Studio: Technology,88563,4,(MUSI 2013 and MUSI 2526)
+MUSI 3770,Project Studio: Technology,88563,4,('MUSI 2013' and 'MUSI 2526')
 MUSI 4450,Integrating Music Into Multimedia,92851,3,
-MUSI 4457,Audio Content Analysis,92838,3,(MUSI 2526)
+MUSI 4457,Audio Content Analysis,92838,3,('MUSI 2526')
 MUSI 4670,Music Interface Design,92811,3,
-MUSI 4677,Music Perception and Cognition,92835,3,((CS 1301 or CS 1315 or CS 1371))
+MUSI 4677,Music Perception and Cognition,92835,3,(('CS 1301' or 'CS 1315' or 'CS 1371'))
 MUSI 4698,Undergraduate Research Assistantship,89736,1,
 MUSI 4699,Undergraduate Research,89791,1,
-MUSI 4705,Music Technology Capstone I,94335,4,(MUSI 3770 and MUSI 3771)
+MUSI 4705,Music Technology Capstone I,94335,4,('MUSI 3770' and 'MUSI 3771')
 NS 1000,Naval Science Leadership Lab,87725,1,
 NS 1321,Introduction to Naval Sciences,80536,3,
 NS 2321,Naval Leadership and Management,87738,3,
@@ -1004,25 +1004,25 @@ NS 3323,Evolution of Warfare,91373,3,
 NS 3325,Naval Weapons Systems,81799,3,
 NS 4320,Naval Operations and Seamanship,87736,3,
 NS 4333,Fundamentals of Maneuver Warfare,93301,3,
-NEUR 2001,Introduction to Neuroscience Recitation,90071,4,(PSYC 1101 and (BIOL 1510 or  or BIOS 1107 or BIOS 1207) and (BIOS 1107L or BIOS 1207L))
+NEUR 2001,Introduction to Neuroscience Recitation,90071,4,('PSYC 1101' and ('BIOL 1510' or  or 'BIOS 1107' or 'BIOS 1207') and ('BIOS 1107L' or 'BIOS 1207L'))
 NEUR 2698,Undergraduate Research Assistantship,89976,1,
 NEUR 2699,Undergraduate Research,89374,1,
-NEUR 3001,Cell and Molecular Neuroscience,90210,3,(NEUR 2001)
-NEUR 3003,Neuroscience of Behavior,89121,3,(NEUR 2001)
-NEUR 3010,Methods in Neuroscience,87529,3,(NEUR 3001 and (CS 1301 or CS 1315 or CS 1371) and (BIOS 4401 or BMED 2400 or ISYE 3770 or ECE 3077 or PSYC 2020 or MATH 3215 or MATH 3225 or MATH 3670))
-NEUR 4001,Neuroscience Research Project,93275,4,(NEUR 3010 and BIOS 4400 and NEUR 3003)
-NEUR 4100,Neurodevelopment,93276,3,(NEUR 2001)
+NEUR 3001,Cell and Molecular Neuroscience,90210,3,('NEUR 2001')
+NEUR 3003,Neuroscience of Behavior,89121,3,('NEUR 2001')
+NEUR 3010,Methods in Neuroscience,87529,3,('NEUR 3001' and ('CS 1301' or 'CS 1315' or 'CS 1371') and ('BIOS 4401' or 'BMED 2400' or 'ISYE 3770' or 'ECE 3077' or 'PSYC 2020' or 'MATH 3215' or 'MATH 3225' or 'MATH 3670'))
+NEUR 4001,Neuroscience Research Project,93275,4,('NEUR 3010' and 'BIOS 4400' and 'NEUR 3003')
+NEUR 4100,Neurodevelopment,93276,3,('NEUR 2001')
 NEUR 4698,Undergraduate Research Assistantship,89633,1,
 NEUR 4699,Undergraduate Research,90433,1,
 NEUR 4803,Intro Neuroengineering,93683,3,
-NRE 2120,Elements of Nuclear and Radiological Engineering,87054,3,(MATH 1551 and PHYS 2211)
+NRE 2120,Elements of Nuclear and Radiological Engineering,87054,3,('MATH 1551' and 'PHYS 2211')
 NRE 2699,Undergraduate Research,94841,1,
-NRE 3112,Nuclear Radiation Detection,86402,3,(NRE 2110 and NRE 3301)
-NRE 3208,Nuclear Reactor Phys I,87681,3,((MATH 2403 or MATH 2413 or MATH 24X3 or MATH 2552 or MATH 2562 or MATH 2X52) and (NRE 3301 or NRE 2120) and CS 1371)
-NRE 4210,Nuclear Reactor Theory,88525,3,(MATH 2552 and NRE 3208)
-NRE 4214,Reactor Engineering,89462,3,(ME 3340 and ME 3345 and NRE 3208)
-NRE 4328,Radiation Sources and Applications,91836,3,(NRE 3112 and NRE 3316)
-NRE 4350,Design Methods &amp; Tools,87692,3,(NRE 3208 and NRE 3112 and NRE 3316 and NRE 3026 and (NRE 4214 or NRE 4328))
+NRE 3112,Nuclear Radiation Detection,86402,3,('NRE 2110' and 'NRE 3301')
+NRE 3208,Nuclear Reactor Phys I,87681,3,(('MATH 2403' or 'MATH 2413' or 'MATH 24X3' or 'MATH 2552' or 'MATH 2562' or 'MATH 2X52') and ('NRE 3301' or 'NRE 2120') and 'CS 1371')
+NRE 4210,Nuclear Reactor Theory,88525,3,('MATH 2552' and 'NRE 3208')
+NRE 4214,Reactor Engineering,89462,3,('ME 3340' and 'ME 3345' and 'NRE 3208')
+NRE 4328,Radiation Sources and Applications,91836,3,('NRE 3112' and 'NRE 3316')
+NRE 4350,Design Methods &amp; Tools,87692,3,('NRE 3208' and 'NRE 3112' and 'NRE 3316' and 'NRE 3026' and ('NRE 4214' or 'NRE 4328'))
 NRE 4610,Introduction to Plasma Physics and Fusion Engineering,92884,3,
 NRE 4698,Undergraduate Research Assistantship,94560,1,
 NRE 4699,Undergraduate Research,83751,1,
@@ -1038,75 +1038,75 @@ PHIL 3180,Biomedical Ethics,92656,3,
 PHIL 4176,Environmental Ethics,92829,3,
 PHIL 4803,Ethics Bowl,94728,3,
 PHYS 2021,The Solar System,80525,3,
-PHYS 2211,Introductory Physics I,94559,4,(MATH 1552 or MATH 1555 or MATH 1X52 or MATH 15X2)
-PHYS 2212,Introductory Physics II,85190,4,(PHYS 2211 or PHYS 2231)
-PHYS 2213,Introduction to Modern Physics,81170,3,(PHYS 2212 or PHYS 2232)
-PHYS 2231,Honors Physics I,93498,5,(MATH 1502 or MATH 1512 or MATH 1552)
-PHYS 2232,Honors Physics II,85384,5,(PHYS 2211 or PHYS 2231)
+PHYS 2211,Introductory Physics I,94559,4,('MATH 1552' or 'MATH 1555' or MATH 1X52 or MATH 15X2)
+PHYS 2212,Introductory Physics II,85190,4,('PHYS 2211' or 'PHYS 2231')
+PHYS 2213,Introduction to Modern Physics,81170,3,('PHYS 2212' or 'PHYS 2232')
+PHYS 2231,Honors Physics I,93498,5,('MATH 1502' or 'MATH 1512' or 'MATH 1552')
+PHYS 2232,Honors Physics II,85384,5,('PHYS 2211' or 'PHYS 2231')
 PHYS 2698,Undergraduate Research Assistantship,81500,1,
 PHYS 2699,Undergraduate Research,86561,1,
 PHYS 2750,Physics of the Weather,87574,3,
 PHYS 2803,Special Topics,91934,3,
 PHYS 2902,Special Problems,83225,1,
-PHYS 3122,Electrostatics and Magnetostatics,80528,3,((PHYS 2212 or PHYS 2232) and (MATH 2403 or MATH 2413 or MATH 24X3 or MATH 2552 or MATH 2562 or MATH 2X52) and (MATH 2401 or MATH 24X1 or MATH 2551 or MATH 2561 or MATH 2X51))
-PHYS 3123,Electrodynamics,86737,3,(PHYS 3122)
-PHYS 3141,Thermodynamics,83185,3,((PHYS 2212 or PHYS 2232) and (MATH 2403 or MATH 2413 or MATH 24X3 or MATH 2552 or MATH 2562 or MATH 2X52))
-PHYS 3143,Quantum Mechanics I,85705,3,(PHYS 2213 and (MATH 2403 or MATH 2413 or MATH 24X3 or MATH 2552 or MATH 2562 or MATH 2X52))
-PHYS 3151,Mathematical Physics,80530,3,((MATH 2403 or MATH 2413 or MATH 24X3 or MATH 2552 or MATH 2562 or MATH 2X52) and (PHYS 2212 or PHYS 2232))
-PHYS 3201,Classical Mechanics I,83186,3,((PHYS 2212 or PHYS 2232) and (MATH 2403 or MATH 2413 or MATH 24X3 or MATH 2552 or MATH 2562 or MATH 2X52))
-PHYS 3211,Electronics I,82857,5,(PHYS 2212 or PHYS 2232)
-PHYS 3226,Modern Optics Laboratory,89470,2,(PHYS 3225)
-PHYS 3232,Optics I,82267,3,(PHYS 2212)
+PHYS 3122,Electrostatics and Magnetostatics,80528,3,(('PHYS 2212' or 'PHYS 2232') and ('MATH 2403' or 'MATH 2413' or 'MATH 24X3' or 'MATH 2552' or 'MATH 2562' or 'MATH 2X52') and ('MATH 2401' or 'MATH 25X1' or 'MATH 2551' or 'MATH 2561' or 'MATH 2X51'))
+PHYS 3123,Electrodynamics,86737,3,('PHYS 3122')
+PHYS 3141,Thermodynamics,83185,3,(('PHYS 2212' or 'PHYS 2232') and ('MATH 2403' or 'MATH 2413' or 'MATH 24X3' or 'MATH 2552' or 'MATH 2562' or 'MATH 2X52'))
+PHYS 3143,Quantum Mechanics I,85705,3,('PHYS 2213' and ('MATH 2403' or 'MATH 2413' or 'MATH 24X3' or 'MATH 2552' or 'MATH 2562' or 'MATH 2X52'))
+PHYS 3151,Mathematical Physics,80530,3,(('MATH 2403' or 'MATH 2413' or 'MATH 24X3' or 'MATH 2552' or 'MATH 2562' or 'MATH 2X52') and ('PHYS 2212' or 'PHYS 2232'))
+PHYS 3201,Classical Mechanics I,83186,3,(('PHYS 2212' or 'PHYS 2232') and ('MATH 2403' or 'MATH 2413' or 'MATH 24X3' or 'MATH 2552' or 'MATH 2562' or 'MATH 2X52'))
+PHYS 3211,Electronics I,82857,5,('PHYS 2212' or 'PHYS 2232')
+PHYS 3226,Modern Optics Laboratory,89470,2,('PHYS 3225')
+PHYS 3232,Optics I,82267,3,('PHYS 2212')
 PHYS 3806,Special Topics,93381,2,
-PHYS 4142,Statistical Mechanics,86738,3,(PHYS 3141 and PHYS 3143)
-PHYS 4143,Quantum Mechanics II,83841,3,(PHYS 3143)
-PHYS 4147,Relativity,87838,3,(PHYS 3201)
-PHYS 4247,Cosmology,84645,3,(PHYS 3201)
-PHYS 4250,Neurophysics,93492,4,(PHYS 2212 or PHYS 2232)
-PHYS 4251,Biophysics,86214,3,(PHYS 2212 or PHYS 2232)
-PHYS 4267,Nonlinear Dynamics and Chaos,93382,3,(PHYS 3201)
-PHYS 4321,Advanced Laboratory I,80531,3,(PHYS 3143)
+PHYS 4142,Statistical Mechanics,86738,3,('PHYS 3141' and 'PHYS 3143')
+PHYS 4143,Quantum Mechanics II,83841,3,('PHYS 3143')
+PHYS 4147,Relativity,87838,3,('PHYS 3201')
+PHYS 4247,Cosmology,84645,3,('PHYS 3201')
+PHYS 4250,Neurophysics,93492,4,('PHYS 2212' or 'PHYS 2232')
+PHYS 4251,Biophysics,86214,3,('PHYS 2212' or 'PHYS 2232')
+PHYS 4267,Nonlinear Dynamics and Chaos,93382,3,('PHYS 3201')
+PHYS 4321,Advanced Laboratory I,80531,3,('PHYS 3143')
 PHYS 4602,Senior Seminar II,93383,1,
 PHYS 4698,Undergraduate Research Assistantship,82870,1,
 PHYS 4699,Undergraduate Research,86559,1,
-PHYS 4782,Quantum Information and Quantum Computing,86213,3,(MATH 2401 or MATH 2411 or MATH 2601 or MATH 24X1 or MATH 2551 or MATH 2561 or MATH 2X51)
+PHYS 4782,Quantum Information and Quantum Computing,86213,3,('MATH 2401' or 'MATH 2411' or 'MATH 2601' or 'MATH 25X1' or 'MATH 2551' or 'MATH 2561' or 'MATH 2X51')
 PHYS 4801,Special Topics,94522,1,
 POL 1101,Government of the United States,82800,3,
 POL 2101,State and Local Government,90356,3,
 PSYC 1101,General Psychology,93649,3,
-PSYC 2005,Exploring Multicultural Identities,93571,3,(PSYC 1101)
-PSYC 2012,Introduction to Research Methods,93245,3,(PSYC 1101 and (PSYC 2020 or MATH 3215 or MATH 3670 or CEE 3770 or ISYE 3770 or ISYE 2028))
-PSYC 2015,Research Methods,91548,4,(PSYC 1101 and (PSYC 2020 or MATH 3215 or MATH 3670 or CEE 3770 or ISYE 3770 or ISYE 2028))
-PSYC 2020,Psychological Statistics,82517,4,(PSYC 1101 and (MATH 1502 or MATH 1512 or (MATH 15X2 and MATH 1522) and (MATH 1551 and MATH 1552) and (MATH 1551 and MATH 1555)))
-PSYC 2103,Human Development Over the Life Span,91634,3,(PSYC 1101)
-PSYC 2210,Social Psychology,93748,3,(PSYC 1101)
-PSYC 2230,Abnormal Psychology,93749,3,(PSYC 1101)
-PSYC 2240,Personality Theory,93750,3,(PSYC 1101)
+PSYC 2005,Exploring Multicultural Identities,93571,3,('PSYC 1101')
+PSYC 2012,Introduction to Research Methods,93245,3,('PSYC 1101' and ('PSYC 2020' or 'MATH 3215' or 'MATH 3670' or 'CEE 3770' or 'ISYE 3770' or 'ISYE 2028'))
+PSYC 2015,Research Methods,91548,4,('PSYC 1101' and ('PSYC 2020' or 'MATH 3215' or 'MATH 3670' or 'CEE 3770' or 'ISYE 3770' or 'ISYE 2028'))
+PSYC 2020,Psychological Statistics,82517,4,('PSYC 1101' and ('MATH 1502' or 'MATH 1512' or (MATH 15X2 and 'MATH 1522') and (''MATH 1551'' and 'MATH 1552') and (''MATH 1551'' and 'MATH 1555')))
+PSYC 2103,Human Development Over the Life Span,91634,3,('PSYC 1101')
+PSYC 2210,Social Psychology,93748,3,('PSYC 1101')
+PSYC 2230,Abnormal Psychology,93749,3,('PSYC 1101')
+PSYC 2240,Personality Theory,93750,3,('PSYC 1101')
 PSYC 2699,Undergraduate Research,93753,1,
-PSYC 3012,Introduction to Cognitive Psychology,91473,3,(PSYC 1101)
-PSYC 3040,Sensation and Perception,84250,3,(PSYC 1101)
-PSYC 3790,Introduction to Cognitive Science,92874,3,(PSYC 1101)
+PSYC 3012,Introduction to Cognitive Psychology,91473,3,('PSYC 1101')
+PSYC 3040,Sensation and Perception,84250,3,('PSYC 1101')
+PSYC 3790,Introduction to Cognitive Science,92874,3,('PSYC 1101')
 PSYC 3803,Special Topics,93752,3,
 PSYC 3873,Special Topics,89060,3,
-PSYC 4011,Cognitive Psychology,88933,4,(PSYC 2020 and PSYC 2015)
-PSYC 4020,Biopsychology,85671,3,(PSYC 1101 and (BIOL 1520 or BIOL 1521 or NEUR 2001 or  or BIOS 1108 or BIOS 1208) and (BIOS 1208L or BIOS 1108L))
-PSYC 4025,Learning and Memory,91879,3,(PSYC 1101 and PSYC 2015 and PSYC 2020)
-PSYC 4260,Psychology of Aging,93481,3,(PSYC 1101)
-PSYC 4600,Senior Thesis I,83508,3,(PSYC 2015 and PSYC 2020)
-PSYC 4601,Senior Thesis II,90814,4,(PSYC 4600)
+PSYC 4011,Cognitive Psychology,88933,4,('PSYC 2020' and 'PSYC 2015')
+PSYC 4020,Biopsychology,85671,3,('PSYC 1101' and ('BIOL 1520' or 'BIOL 1521' or 'NEUR 2001' or  or 'BIOS 1108' or 'BIOS 1208') and ('BIOS 1208L' or 'BIOS 1108L'))
+PSYC 4025,Learning and Memory,91879,3,('PSYC 1101' and 'PSYC 2015' and 'PSYC 2020')
+PSYC 4260,Psychology of Aging,93481,3,('PSYC 1101')
+PSYC 4600,Senior Thesis I,83508,3,('PSYC 2015' and 'PSYC 2020')
+PSYC 4601,Senior Thesis II,90814,4,('PSYC 4600')
 PSYC 4695,Internship,92069,1,
-PSYC 4697,Psychology Undergraduate Teaching Experience,94093,3,(CETL 2000)
+PSYC 4697,Psychology Undergraduate Teaching Experience,94093,3,('CETL 2000')
 PSYC 4698,Undergraduate Research Assistantship,86620,1,
 PSYC 4699,Undergraduate Research,82307,1,
 PSYC 4803,Research Method:Hum Facto &amp;HCI,93503,3,
 PUBP 1142,Teams and Collaboration,86727,3,
-PUBP 2010,Political Processes,82838,3,(POL 1101 or INTA 1200)
+PUBP 2010,Political Processes,82838,3,('POL 1101' or 'INTA 1200')
 PUBP 2030,Organizations and Policy,84260,3,
-PUBP 2651,Public Policy Internship,89169,1,(POL 1101 or INTA 1200)
+PUBP 2651,Public Policy Internship,89169,1,('POL 1101' or 'INTA 1200')
 PUBP 2695,GT@DC (GAH) Internship,93781,1,
 PUBP 2698,Undergraduate Research Assistantship,89614,1,
 PUBP 3000,American Constitutional Issues,90276,3,
-PUBP 3030,Policy Analysis,83188,3,(PUBP 2010 and PUBP 2030 and ECON 2106)
+PUBP 3030,Policy Analysis,83188,3,('PUBP 2010' and 'PUBP 2030' and 'ECON 2106')
 PUBP 3120,Statistical Analysis for Public Policy,82839,3,
 PUBP 3130,Research Methods and Problem Solving,91139,3,
 PUBP 3201,Introduction to Social Policy,86728,3,
@@ -1114,17 +1114,17 @@ PUBP 3214,African American Politics,92627,3,
 PUBP 3244,"Stem Cell Science, Policy, and Ethics",93546,3,
 PUBP 3502,Information and Communications Technology Policy,92625,3,
 PUBP 3610,Pre-Law Seminar,81403,3,
-PUBP 4010,Policy Task Force I,83468,3,(PUBP 3030 and PUBP 3130 and (PUBP 3120 or MGT 2250))
+PUBP 4010,Policy Task Force I,83468,3,('PUBP 3030' and 'PUBP 3130' and ('PUBP 3120' or 'MGT 2250'))
 PUBP 4111,Internet and Public Policy,93642,3,
 PUBP 4140,Foundations of Leadership,83469,3,
-PUBP 4211,Urban Policy,93168,3,(POL 1101)
+PUBP 4211,Urban Policy,93168,3,('POL 1101')
 PUBP 4212,Women and Public Policy,88647,3,
 PUBP 4410,"Science, Technology, and Public Policy",90159,3,
-PUBP 4609,Legal Practice,92622,3,(PUBP 3000 or PUBP 3610)
+PUBP 4609,Legal Practice,92622,3,('PUBP 3000' or 'PUBP 3610')
 PUBP 4620,Environmental Law,88712,3,
 PUBP 4640,"Technology Law, Policy, and Management",85706,3,
-PUBP 4651,Public Policy Internship,90813,1,(POL 1101 or INTA 1200)
-PUBP 4652,OLA Legal Internship,91811,1,(PUBP 3610 or PUBP 4811)
+PUBP 4651,Public Policy Internship,90813,1,('POL 1101' or 'INTA 1200')
+PUBP 4652,OLA Legal Internship,91811,1,('PUBP 3610' or 'PUBP 4811')
 PUBP 4695,GT@DC (GAH) Internship,93782,1,
 PUBP 4698,Undergraduate Research Assistantship,94758,1,
 PUBP 4699,Undergraduate Research,87946,1,
