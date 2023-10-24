@@ -1,3 +1,10 @@
+'''
+This python file parses through two files:
+1. The html thet I scraped from GT's website, contains course name, subject, number for each course.
+2. The .txt file I generated from the Grouch gitHub which contains prerequisites and credit hours
+All of this information is added to a dictionary, accounting for inconsistencies with formatting
+The final step is uploading the contents of the dictionary to a csv file, titles CourseData.csv
+'''
 # Parse the HTML code
 import pandas as pd
 import re
