@@ -3,16 +3,16 @@ ACCT 2101,Accounting I: Financial Accounting,92054,3,
 ACCT 2102,Accounting II: Managerial Accounting,80636,3,('ACCT 2101')
 AE 1355,Aerospace Systems Design Competition I,81946,3,
 AE 1601,Introduction to Aerospace Engineering,91960,1,('MATH 1501' or 'MATH 1511' or MATH 15X1 or 'MATH 1551')
-AE 2010,AE 2010 Recitation,90611,4,(('MATH 2401' or 'MATH 2411' or 'MATH 25X1' or 'MATH 2551' or 'MATH 2561' or 'MATH 2X51') and ('PHYS 2211' or 'PHYS 2231') and ('CHEM 1310' or 'CHEM 1211K'))
-AE 2011,AR 2011 Recitation,88344,2,('ME 3322')
-AE 2220,AE 2220 Recitation,89983,3,('COE 2001' and ('MATH 2403' or 'MATH 2413' or 'MATH 24X3' or 'MATH 2552' or 'MATH 2562' or 'MATH 2X52'))
-AE 2221,AE 2221 Recitation,89984,1,('COE 2001' or 'CEE 2040' or ('MATH 2552') and ('MATH 2562') and (''MATH 25X2'') and ('MATH 2403') and ('MATH 2413') and ('MATH 24X3'))
+AE 2010,Thermodynamics and Fluids Fundamentals,90611,4,(('MATH 2401' or 'MATH 2411' or 'MATH 25X1' or 'MATH 2551' or 'MATH 2561' or 'MATH 2X51') and ('PHYS 2211' or 'PHYS 2231') and ('CHEM 1310' or 'CHEM 1211K'))
+AE 2011,Fluids Fundamentals,88344,2,('ME 3322')
+AE 2220,Dynamics,89983,3,('COE 2001' and ('MATH 2403' or 'MATH 2413' or 'MATH 24X3' or 'MATH 2552' or 'MATH 2562' or 'MATH 2X52'))
+AE 2221,3D Dynamics,89984,1,('COE 2001' or 'CEE 2040' or ('MATH 2552') and ('MATH 2562') and (''MATH 25X2'') and ('MATH 2403') and ('MATH 2413') and ('MATH 24X3'))
 AE 2355,Aerospace Systems Design Competition II,81947,3,
 AE 2610,Introduction to Experimental Methods in Aerospace,91121,1,('AE 1601' and ('PHYS 2212' or 'PHYS 2232') and ('MATH 2401' or 'MATH 2411' or 'MATH 25X1' or 'MATH 2551' or 'MATH 2561' or 'MATH 2X51') and 'COE 2001')
 AE 2611,Technical Communications for Aerospace Engineers,85073,1,
 AE 2698,Undergraduate Research Assistantship,87174,1,
 AE 2699,Undergraduate Research,84339,1,
-AE 3030,Aerodynamics Recitation,90216,4,('AE 2010')
+AE 3030,Aerodynamics,90216,4,('AE 2010')
 AE 3140,Structural Analysis,85652,3,('COE 3001')
 AE 3330,Introduction to Aerospace Vehicle Performance,85653,3,(('MATH 2403' or 'MATH 2413' or 'MATH 24X3' or 'MATH 2552' or 'MATH 2562' or 'MATH 2X52') and 'AE 3030')
 AE 3355,Aerospace Systems Design Competition III,81948,3,
@@ -73,9 +73,9 @@ ARCH 4803,Hcare Des/Future,87730,3,
 ARCH 4833,Drawing on Nature,90607,3,
 ARCH 4901,Special Problems,94812,1,
 ARCH 4903,Special Problems,92549,1,
-BIOS 1107,BIOS 1107 Recitation,92079,3,
-BIOS 1108,BIOS 1108 Recitation,92746,3,
-BIOS 1207,BIOS 1207 Recitation,89985,3,
+BIOS 1107,Biological Principles,92079,3,
+BIOS 1108,Organismal Biology,92746,3,
+BIOS 1207,Majors Biol Principles,89985,3,
 BIOS 2300,Ecology,88351,3,(('BIOS 1107' and 'BIOS 1107L') and ('BIOS 1207' and 'BIOS 1207L') and 'BIOL 1510' or 'BIOL 1511')
 BIOS 2301,Ecology Laboratory,89035,1,(('BIOS 1107' and 'BIOS 1107L') and ('BIOS 1207' and 'BIOS 1207L') and 'BIOL 1510' or 'BIOL 1511')
 BIOS 2500,Introduction to Sport Science,94546,3,
@@ -161,7 +161,7 @@ CHBE 2100,Chemical Process Principles,80523,3,('CS 1371' and ('CHEM 1310' or 'CH
 CHBE 2140,Chemical Engineering Thermodynamics,93196,4,('CHBE 2100' and 'MATH 2551' and ('BIOL 1510' or  or 'BIOS 1107' or 'BIOS 1207') and ('BIOS 1107L' or 'BIOS 1207L'))
 CHBE 2698,Undergraduate Research Assistantship,81697,1,
 CHBE 2699,Undergraduate Research,84165,1,
-CHBE 2801,Inside ChBE Recitation,89986,1,
+CHBE 2801,Inside ChBE,89986,1,
 CHBE 3130,Chemical Engineering Thermodynamics II,84151,3,('CHBE 2120' and ('CHBE 2130' or 'CHBE 2110') and ('MATH 2401' or 'MATH 2411' or 'MATH 25X1' or 'MATH 2551' or 'MATH 2561' or 'MATH 2X51') and ('MATH 2403' or 'MATH 2413' or 'MATH 24X3' or 'MATH 2552' or 'MATH 2562' or 'MATH 2X52'))
 CHBE 3200,Transport Process I,91420,3,(('CHBE 2110' or 'CHBE 2130') and 'CHBE 2120' and ('MATH 2401' or 'MATH 2411' or 'MATH 25X1' or 'MATH 2551' or 'MATH 2561' or 'MATH 2X51') and ('MATH 2403' or 'MATH 2413' or 'MATH 24X3' or 'MATH 2552' or 'MATH 2562' or 'MATH 2X52') and 'PHYS 2211')
 CHBE 3205,Fluid Mechanics,93197,2,('CHBE 2100' and ('MATH 2551' or 'MATH 2561' or 'MATH 2X51') and 'PHYS 2211' and ('MATH 2552' or 'MATH 2562' or 'MATH 2X52'))
@@ -188,7 +188,7 @@ CHEM 1211,Chemical Principles I,93372,0,
 CHEM 1212,Chemical Principles II,93368,0,
 CHEM 1310,Principles of General Chemistry for Engineers,83427,4,
 CHEM 1315,Survey of Organic Chemistry for Engineers,91620,3,('CHEM 1211K' or 'CHEM 1310')
-CHEM 2216,Quantitative Chemical Analysis Recitation,91075,2,('CHEM 1212K')
+CHEM 2216,Quantitative Chemical Analysis,91075,2,('CHEM 1212K')
 CHEM 2311,Organic Chemistry I,91101,3,('CHEM 1311' or 'CHEM 1212K')
 CHEM 2312,Organic Chemistry II,90825,3,('CHEM 2311')
 CHEM 2380,Synthesis Laboratory I,90272,2,(('CHEM 1212K' or 'CHEM 1312' or 'CHEM 1313' or 'CHEM 2211') and 'CHEM 2311' and ('CHEM 2312' or 'CHEM 2313'))
@@ -287,17 +287,17 @@ CX 4242,Data and Visual Analytics,84626,3,(('MATH 2605' or 'MATH 2401' or 'MATH 
 CX 4640,Numerical Analysis I,84400,3,('MATH 2403' or 'MATH 2413' or 'MATH 24X3' or 'MATH 2602' or 'MATH 2603' or 'MATH 2552' or 'MATH 2562' or 'MATH 2X52')
 CX 4803,Comput Found of Machine Learn,92783,3,
 CS 1100,Freshman Leap Seminar,89082,1,
-CS 1301,Introduction to Computing for Computer Science Recitation,93548,3,
-CS 1315,CS 1315 Recitation,90736,3,
-CS 1331,CS 1331 Recitation,93551,3,('CS 1301' or 'CS 1315' or 'CS 1321' or 'CS 1371')
-CS 1332,CS 1332 Recitation,90040,3,('CS 1322' or 'CS 1331')
-CS 1371,CS 1371 Recitation,92037,3,
-CS 2050,CS 2050 Recitation,90054,3,
-CS CS 2051,Honors Induction to Discrete Mathematics for Computer Science,92818,0,
+CS 1301,Introduction to Computing for Computer Science,93548,3,
+CS 1315,Intro Media Computation,90736,3,
+CS 1331,Introduction to Object-Oriented Programming with Java,93551,3,('CS 1301' or 'CS 1315' or 'CS 1321' or 'CS 1371')
+CS 1332,Data Structures & Algorithms,90040,3,('CS 1322' or 'CS 1331')
+CS 1371,Computing for Engineers,92037,3,
+CS 2050,Introduction to Discrete Mathematics,90054,3,
+CS 2051,Honors Induction to Discrete Mathematics for Computer Science,92818,0,
 CS 2110,Computer Organization and Programming,88340,4,('CS 1331')
 CS 2200,Computer Systems and Networks,93991,4,('CS 2110' or ('ECE 2020' and 'ECE 2035'))
 CS 2261,Media Device Architectures,88295,4,('CS 1331')
-CS 2316,CS 2316 Recitation,90068,3,('CS 1371' or 'CS 1301' or 'CS 1315')
+CS 2316,Data Input/Manipulation,90068,3,('CS 1371' or 'CS 1301' or 'CS 1315')
 CS 2340,Objects and Design,86514,3,('CS 1331' or 'CS 1372' or 'CS 1316')
 CS 2698,Undergraduate Research Assistantship,90716,1,
 CS 2699,Undergraduate Research,91741,1,
@@ -333,7 +333,7 @@ CS 4290,Advanced Computer Organization,82539,3,('CS 2200' or 'ECE 3057' or 'ECE 
 CS 4400,Introduction to Database Systems,80214,3,('CS 1301' or 'CS 1315' or 'CS 1371')
 CS 4420,Database System Implementation,91706,3,('CS 1332' and ('CS 2200' or 'ECE 3057' or 'ECE 3058') and 'CS 4400')
 CS 4455,Video Game Design and Programming,94381,3,('CS 3451')
-CS 4460,CS 4460 Recitation,94159,3,('CS 1332')
+CS 4460,Introduction to Information Visualization,94159,3,('CS 1332')
 CS 4470,Introduction to User Interface Software,86683,3,('CS 2340' and ('CS 3750' or 'PSYC 3750'))
 CS 4476,Introduction to Computer Vision,94383,3,(('MATH 2605' or 'MATH 2401' or 'MATH 25X1' or 'MATH 2411' or 'MATH 2550' or 'MATH 2551' or 'MATH 2561' or 'MATH 2X51') and ('MATH 1553' or MATH 1X54 or 'MATH 1554' or 'MATH 1564') or 'CS 2110' or 'CS 2261')
 CS 4496,Computer Animation,89366,3,('CS 3451')
@@ -888,7 +888,7 @@ MATH 2551,Multivariable Calculus,91632,4,('MATH 1502' or 'MATH 1512' or 'MATH 15
 MATH 2552,Differential Equations,89580,4,('MATH 1502' or 'MATH 1512' or 'MATH 1504' or 'MATH 1555' or  or 'MATH 1552' or MATH 15X2 or MATH 1X52)
 MATH 2603,Introduction to Discrete Mathematics,85148,4,('MATH 1502' or 'MATH 1512' or 'MATH 1504' or 'MATH 1555' or 'MATH 1552' or MATH 15X2 or MATH 1X52)
 MATH 2699,Undergraduate Research,89969,1,
-MATH 3012,Applied Combinatorics Recitation,92993,3,('MATH 1502' or 'MATH 1512' or 'MATH 1504' or 'MATH 1555' or  or 'MATH 1552' or MATH 15X2 or MATH 1X52)
+MATH 3012,Applied Combinatorics,92993,3,('MATH 1502' or 'MATH 1512' or 'MATH 1504' or 'MATH 1555' or  or 'MATH 1552' or MATH 15X2 or MATH 1X52)
 MATH 3215,Introduction to Probability and Statistics,91095,3,('MATH 2401' or 'MATH 2411' or 'MATH 25X1' or 'MATH 2605' or 'MATH 2551' or 'MATH 2561' or 'MATH 2550' or 'MATH 2X51')
 MATH 3235,Probability Theory,91402,3,(('MATH 2551' or 'MATH 2X51' or 'MATH 2561' or 'MATH 2401' or 'MATH 25X1' or 'MATH 2411' or 'MATH 2605' or 'MATH 2550') and ('MATH 2106' or 'MATH 3012' or 'CS 2051'))
 MATH 3406,A Second Course in Linear Algebra,93497,3,('MATH 1502' or 'MATH 1512' or 'MATH 1522' or 'MATH 1553' or MATH 1X54 or 'MATH 1554' or 'MATH 1564' or MATH 1X53)
@@ -919,18 +919,18 @@ MATH 4999,Reading or Research,91702,1,
 ME 1670,Introduction to Engineering Graphics and Design,91361,0,
 ME 2016,Computer Applications,93837,3,(('CS 1371' or ('CS 1301' and ''''''CS 1171'''''') and ('CS 1311' and ''''''CS 1171'''''') and (CS 13X1 and ''''''CS 1171'''''') and (CS 13X2 and ''''''CS 1171'''''') and (CS 17XX and ''''''CS 1171'''''') and (CS 15XX and ''''''CS 1171'''''')) and ('MATH 1552' or MATH 1X52 or ''MATH 1502'' or ''MATH 1512'' or MATH 15X2) and ('MATH 1553' or 'MATH 1564' or 'MATH 1554' or ''MATH 1502'' or ''MATH 1512'') and ('MATH 2552' or 'MATH 2X52' or 'MATH 2562' or 'MATH 2403' or 'MATH 2413' or 'MATH 24X3'))
 ME 2110,Creative Decisions and Design,94129,3,(('AE 1770' or 'CEE 1770' or 'ME 1770') and 'COE 2001')
-ME 2202,ME 2202 Recitation,94345,3,('COE 2001')
+ME 2202,Dynamics of Rigid Bodies,94345,3,('COE 2001')
 ME 2205,Three-dimensional rigid body dynamics,87901,1,('COE 2001' and 'CEE 2040' and 'MATH 1553')
 ME 2698,Undergraduate Research Assistantship,86585,1,
 ME 2699,Undergraduate Research,83731,1,
 ME 2803,Engr. Global Sustainable Dev.,93547,3,
-ME 3017,ME 3017 Recitation,94355,3,(('MATH 2552' or 'MATH 2X52' or 'MATH 2403' or 'MATH 2413' or 'MATH 24X3' or 'MATH 2562') and ('ME 2202' or 'AE 2220') and 'ME 2016' and ('ECE 3710' or 'ECE 2040'))
+ME 3017,System Dynamics,94355,3,(('MATH 2552' or 'MATH 2X52' or 'MATH 2403' or 'MATH 2413' or 'MATH 24X3' or 'MATH 2562') and ('ME 2202' or 'AE 2220') and 'ME 2016' and ('ECE 3710' or 'ECE 2040'))
 ME 3057,Experimental Methodology and Technical Writing,81974,3,(('ME 3340' or 'CEE 3040') and 'COE 3001' and ('ME 3015' or 'ME 3017' or 'AE 3515') and 'ME 3345' and ('MATH 3770' or 'MATH 3670' or 'ISYE 3770' or 'CEE 3770'))
 ME 3180,Machine Design,82300,3,(('AE 1770' or 'CEE 1770' or 'ME 1770') and 'ME 2110' and 'COE 3001')
 ME 3210,"Design, Materials, and Manufacture",85063,3,('ME 2110' and 'MSE 2001' and 'COE 3001')
-ME 3322,ME 3322 Recitation,94357,3,(('PHYS 2211' or 'PHYS 2231') and ('MATH 2403' or 'MATH 24X3' or 'MATH 2413' or 'MATH 2552' or 'MATH 2X52' or 'MATH 2562'))
-ME 3340,ME 3340 Recitation,94363,3,(('ME 2202' or 'AE 2220' or 'NRE 2110' or 'NRE 3301' or 'MSE 3005' or 'PTFE 2200') and ('ME 3322' or 'CHEM 3411' or 'MSE 3001') and ('MATH 2401' or 'MATH 2411' or 'MATH 25X1' or 'MATH 2551' or 'MATH 2X51' or 'MATH 2561') and ('MATH 2403' or 'MATH 2413' or 'MATH 24X3' or 'MATH 2552' or 'MATH 2562' or 'MATH 2X52') and 'COE 2001')
-ME 3345,ME 3345 Recitation,94372,3,(('MATH 2403' or 'MATH 2413' or 'MATH 24X3' or 'MATH 2552' or 'MATH 2X52' or 'MATH 2562') and ('ME 3340' or 'CEE 3040') and 'ME 3322')
+ME 3322,Thermodynamics,94357,3,(('PHYS 2211' or 'PHYS 2231') and ('MATH 2403' or 'MATH 24X3' or 'MATH 2413' or 'MATH 2552' or 'MATH 2X52' or 'MATH 2562'))
+ME 3340,Fluid Mechanics,94363,3,(('ME 2202' or 'AE 2220' or 'NRE 2110' or 'NRE 3301' or 'MSE 3005' or 'PTFE 2200') and ('ME 3322' or 'CHEM 3411' or 'MSE 3001') and ('MATH 2401' or 'MATH 2411' or 'MATH 25X1' or 'MATH 2551' or 'MATH 2X51' or 'MATH 2561') and ('MATH 2403' or 'MATH 2413' or 'MATH 24X3' or 'MATH 2552' or 'MATH 2562' or 'MATH 2X52') and 'COE 2001')
+ME 3345,Heat Transfer,94372,3,(('MATH 2403' or 'MATH 2413' or 'MATH 24X3' or 'MATH 2552' or 'MATH 2X52' or 'MATH 2562') and ('ME 3340' or 'CEE 3040') and 'ME 3322')
 ME 3743,Analysis of Emerging Technologies,82738,3,
 ME 4011,Internal Combustion Engines,82535,3,('ME 3345')
 ME 4012,Modeling and Control of Motion Systems,87632,3,('ME 3015' or 'ME 3017' or 'AE 3515')
@@ -1004,7 +1004,7 @@ NS 3323,Evolution of Warfare,91373,3,
 NS 3325,Naval Weapons Systems,81799,3,
 NS 4320,Naval Operations and Seamanship,87736,3,
 NS 4333,Fundamentals of Maneuver Warfare,93301,3,
-NEUR 2001,Introduction to Neuroscience Recitation,90071,4,('PSYC 1101' and ('BIOL 1510' or  or 'BIOS 1107' or 'BIOS 1207') and ('BIOS 1107L' or 'BIOS 1207L'))
+NEUR 2001,Introduction to Neuroscience,90071,4,('PSYC 1101' and ('BIOL 1510' or  or 'BIOS 1107' or 'BIOS 1207') and ('BIOS 1107L' or 'BIOS 1207L'))
 NEUR 2698,Undergraduate Research Assistantship,89976,1,
 NEUR 2699,Undergraduate Research,89374,1,
 NEUR 3001,Cell and Molecular Neuroscience,90210,3,('NEUR 2001')
